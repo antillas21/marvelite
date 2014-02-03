@@ -17,6 +17,10 @@ module Marvelite
         "public/characters/#{id}/events"
       end
 
+      def character_series_path(id)
+        "public/characters/#{id}/series"
+      end
+
       def character_stories_path(id)
         "public/characters/#{id}/stories"
       end

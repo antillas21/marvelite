@@ -32,6 +32,26 @@ module Marvelite
         Response.new(response)
       end
 
+      def character_comics(id, query_params = {})
+        response = self.class.get("/#{api_version}/#{router.character_comics_path(id)}", :query => params(query_params))
+        Response.new(response)
+      end
+
+      def character_events(id, query_params = {})
+        response = self.class.get("/#{api_version}/#{router.character_events_path(id)}", :query => params(query_params))
+        Response.new(response)
+      end
+
+      def character_series(id, query_params = {})
+        response = self.class.get("/#{api_version}/#{router.character_series_path(id)}", :query => params(query_params))
+        Response.new(response)
+      end
+
+      def character_stories(id, query_params = {})
+        response = self.class.get("/#{api_version}/#{router.character_stories_path(id)}", :query => params(query_params))
+        Response.new(response)
+      end
+
       private
       def params(additional_params = {})
         base_hash = { :apikey => public_key, :ts => ts, :hash => request_hash }

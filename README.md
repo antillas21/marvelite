@@ -42,7 +42,10 @@ client = Marvelite::API::Client.new(:public_key => 'abcd1234', :private_key => '
 | ------ | ----------- |
 | [#characters](#characters) | Fetches a list of comic characters. |
 | [#character](#character) | Fetches a single character resource. |
-
+| [#character_comics](#character_comics) | Fetches a list of comics containing a specific character. |
+| [#character_events](#character_events) | Fetches a list of events in which a specific character appears. |
+| [#character_series](#character_series) | Fetches a list of comic series in which a specific character appears. |
+| [#character_stories](#character_stories) | Fetches a list of comic stories featuring a specific character. |
 
 #### characters
 Fetches a list of comic characters. Can receive optional params.
@@ -57,12 +60,67 @@ See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#
 
 #### character
 
-Fetches a single character resource. Accepts an integer or string value.
+Fetches a single character resource. Accepts an integer or string value as character id.
 
 ```ruby
-client.character(1009368)
-client.character('Iron Man')
+client.character(1009610)
+client.character('Spider-Man')
 ```
+
+#### character_comics
+
+Fetches a list of comics containing a specific character. Requires a character id value (integer). Accepts optional params.
+
+```ruby
+client.character_comics(1009610)
+client.character_comics(
+  1009610,
+  { :format => 'graphic novel', :limit => 10, :orderBy => 'title' }
+)
+```
+
+See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#!/public/getComicsCharacterCollection_get_2) for a complete list of params that you can pass to the `#character_comics` method.
+
+#### character_events
+
+Fetches a list of events in which a specific character appears. Requires a character id value (integer). Accepts optional params.
+
+```ruby
+client.character_events(1009610)
+client.character_events(
+  1009610,
+  { :limit => 10, :orderBy => 'name' }
+)
+```
+
+See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#!/public/getCharacterEventsCollection_get_3) for a complete list of params that you can pass to the `#character_events` method.
+
+
+#### character_series
+
+Fetches a list of comic series in which a specific character appears. Requires a character id value (integer). Accepts optional params.
+
+```ruby
+client.character_series(1009610)
+client.character_series(
+  1009610,
+  { :seriesType => 'ongoing', :limit => 10, :orderBy => 'title' }
+)
+```
+
+See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#!/public/getCharacterSeriesCollection_get_4) for a complete list of params that you can pass to the `#character_series` method.
+
+
+#### character_stories
+
+Fetches a list of comic stories featuring a specific character. Requires a character id value (integer). Accepts optional params.
+
+```ruby
+client.character_stories(1009610)
+client.character_stories(1009610, { :limit => 10, :offset => 20 })
+```
+
+See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#!/public/getCharacterStoryCollection_get_5) for a complete list of params that you can pass to the `#character_stories` method.
 
 ## Responses
 
