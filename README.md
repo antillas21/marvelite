@@ -2,6 +2,9 @@
 
 Simple wrapper to communicate with the Marvel Comics API.
 
+
+> **Important:** This is a work in progress. There's only two endpoints to connect to. I am working into incorporating all of Marvel Comics API endpoints.
+
 ## Installation
 
 Add this line to your application's Gemfile:
