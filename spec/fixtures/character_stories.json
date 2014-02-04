@@ -1,0 +1,1664 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "etag": "42e4f4f333ac91ecf2cd72f6951a84ffc1df431d",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 3955,
+    "count": 20,
+    "results": [
+      {
+        "id": 483,
+        "title": "Interior #483",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/483",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/483/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+              "name": "Scott Hanna",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "penciller"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/483/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 483
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/483/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3340",
+              "name": "Amazing Spider-Man (1999) #30"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/483/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/3340",
+          "name": "Amazing Spider-Man (1999) #30"
+        }
+      },
+      {
+        "id": 486,
+        "title": "Cover #486",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/486",
+        "type": "cover",
+        "modified": "2012-11-26T12:18:57-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/486/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/486/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 486
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2",
+              "name": "Amazing Spider-Man Vol. II: Revelations (2002)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/486/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3583",
+              "name": "Amazing Spider-Man (1999) #30"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/937",
+              "name": "Amazing Spider-Man Vol. II: Revelations (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/486/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/3583",
+          "name": "Amazing Spider-Man (1999) #30"
+        }
+      },
+      {
+        "id": 487,
+        "title": "Interior #487",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/487",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/487/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6694",
+              "name": "Wes Abbot",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+              "name": "Scott Hanna",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/363",
+              "name": "Dan Kemp",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "penciller"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/487/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 487
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2",
+              "name": "Amazing Spider-Man Vol. II: Revelations (2002)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/487/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3583",
+              "name": "Amazing Spider-Man (1999) #30"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/937",
+              "name": "Amazing Spider-Man Vol. II: Revelations (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/487/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/3583",
+          "name": "Amazing Spider-Man (1999) #30"
+        }
+      },
+      {
+        "id": 499,
+        "title": "Interior #499",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/499",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/499/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4627",
+              "name": "Roberto Aguirre-Sacasa",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/372",
+              "name": "Angel Medina",
+              "role": "penciller"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/499/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 499
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/722",
+              "name": "Sensational Spider-Man (2006 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1803",
+              "name": "Sensational Spider-Man: Feral Premiere (2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/499/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3624",
+              "name": "Sensational Spider-Man (2006) #23"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5268",
+              "name": "Sensational Spider-Man: Feral Premiere (Hardcover)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/499/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/3624",
+          "name": "Sensational Spider-Man (2006) #23"
+        }
+      },
+      {
+        "id": 599,
+        "title": "Interior #599",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/599",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/599/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/415",
+              "name": "Derec Aucoin",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/414",
+              "name": "Colin Mitchell",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/599/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 599
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/695",
+              "name": "Spider-Man/Doctor Octopus: Out of Reach (2004)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/599/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/184",
+              "name": "Spider-Man/Doctor Octopus: Out of Reach (2004) #4"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/599/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/184",
+          "name": "Spider-Man/Doctor Octopus: Out of Reach (2004) #4"
+        }
+      },
+      {
+        "id": 805,
+        "title": "Interior #805",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/805",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/805/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/465",
+              "name": "Paul Azaceta",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/257",
+              "name": "Rick Mays",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/463",
+              "name": "Adam Higgs",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/464",
+              "name": "J.t. Krul",
+              "role": "writer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/805/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 805
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1169",
+              "name": "Spider-Man Maximum Carnage (2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/711",
+              "name": "Spider-Man Unlimited (2004 - 2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/805/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1404",
+              "name": "Spider-Man Maximum Carnage (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/395",
+              "name": "Spider-Man Unlimited (2004) #2"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/805/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/151",
+              "name": "Maximum Carnage"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/395",
+          "name": "Spider-Man Unlimited (2004) #2"
+        }
+      },
+      {
+        "id": 824,
+        "title": "Cover #824",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/824",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/824/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+              "name": "Ron Frenz",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/824/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009287",
+              "name": "Electro"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009609",
+              "name": "Spider-Girl (May Parker)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 824
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2234",
+              "name": "Amazing Spider-Girl Vol. 1: Whatever Happened to the Daughter of Spider-Man (2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/417",
+              "name": "Spider-Girl (1998 - 2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/824/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13519",
+              "name": "Amazing Spider-Girl Vol. 1: Whatever Happened to the Daughter of Spider-Man (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1434",
+              "name": "Spider-Girl (1998) #81"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/824/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1434",
+          "name": "Spider-Girl (1998) #81"
+        }
+      },
+      {
+        "id": 838,
+        "title": "3 of 3 - Family Business",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/838",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/838/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+              "name": "Ron Frenz",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/838/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009609",
+              "name": "Spider-Girl (May Parker)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 838
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2234",
+              "name": "Amazing Spider-Girl Vol. 1: Whatever Happened to the Daughter of Spider-Man (2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/417",
+              "name": "Spider-Girl (1998 - 2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/838/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13519",
+              "name": "Amazing Spider-Girl Vol. 1: Whatever Happened to the Daughter of Spider-Man (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2223",
+              "name": "Spider-Girl (1998) #88"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/838/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/2223",
+          "name": "Spider-Girl (1998) #88"
+        }
+      },
+      {
+        "id": 842,
+        "title": "1 of 1 -  Secret of the Spider Shop",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/842",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/842/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+              "name": "Ron Frenz",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/842/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009609",
+              "name": "Spider-Girl (May Parker)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 842
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2234",
+              "name": "Amazing Spider-Girl Vol. 1: Whatever Happened to the Daughter of Spider-Man (2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/417",
+              "name": "Spider-Girl (1998 - 2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/842/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13519",
+              "name": "Amazing Spider-Girl Vol. 1: Whatever Happened to the Daughter of Spider-Man (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2468",
+              "name": "Spider-Girl (1998) #91"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/842/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/2468",
+          "name": "Spider-Girl (1998) #91"
+        }
+      },
+      {
+        "id": 867,
+        "title": "Interior #867",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/867",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/867/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/218",
+              "name": "Keron Grant",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/414",
+              "name": "Colin Mitchell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/470",
+              "name": "Robert Stull",
+              "role": "inker"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/867/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 867
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/695",
+              "name": "Spider-Man/Doctor Octopus: Out of Reach (2004)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/867/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/186",
+              "name": "Spider-Man/Doctor Octopus: Out of Reach (2004) #1"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/867/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/186",
+          "name": "Spider-Man/Doctor Octopus: Out of Reach (2004) #1"
+        }
+      },
+      {
+        "id": 1018,
+        "title": "Cover #1018",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1018",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1018/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11559",
+              "name": "Jeff Scott Campbell",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1018/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009276",
+              "name": "Doctor Octopus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009708",
+              "name": "Mary Jane Watson"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009325",
+              "name": "Norman Osborn"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009692",
+              "name": "Toxin (Eddie Brock)"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 1018
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/318",
+              "name": "Amazing Spider-Man Vol. 6 (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1018/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/277",
+              "name": "Amazing Spider-Man (1999) #500"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1262",
+              "name": "Amazing Spider-Man Vol. 6 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1018/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/277",
+          "name": "Amazing Spider-Man (1999) #500"
+        }
+      },
+      {
+        "id": 1019,
+        "title": "Interior #1019",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1019",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1019/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+              "name": "Scott Hanna",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "penciller"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1019/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009276",
+              "name": "Doctor Octopus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009325",
+              "name": "Norman Osborn"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009692",
+              "name": "Toxin (Eddie Brock)"
+            }
+          ],
+          "returned": 4
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 1019
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/318",
+              "name": "Amazing Spider-Man Vol. 6 (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1019/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/277",
+              "name": "Amazing Spider-Man (1999) #500"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1262",
+              "name": "Amazing Spider-Man Vol. 6 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1019/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/277",
+          "name": "Amazing Spider-Man (1999) #500"
+        }
+      },
+      {
+        "id": 1020,
+        "title": "Cover #1020",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1020",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1020/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/212",
+              "name": "Jason Pearson",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1020/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 1020
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/318",
+              "name": "Amazing Spider-Man Vol. 6 (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1020/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/322",
+              "name": "Amazing Spider-Man (1999) #501"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1262",
+              "name": "Amazing Spider-Man Vol. 6 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1020/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/322",
+          "name": "Amazing Spider-Man (1999) #501"
+        }
+      },
+      {
+        "id": 1021,
+        "title": "Interior #1021",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1021",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1021/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+              "name": "Scott Hanna",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "penciller"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1021/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 1021
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/318",
+              "name": "Amazing Spider-Man Vol. 6 (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1021/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/322",
+              "name": "Amazing Spider-Man (1999) #501"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1262",
+              "name": "Amazing Spider-Man Vol. 6 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1021/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/322",
+          "name": "Amazing Spider-Man (1999) #501"
+        }
+      },
+      {
+        "id": 1022,
+        "title": "Cover #1022",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1022",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1022/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1022/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 1022
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/318",
+              "name": "Amazing Spider-Man Vol. 6 (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1022/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/392",
+              "name": "Amazing Spider-Man (1999) #502"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1262",
+              "name": "Amazing Spider-Man Vol. 6 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1022/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/392",
+          "name": "Amazing Spider-Man (1999) #502"
+        }
+      },
+      {
+        "id": 1023,
+        "title": "Interior #1023",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1023",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1023/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+              "name": "Scott Hanna",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "penciller"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1023/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 1023
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/318",
+              "name": "Amazing Spider-Man Vol. 6 (2004)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1023/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/392",
+              "name": "Amazing Spider-Man (1999) #502"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1262",
+              "name": "Amazing Spider-Man Vol. 6 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1023/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/392",
+          "name": "Amazing Spider-Man (1999) #502"
+        }
+      },
+      {
+        "id": 1076,
+        "title": "4 of 4 - Golden Age",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1076",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1076/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/25",
+              "name": "Alex Maleev",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1076/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 1076
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/449",
+              "name": "Daredevil (1998 - 2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1214",
+              "name": "Daredevil Vol. 11: Golden Age (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1076/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1518",
+              "name": "Daredevil (1998) #69"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1823",
+              "name": "Daredevil Vol. 11: Golden Age (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1076/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1518",
+          "name": "Daredevil (1998) #69"
+        }
+      },
+      {
+        "id": 1125,
+        "title": "6 of 6 - Sins Past",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1125",
+        "type": "cover",
+        "modified": "2010-11-05T20:05:06-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1125/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+              "name": "Mike Deodato",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1125/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 1125
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1283",
+              "name": "Amazing Spider-Man Vol. 8: Sins Past (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1125/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6",
+              "name": "Amazing Spider-Man (1999) #514"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1548",
+              "name": "Amazing Spider-Man Vol. 8: Sins Past (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1125/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6",
+          "name": "Amazing Spider-Man (1999) #514"
+        }
+      },
+      {
+        "id": 1126,
+        "title": "6 of 6 - Sins Past",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1126",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1126/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+              "name": "Mike Deodato",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+              "name": "Randy Gentile",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+              "name": "Matt Milla",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/513",
+              "name": "Jose Pimentel",
+              "role": "inker"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1126/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 1126
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1283",
+              "name": "Amazing Spider-Man Vol. 8: Sins Past (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1126/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6",
+              "name": "Amazing Spider-Man (1999) #514"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1548",
+              "name": "Amazing Spider-Man Vol. 8: Sins Past (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1126/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6",
+          "name": "Amazing Spider-Man (1999) #514"
+        }
+      },
+      {
+        "id": 1134,
+        "title": "Interior #1134",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1134",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1134/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/516",
+              "name": "Troy Hickman",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/517",
+              "name": "Dave Simons",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/518",
+              "name": "Al Vey",
+              "role": "inker"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1134/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 1134
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/458",
+              "name": "Actor Presents Spider-Man and the Incredible Hulk (2003)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1134/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/320",
+              "name": "Actor Presents Spider-Man and the Incredible Hulk (2003) #1"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1134/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/320",
+          "name": "Actor Presents Spider-Man and the Incredible Hulk (2003) #1"
+        }
+      }
+    ]
+  }
+}
