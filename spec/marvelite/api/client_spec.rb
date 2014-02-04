@@ -62,6 +62,26 @@ describe Marvelite::API::Client do
     end
   end
 
+  context "helper methods" do
+    describe '#find_character_by_name' do
+      let(:client) { marvelite_test_client }
+
+      before do
+        stub_get('characters?name=Spider-Man&apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'character.json')
+      end
+
+      it 'retrieves a character through its name' do
+        response = client.send(:find_character_by_name, 'Spider-Man')
+        expect(response[:data][:results][0][:id]).to eq(1009610)
+      end
+
+      it 'can call character.id to the response' do
+        character = client.send(:find_character_by_name, 'Spider-Man')
+        expect(character.id).to eq(1009610)
+      end
+    end
+  end
+
 
   context "Character Endpoints" do
     let(:client) { marvelite_test_client }
@@ -120,6 +140,11 @@ describe Marvelite::API::Client do
       it 'accepts an Integer as character id' do
         expect(client.character_comics(1009610)[:data][:results][0][:title]).to eq('Superior Spider-Man (2013) #22')
       end
+
+      it 'accetps a String as character id' do
+        expect(client.character_comics('Spider-Man')["status"]).to eq("Ok")
+        expect(client.character_comics('Spider-Man')[:data][:results].size).to eq(20)
+      end
     end
 
     describe '#character_events' do
@@ -138,6 +163,11 @@ describe Marvelite::API::Client do
 
       it 'accepts an Integer as character id' do
         expect(client.character_events(1009610)[:data][:results][0][:title]).to eq('Acts of Vengeance!')
+      end
+
+      it 'accetps a String as character id' do
+        expect(client.character_comics('Spider-Man')["status"]).to eq("Ok")
+        expect(client.character_comics('Spider-Man')[:data][:results].size).to eq(20)
       end
     end
 
@@ -158,6 +188,11 @@ describe Marvelite::API::Client do
       it 'accepts an Integer as character id' do
         expect(client.character_series(1009610)[:data][:results][0][:title]).to eq('A+X (2012 - Present)')
       end
+
+      it 'accetps a String as character id' do
+        expect(client.character_comics('Spider-Man')["status"]).to eq("Ok")
+        expect(client.character_comics('Spider-Man')[:data][:results].size).to eq(20)
+      end
     end
 
     describe '#character_stories' do
@@ -176,6 +211,11 @@ describe Marvelite::API::Client do
 
       it 'accepts an Integer as character id' do
         expect(client.character_stories(1009610)[:data][:results][0][:title]).to eq('Interior #483')
+      end
+      
+      it 'accetps a String as character id' do
+        expect(client.character_comics('Spider-Man')["status"]).to eq("Ok")
+        expect(client.character_comics('Spider-Man')[:data][:results].size).to eq(20)
       end
     end
   end

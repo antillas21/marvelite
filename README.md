@@ -33,7 +33,10 @@ Please register first in the [Marvel Comics Developer Portal](http://developer.m
 ### Instantiate a client
 
 ```ruby
-client = Marvelite::API::Client.new(:public_key => 'abcd1234', :private_key => '5678efgh')
+client = Marvelite::API::Client.new(
+  :public_key => 'abcd1234',
+  :private_key => '5678efgh'
+)
 ```
 
 ### Methods
@@ -69,12 +72,17 @@ client.character('Spider-Man')
 
 #### character_comics
 
-Fetches a list of comics containing a specific character. Requires a character id value (integer). Accepts optional params.
+Fetches a list of comics containing a specific character. Requires a character id value (integer or string). Accepts optional params.
 
 ```ruby
 client.character_comics(1009610)
+client.character_comics('Spider-Man')
 client.character_comics(
   1009610,
+  { :format => 'graphic novel', :limit => 10, :orderBy => 'title' }
+)
+client.character_comics(
+  'Spider-Man',
   { :format => 'graphic novel', :limit => 10, :orderBy => 'title' }
 )
 ```
@@ -83,12 +91,17 @@ See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#
 
 #### character_events
 
-Fetches a list of events in which a specific character appears. Requires a character id value (integer). Accepts optional params.
+Fetches a list of events in which a specific character appears. Requires a character id value (integer or string). Accepts optional params.
 
 ```ruby
 client.character_events(1009610)
+client.character_events('Spider-Man')
 client.character_events(
   1009610,
+  { :limit => 10, :orderBy => 'name' }
+)
+client.character_events(
+  'Spider-Man',
   { :limit => 10, :orderBy => 'name' }
 )
 ```
@@ -98,12 +111,17 @@ See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#
 
 #### character_series
 
-Fetches a list of comic series in which a specific character appears. Requires a character id value (integer). Accepts optional params.
+Fetches a list of comic series in which a specific character appears. Requires a character id value (integer or string). Accepts optional params.
 
 ```ruby
 client.character_series(1009610)
+client.character_series('Spider-Man')
 client.character_series(
   1009610,
+  { :seriesType => 'ongoing', :limit => 10, :orderBy => 'title' }
+)
+client.character_series(
+  'Spider-Man',
   { :seriesType => 'ongoing', :limit => 10, :orderBy => 'title' }
 )
 ```
@@ -113,18 +131,20 @@ See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#
 
 #### character_stories
 
-Fetches a list of comic stories featuring a specific character. Requires a character id value (integer). Accepts optional params.
+Fetches a list of comic stories featuring a specific character. Requires a character id value (integer or string). Accepts optional params.
 
 ```ruby
 client.character_stories(1009610)
+client.character_stories('Spider-Man')
 client.character_stories(1009610, { :limit => 10, :offset => 20 })
+client.character_stories('Spider-Man', { :limit => 10, :offset => 20 })
 ```
 
 See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#!/public/getCharacterStoryCollection_get_5) for a complete list of params that you can pass to the `#character_stories` method.
 
 ## Responses
 
-All requests to the API, return a `Marvelite::API::Response` object, that is nothing more than the raw API response enhanced with Hashie methods.
+All requests to the API, return a `Marvelite::API::Response` object if successful or a `Marvelite::API::ErrorResponse` if API response returns an error. These objects are nothing more than the raw API response enhanced with Hashie methods.
 
 This way you gain several adavantages to manipulate the response, like:
 
