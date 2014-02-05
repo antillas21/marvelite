@@ -1,5 +1,14 @@
 ## Changelog
 
+### 0.0.4
+* Adds the following endpoints:
+  * retrieve comics by connecting to the API's `/comics` endpoint
+  * retieve a comic by connecting to the API's `/comics/:id` enpoint
+  * retrieve comic characters by connecting to the API's `/comics/:id/characters` endpoint.
+  * retrieve comic creators by connecting to the API's `/comics/:id/creators` endpoint.
+  * retrieve comic events by connecting to the API's `/comics/:id/events` endpoint.
+  * retrieve comic stories by connecting to the API's `/comics/:id/stories` endpoint.
+
 ### 0.0.3
 * Adds basic testing setup
 * Adds the ability to retrieve:
