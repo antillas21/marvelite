@@ -16,8 +16,8 @@ module Marvelite
 
       def initialize(attrs)
         super
-        @router = attrs.fetch(:router) { Marvelite.router }
         @api_version = attrs.fetch(:api_version) { 'v1' }
+        @router = attrs.fetch(:router) { Marvelite.router(:api_version => @api_version) }
       end
 
       private
