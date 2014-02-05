@@ -1,0 +1,2077 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "etag": "4b7428262f4cd80f223c20ff7d5e4824c831d6b7",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 31817,
+    "count": 20,
+    "results": [
+      {
+        "id": 41530,
+        "digitalId": 0,
+        "title": "Ant-Man: So (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "It's the origin of the original Avenger, Ant-Man! Hank Pym has been known by a variety of names — including Ant-Man, Giant-Man, Goliath and Yellowjacket — he’s been an innovative scientist, a famed super hero, an abusive spouse and more. What demons drive a man like Hank Pym? And how did he begin his heroic career? ",
+        "modified": "2012-09-25T18:05:58-0400",
+        "isbn": "978-0-7851-6390-9",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 163909 51999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 136,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It's the origin of the original Avenger, Ant-Man! Hank Pym has been known by a variety of names — including Ant-Man, Giant-Man, Goliath and Yellowjacket — he’s been an innovative scientist, a famed super hero, an abusive spouse and more. What demons drive a man like Hank Pym? And how did he begin his heroic career? "
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41530",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/41530/ant-man_so_trade_paperback?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ant-Man-So-0/digital-comic/27157?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/15481",
+          "name": "Ant-Man: So (2011 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-12-16T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4fe8cb51f32e0",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4fe8cb51f32e0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41530/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41530/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 41530
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93946",
+              "name": "Cover #93946",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93947",
+              "name": "Interior #93947",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41530/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 47533,
+        "digitalId": 0,
+        "title": "Kick-Ass 3 (2013) #8",
+        "issueNumber": 8,
+        "variantDescription": "",
+        "description": "Variant by STEVE MCNIVEN\nThe epic series finale is here! Kick-Ass 3 dons the costume one last time…will he be going to his death or a triumphant ride into the sunset? And has months in lock-up dulled Hit-Girl’s death-dealing reflexes just when she needs them the most? This milestone double-sized issue marks the end of one era and the start of a new Millarworld universe. Must not miss!\n",
+        "modified": "2014-01-13T11:40:26-0500",
+        "isbn": "",
+        "upc": 75960607937700820,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 48,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Variant by STEVE MCNIVEN\nThe epic series finale is here! Kick-Ass 3 dons the costume one last time…will he be going to his death or a triumphant ride into the sunset? And has months in lock-up dulled Hit-Girl’s death-dealing reflexes just when she needs them the most? This milestone double-sized issue marks the end of one era and the start of a new Millarworld universe. Must not miss!\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47533",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47533/kick-ass_3_2013_8?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/17946",
+          "name": "Kick-Ass 3 (2013 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47676",
+            "name": "Kick-Ass 3 (2013) #8 (Jrjr Sketch Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-04-30T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-04-16T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 5.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47533/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12245",
+              "name": "Neurotic Cartoonist, Inc",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4596",
+              "name": "Jennifer Lee",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/88",
+              "name": "Mark Millar",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11467",
+              "name": "Dean V. White",
+              "role": "colorist"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47533/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 47533
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/107350",
+              "name": "cover from Kick-Ass 3 (2013) #8",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/107351",
+              "name": "story from Kick-Ass 3 (2013) #8",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47533/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 50774,
+        "digitalId": 0,
+        "title": "Miracleman (2014) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2014-01-15T09:54:07-0500",
+        "isbn": "",
+        "upc": 75960608035900420,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 48,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50774",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/50774/miracleman_2014_4?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18688",
+          "name": "Miracleman (2014 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-26T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-03-12T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/50774/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/50774/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 0,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 50774
+          },
+          "items": [],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/50774/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48851,
+        "digitalId": 0,
+        "title": "Thor: God of Thunder (2012) #20",
+        "issueNumber": 20,
+        "variantDescription": "",
+        "description": "\n\n\n\n\n<ul><li>Thor battles to save the Earth on two fronts.</li><li>In the present day, Thor takes on Roxxon, the world&#39;s most powerful and nefarious super-corporation. While in the far future, King Thor is all that stands between Old Galactus and the planet he&#39;s been dying to eat for a very long time.</li><li>Even if King Thor wins, is the Earth still doomed?</li></ul>",
+        "modified": "2014-01-29T13:26:38-0500",
+        "isbn": "",
+        "upc": 75960607913102020,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\n\n\n\n\n<ul><li>Thor battles to save the Earth on two fronts.</li><li>In the present day, Thor takes on Roxxon, the world&#39;s most powerful and nefarious super-corporation. While in the far future, King Thor is all that stands between Old Galactus and the planet he&#39;s been dying to eat for a very long time.</li><li>Even if King Thor wins, is the Earth still doomed?</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48851",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48851/thor_god_of_thunder_2012_20?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/16729",
+          "name": "Thor: God of Thunder (2012 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-19T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-03-05T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48851/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48851/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 0,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 48851
+          },
+          "items": [],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48851/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 47614,
+        "digitalId": 0,
+        "title": "THE SUPERIOR FOES OF SPIDER-MAN (2013) #11",
+        "issueNumber": 11,
+        "variantDescription": "",
+        "description": "\n\n\n\n=there&#39;sstillonlyfivemembers.\nSpencer&amp;LiebercontinuethesleeperhitoftheNOW-lenium!\n\n<ul><li>They don&#39;t get NOW-er than the Superior Foes of Spider-Man!</li><li>Is there a rat in the Sinister Six?</li><li></li><li>=there&#39;s still only five members.</li><li>Spencer &amp; Lieber continue the sleeper hit of the NOW-lenium!</li></ul>",
+        "modified": "2014-01-29T13:23:29-0500",
+        "isbn": "",
+        "upc": 75960607941401100,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\n\n\n\n=there&#39;sstillonlyfivemembers.\nSpencer&amp;LiebercontinuethesleeperhitoftheNOW-lenium!\n\n<ul><li>They don&#39;t get NOW-er than the Superior Foes of Spider-Man!</li><li>Is there a rat in the Sinister Six?</li><li></li><li>=there&#39;s still only five members.</li><li>Spencer &amp; Lieber continue the sleeper hit of the NOW-lenium!</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47614",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47614/the_superior_foes_of_spider-man_2013_11?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/17959",
+          "name": "THE SUPERIOR FOES OF SPIDER-MAN (2013 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-19T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-03-05T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/52ab4cb4adcb1",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/52ab4cb4adcb1",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47614/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11647",
+              "name": "Tom Brennan",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9482",
+              "name": "Steve Lieber",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12288",
+              "name": "Michael Del Mundo",
+              "role": "artist (cover)"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47614/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 47614
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/107509",
+              "name": "cover from The Deadly Foes of Spider-Man (2013) #11",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47614/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 50285,
+        "digitalId": 0,
+        "title": "Secret Avengers (2014) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "The all-new Secret Avengers are ready to get started. Are they going to be the world&#39;s most effective secret squad? Or will their personal issues tear them apart? U-DECIDE! Three missions kick off at the same time: one in the space, one on the ground...and one in the air. And no one&#39;s ready. Except for the attackers. Russian spa. Helicarrier. Space station. Falling satellites. A hired hitman with nothing to lose. The Fury. WAIT. Yes. THE FURY. Why is Hawkeye still around? And why are these people chasing him? Why are Black Widow and Spider Woman in a Russian spa? Do questions in teasers excite you? RUN THE MISSION, DON&#39;T GET SEEN, SAVE THE WORLD. NOW!",
+        "modified": "2014-01-29T13:20:11-0500",
+        "isbn": "",
+        "upc": 75960608052600110,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The all-new Secret Avengers are ready to get started. Are they going to be the world&#39;s most effective secret squad? Or will their personal issues tear them apart? U-DECIDE! Three missions kick off at the same time: one in the space, one on the ground...and one in the air. And no one&#39;s ready. Except for the attackers. Russian spa. Helicarrier. Space station. Falling satellites. A hired hitman with nothing to lose. The Fury. WAIT. Yes. THE FURY. Why is Hawkeye still around? And why are these people chasing him? Why are Black Widow and Spider Woman in a Russian spa? Do questions in teasers excite you? RUN THE MISSION, DON&#39;T GET SEEN, SAVE THE WORLD. NOW!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50285",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/50285/secret_avengers_2014_1?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18818",
+          "name": "Secret Avengers (2014 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/20/52ab4a1e01b6c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/52df164006724",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/20/52ab4a1e01b6c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/50285/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/50285/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 50285
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/112603",
+              "name": "cover from Secret Avengers (2014) #1",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/50285/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 49772,
+        "digitalId": 0,
+        "title": "Fantastic Four (2014) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "&quot;THE FALL OF THE FANTASTIC FOUR&quot; PART 2\n\n\n\n\n\n<ul><li>Manhattan is under attack by a monstrous killer swarm from a corrupted pocket universe, and in order to defeat it the FANTASTIC FOUR will need all their courage, powers and skill...as well as those of every other hero in New York!</li><li>But to attain final victory one of the First Family will must make a TERRIBLE SACRIFICE!</li><li>And so the first strings are pulled and the first pieces are put in place...</li><li>...On the Fantastic Four&#39;s DOWNFALL!</li></ul>",
+        "modified": "2014-01-29T12:44:53-0500",
+        "isbn": "",
+        "upc": 75960608044100210,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "&quot;THE FALL OF THE FANTASTIC FOUR&quot; PART 2\n\n\n\n\n\n<ul><li>Manhattan is under attack by a monstrous killer swarm from a corrupted pocket universe, and in order to defeat it the FANTASTIC FOUR will need all their courage, powers and skill...as well as those of every other hero in New York!</li><li>But to attain final victory one of the First Family will must make a TERRIBLE SACRIFICE!</li><li>And so the first strings are pulled and the first pieces are put in place...</li><li>...On the Fantastic Four&#39;s DOWNFALL!</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49772",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/49772/fantastic_four_2014_2?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18700",
+          "name": "Fantastic Four (2014 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/52ab42ea07d7f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/52ab42ea07d7f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49772/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+              "name": "Mark Paniccia",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49772/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 49772
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/111618",
+              "name": "cover from Fantastic Four (2014) #2",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49772/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 49239,
+        "digitalId": 0,
+        "title": "Wolverine (2014) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "\n\n\n\n\n\n\n\n<ul><li>Logan&#39;s training continues&hellip;and he&#39;s got his sights set on Sabretooth.</li><li>What could make Logan turn his back on the school and his friends?</li><li>Logan&#39;s training continues&hellip;and he&#39;s got his sights set on Sabretooth.</li><li>What could make Logan turn his back on the school and his friends?</li><li>Logan&#39;s training continues&hellip;and he&#39;s got his sights set on Sabretooth.</li><li>What could make Logan turn his back on the school and his friends?</li></ul>",
+        "modified": "2014-01-30T10:46:23-0500",
+        "isbn": "",
+        "upc": 759606080091000300,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\n\n\n\n\n\n\n\n<ul><li>Logan&#39;s training continues&hellip;and he&#39;s got his sights set on Sabretooth.</li><li>What could make Logan turn his back on the school and his friends?</li><li>Logan&#39;s training continues&hellip;and he&#39;s got his sights set on Sabretooth.</li><li>What could make Logan turn his back on the school and his friends?</li><li>Logan&#39;s training continues&hellip;and he&#39;s got his sights set on Sabretooth.</li><li>What could make Logan turn his back on the school and his friends?</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49239",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/49239/wolverine_2014_3?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18517",
+          "name": "Wolverine (2014 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/52ab4e0689f33",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/52ab4e0689f33",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49239/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8715",
+              "name": "Jeanine Schaefer",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49239/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 49239
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/110563",
+              "name": "cover from Wolverine (2014) #3",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49239/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 46871,
+        "digitalId": 0,
+        "title": "Hawkeye (2012) #17",
+        "issueNumber": 17,
+        "variantDescription": "",
+        "description": "&quot;Rio Bravo&quot; - PART 4\r\n\r\n\r\n\r\n\r\n<ul><li>The sense-shattering fallout of the Clint vs. the Clown -- Clint Barton has been deafened!</li><li>With the Barton Brothers this battered and bloodied, surely they&#39;ll make easy pickins for the Bros, right? Bro? Seriously?</li><li>If we do our jobs right THIS time, this issue will be the Dog Issue of Sign Language issues.</li></ul>",
+        "modified": "2014-01-16T06:02:46-0500",
+        "isbn": "",
+        "upc": 75960607815801710,
+        "diamondCode": "DEC130741",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "&quot;Rio Bravo&quot; - PART 4\r\n\r\n\r\n\r\n\r\n<ul><li>The sense-shattering fallout of the Clint vs. the Clown -- Clint Barton has been deafened!</li><li>With the Barton Brothers this battered and bloodied, surely they&#39;ll make easy pickins for the Bros, right? Bro? Seriously?</li><li>If we do our jobs right THIS time, this issue will be the Dog Issue of Sign Language issues.</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46871",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46871/hawkeye_2012_17?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/16309",
+          "name": "Hawkeye (2012 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/52865a1e56e3f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/52865a1e56e3f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46871/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/750",
+              "name": "David Aja",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+              "name": "Matt Fraction",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/507",
+              "name": "Matt Hollingsworth",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11879",
+              "name": "Stephen Wacker",
+              "role": "editor"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46871/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 46871
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/105364",
+              "name": "cover from Hawkeye (2012) #17",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/105365",
+              "name": "story from Hawkeye (2012) #17",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46871/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 49018,
+        "digitalId": 0,
+        "title": "Captain Marvel (2014) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Hero! Pilot! Avenger! Captain Marvel, Earth&#39;s Mightiest Hero with death-defying powers and an attitude to match, is back and launching headfirst into an all-new ongoing series! As Captain Marvel, a.k.a. Carol Danvers, comes to a crossroads with a new life and new romance, she makes a dramatic decision that will alter the course of her life and the entire Marvel Universe in the months to come. It&#39;s time to go HIGHER, FURTHER, FASTER and more in the most super-powered comic around!",
+        "modified": "2014-01-29T12:03:26-0500",
+        "isbn": "",
+        "upc": 75960607990200110,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Hero! Pilot! Avenger! Captain Marvel, Earth&#39;s Mightiest Hero with death-defying powers and an attitude to match, is back and launching headfirst into an all-new ongoing series! As Captain Marvel, a.k.a. Carol Danvers, comes to a crossroads with a new life and new romance, she makes a dramatic decision that will alter the course of her life and the entire Marvel Universe in the months to come. It&#39;s time to go HIGHER, FURTHER, FASTER and more in the most super-powered comic around!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49018",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/49018/captain_marvel_2014_1?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18455",
+          "name": "Captain Marvel (2014 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/52ab416707aac",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/52ab416707aac",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49018/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11879",
+              "name": "Stephen Wacker",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49018/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 49018
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/110123",
+              "name": "cover from Captain Marvel (2014) #1",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49018/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 49921,
+        "digitalId": 0,
+        "title": "X-Force (2014) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "\n\n\n\n\n<ul><li>Cable. Psylocke. Fantomex. Marrow. They are mutantkind&#39;s protectors, spies, assassins and torturers!</li><li>But just what has driven each of them to join the most deadly incarnation of X-FORCE yet? Yes, Marrow is back!</li><li>But how has she regained her mutant powers and what does it have to do with X-Force&#39;s first target?</li></ul>",
+        "modified": "2014-01-30T10:47:28-0500",
+        "isbn": "",
+        "upc": 759606080411000200,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\n\n\n\n\n<ul><li>Cable. Psylocke. Fantomex. Marrow. They are mutantkind&#39;s protectors, spies, assassins and torturers!</li><li>But just what has driven each of them to join the most deadly incarnation of X-FORCE yet? Yes, Marrow is back!</li><li>But how has she regained her mutant powers and what does it have to do with X-Force&#39;s first target?</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49921",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/49921/x-force_2014_2?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18762",
+          "name": "X-Force (2014 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/52ab4e8af12be",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/52ab4e8af12be",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49921/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+              "name": "Daniel Ketchum",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49921/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 49921
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/111902",
+              "name": "cover from X-Force (2014) #2",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49921/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48527,
+        "digitalId": 0,
+        "title": "All-New X-Men (2012) #24",
+        "issueNumber": 24,
+        "variantDescription": "",
+        "description": "\n\n\n\n\n\n<ul><li>X-Men and Guardians vs. Gladiator and Jean Grey&#39;s fate lies in the balance!</li><li>One of the X-Men&#39;s lives will be forever changed!</li><li>X-Men and Guardians vs. Gladiator and Jean Grey&#39;s fate lies in the balance!</li><li>One of the X-Men&#39;s lives will be forever changed!</li></ul>",
+        "modified": "2014-01-29T11:59:28-0500",
+        "isbn": "",
+        "upc": 75960607900102420,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\n\n\n\n\n\n<ul><li>X-Men and Guardians vs. Gladiator and Jean Grey&#39;s fate lies in the balance!</li><li>One of the X-Men&#39;s lives will be forever changed!</li><li>X-Men and Guardians vs. Gladiator and Jean Grey&#39;s fate lies in the balance!</li><li>One of the X-Men&#39;s lives will be forever changed!</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48527",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48527/all-new_x-men_2012_24?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/16449",
+          "name": "All-New X-Men (2012 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/52ab3ecde3318",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/52ab3ecde3318",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48527/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48527/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 48527
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/109149",
+              "name": "cover from All-New X-Men (2012) #24",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48527/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48037,
+        "digitalId": 0,
+        "title": "Superior Spider-Man (2013) #29",
+        "issueNumber": 29,
+        "variantDescription": "",
+        "description": "&quot;Goblin Nation&quot; - Part 3 of 5\n\n\n\n\n<ul><li>The Spider-Slayer Squadron were supposed to be under Mayor J. Jonah Jameson&#39;s control...</li><li>...but now they&#39;ve been drafted into The Goblin Nation!</li><li>Guest Starring: Spider-Man 2099!</li></ul>",
+        "modified": "2014-01-29T13:22:30-0500",
+        "isbn": "",
+        "upc": 75960607912402910,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "&quot;Goblin Nation&quot; - Part 3 of 5\n\n\n\n\n<ul><li>The Spider-Slayer Squadron were supposed to be under Mayor J. Jonah Jameson&#39;s control...</li><li>...but now they&#39;ve been drafted into The Goblin Nation!</li><li>Guest Starring: Spider-Man 2099!</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48037",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48037/superior_spider-man_2013_29?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/17554",
+          "name": "Superior Spider-Man (2013 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/52ab4bae30b7c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/52ab4bae30b7c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48037/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11879",
+              "name": "Stephen Wacker",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48037/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 48037
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108315",
+              "name": "cover from Superior Spider-Man (2013) #29",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48037/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 47965,
+        "digitalId": 0,
+        "title": "All-New X-Factor (2014) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "\n\n\n\n\n<ul><li>In issue #4, the team takes on their former frenemy, Danger!</li><li>Then, in issue #5, learn the sinister secret of Techno Inc.!</li><li>Brought to you by Serval Industries.</li></ul>",
+        "modified": "2014-01-29T11:58:20-0500",
+        "isbn": "",
+        "upc": 75960607955100420,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\n\n\n\n\n<ul><li>In issue #4, the team takes on their former frenemy, Danger!</li><li>Then, in issue #5, learn the sinister secret of Techno Inc.!</li><li>Brought to you by Serval Industries.</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47965",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47965/all-new_x-factor_2014_4?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18136",
+          "name": "All-New X-Factor (2014 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/52ab3e8d3378d",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/52ab3e8d3378d",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47965/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47965/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 47965
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108171",
+              "name": "cover from All-New X-Factor (2013) #4",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47965/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48323,
+        "digitalId": 0,
+        "title": "Mighty Avengers (2013) #8",
+        "issueNumber": 8,
+        "variantDescription": "",
+        "description": "\n\n\n\n\n<ul><li>Spectrum and She-Hulk join Blue Marvel on one of his global adventures - against a threat that could break Adam&#39;s heart!</li><li>It&#39;s White Tiger versus Tiger God - with Ava Ayala&#39;s soul in the balance!</li><li>We need to talk about Kevin.</li></ul>",
+        "modified": "2014-01-29T12:46:19-0500",
+        "isbn": "",
+        "upc": 75960607959900820,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\n\n\n\n\n<ul><li>Spectrum and She-Hulk join Blue Marvel on one of his global adventures - against a threat that could break Adam&#39;s heart!</li><li>It&#39;s White Tiger versus Tiger God - with Ava Ayala&#39;s soul in the balance!</li><li>We need to talk about Kevin.</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48323",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48323/mighty_avengers_2013_8?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18309",
+          "name": "Mighty Avengers (2013 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/52ab4676d0f41",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/52ab4676d0f41",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48323/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48323/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 48323
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108825",
+              "name": "cover from Mighty Avengers (2013) #8",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48323/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 47989,
+        "digitalId": 0,
+        "title": "Black Widow (2014) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "\n\n\n\n\n<ul><li>From the cold streets of old Russia, the Hand of God reaches out to crush Black Widow&mdash;and it is merciless.</li><li>Outmatched by the brute force of a powerful new villain, Natasha finds a deadly plot unfolding that spans the entire globe</li><li>Jump on to the sensational new series as the most lethal The Avenger faces her deadliest test!</li></ul>",
+        "modified": "2014-01-29T12:02:43-0500",
+        "isbn": "",
+        "upc": 75960607956800420,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\n\n\n\n\n<ul><li>From the cold streets of old Russia, the Hand of God reaches out to crush Black Widow&mdash;and it is merciless.</li><li>Outmatched by the brute force of a powerful new villain, Natasha finds a deadly plot unfolding that spans the entire globe</li><li>Jump on to the sensational new series as the most lethal The Avenger faces her deadliest test!</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47989",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47989/black_widow_2014_4?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18138",
+          "name": "Black Widow (2014 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/52ab40996e5f1",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/52ab40996e5f1",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47989/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5160",
+              "name": "Phil Noto",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11742",
+              "name": "Elizabeth Pyle",
+              "role": "editor"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47989/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 47989
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108219",
+              "name": "cover from Black Widow (2013) #4",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47989/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48381,
+        "digitalId": 0,
+        "title": "Avengers (2012) #27",
+        "issueNumber": 27,
+        "variantDescription": "",
+        "description": "\n\n\n\n\n\n<ul><li>The secret behind the All-New Avengers revealed!</li><li>The science war overtakes the world(s).</li><li>All the answers to the questions you wished remained hidden.</li><li>The collision of Avengers and New Avengers is imminent.</li></ul>",
+        "modified": "2014-01-29T12:00:03-0500",
+        "isbn": "",
+        "upc": 75960607902502700,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\n\n\n\n\n\n<ul><li>The secret behind the All-New Avengers revealed!</li><li>The science war overtakes the world(s).</li><li>All the answers to the questions you wished remained hidden.</li><li>The collision of Avengers and New Avengers is imminent.</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48381",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48381/avengers_2012_27?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/16452",
+          "name": "Avengers (2012 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/52ab3f51e3f02",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/52ab3f51e3f02",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48381/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48381/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 48381
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108905",
+              "name": "cover from Avengers (2012) #27",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48381/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48613,
+        "digitalId": 0,
+        "title": "Deadpool (2012) #25",
+        "issueNumber": 25,
+        "variantDescription": "",
+        "description": "First Marvel NOW! title to reach the landmark 25th issue! Avengers doesn&#39;t count. Because. When Deadpool re-killed the reanimated dead Presidents of the United States, Agent Gorman of S.H.I.E.L.D. stiffed him on his well-earned pay. Now, his vengeance is finally wrought! But now that former S.H.I.E.L.D Agent Preston&#39;s consciousness is stuck inside his head, will she be ok with this wreaking? And is all this SHIELD stuff a shameless cash in because of the TV show? Ask guest-star AGENT COULSON!",
+        "modified": "2014-01-29T12:28:12-0500",
+        "isbn": "",
+        "upc": 75960607905602510,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "First Marvel NOW! title to reach the landmark 25th issue! Avengers doesn&#39;t count. Because. When Deadpool re-killed the reanimated dead Presidents of the United States, Agent Gorman of S.H.I.E.L.D. stiffed him on his well-earned pay. Now, his vengeance is finally wrought! But now that former S.H.I.E.L.D Agent Preston&#39;s consciousness is stuck inside his head, will she be ok with this wreaking? And is all this SHIELD stuff a shameless cash in because of the TV show? Ask guest-star AGENT COULSON!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48613",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48613/deadpool_2012_25?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/16542",
+          "name": "Deadpool (2012 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/52ab41ea5ed71",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/52ab41ea5ed71",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/52a9ea867170d",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48613/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48613/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 48613
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/109321",
+              "name": "cover from Deadpool (2012) #25",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48613/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48545,
+        "digitalId": 0,
+        "title": "Avengers Arena 2 (2014) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "WHEN TEEN HEROES INFILTRATE THE MASTERS OF EVIL, WHO WILL BREAK BAD?\nDamaged by their experience in Murder World, five conflicted young superhumans go rogue and infiltrate the Masters of Evil, planning to bring the Avengers&#39; rivals down from within. But the longer the teens spend undercover, the more they descend into darkness, and as they start to build relationships with these multi-layered criminals, the line between good and evil blurs. What will happen first&hellip;joining the Masters for real, or getting exposed and killed? If you thought Murder World was dangerous, just wait until &quot;Most Promising New Talent&quot; Harvey award-winner Dennis Hopeless and acclaimed artist Kev Walker surround you with Evil!",
+        "modified": "2014-01-29T12:00:40-0500",
+        "isbn": "",
+        "upc": 759606079781000100,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "WHEN TEEN HEROES INFILTRATE THE MASTERS OF EVIL, WHO WILL BREAK BAD?\nDamaged by their experience in Murder World, five conflicted young superhumans go rogue and infiltrate the Masters of Evil, planning to bring the Avengers&#39; rivals down from within. But the longer the teens spend undercover, the more they descend into darkness, and as they start to build relationships with these multi-layered criminals, the line between good and evil blurs. What will happen first&hellip;joining the Masters for real, or getting exposed and killed? If you thought Murder World was dangerous, just wait until &quot;Most Promising New Talent&quot; Harvey award-winner Dennis Hopeless and acclaimed artist Kev Walker surround you with Evil!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48545",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48545/avengers_arena_2_2014_1?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18341",
+          "name": "Avengers Arena 2 (2014 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5256c718ca732",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48545/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48545/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 0,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 48545
+          },
+          "items": [],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48545/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 50438,
+        "digitalId": 0,
+        "title": "X-Men Legacy (2012) #300",
+        "issueNumber": 300,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2014-01-30T10:49:37-0500",
+        "isbn": "",
+        "upc": 75960607919330020,
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50438",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/50438/x-men_legacy_2012_300?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/16791",
+          "name": "X-Men Legacy (2012 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/00/52ab4f10caa2c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/00/52ab4f10caa2c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/50438/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+              "name": "Daniel Ketchum",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/50438/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 50438
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/112902",
+              "name": "cover from X-Men Legacy (2012) #300",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/50438/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

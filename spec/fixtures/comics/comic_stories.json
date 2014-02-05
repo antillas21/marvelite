@@ -1,0 +1,197 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "etag": "3978488a0cc6811a335363cf2072b66ca911f7f8",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 2,
+    "count": 2,
+    "results": [
+      {
+        "id": 91053,
+        "title": "Cover #91053",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91053",
+        "type": "cover",
+        "modified": "2013-02-01T15:45:47-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/91053/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11879",
+              "name": "Stephen Wacker",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/91053/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 91053
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/91053/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/40128",
+              "name": "Amazing Spider-Man (1999) #700"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/91053/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/40128",
+          "name": "Amazing Spider-Man (1999) #700"
+        }
+      },
+      {
+        "id": 91054,
+        "title": "Interior #91054",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91054",
+        "type": "story",
+        "modified": "2011-04-08T01:30:13-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 12,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/91054/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+              "name": "Sal Buscema",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/447",
+              "name": "Victor Olazaba",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9461",
+              "name": "Stephanie Buscema",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+              "name": "Giuseppe Camuncoli",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+              "name": "Humberto Ramos",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+              "name": "Edgar Delgado",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/428",
+              "name": "Antonio Fabela",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6986",
+              "name": "J. M. DeMatteis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+              "name": "Dan Slott",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11788",
+              "name": "Jennifer Van Meter",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11879",
+              "name": "Stephen Wacker",
+              "role": "editor"
+            }
+          ],
+          "returned": 12
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/91054/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 91054
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/91054/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/40128",
+              "name": "Amazing Spider-Man (1999) #700"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/91054/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/40128",
+          "name": "Amazing Spider-Man (1999) #700"
+        }
+      }
+    ]
+  }
+}

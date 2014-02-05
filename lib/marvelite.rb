@@ -5,6 +5,8 @@ require 'hashie'
 
 require "marvelite/version"
 require "marvelite/api/router"
+require "marvelite/api/character_methods"
+require "marvelite/api/comic_methods"
 require "marvelite/api/client"
 require "marvelite/api/response"
 

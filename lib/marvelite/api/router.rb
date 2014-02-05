@@ -24,6 +24,30 @@ module Marvelite
       def character_stories_path(id)
         "public/characters/#{id}/stories"
       end
+
+      def comics_path
+        "public/comics"
+      end
+
+      def comic_path(id)
+        "public/comics/#{id}"
+      end
+
+      def comic_characters_path(id)
+        "public/comics/#{id}/characters"
+      end
+
+      def comic_creators_path(id)
+        "public/comics/#{id}/creators"
+      end
+
+      def comic_events_path(id)
+        "public/comics/#{id}/events"
+      end
+
+      def comic_stories_path(id)
+        "public/comics/#{id}/stories"
+      end
     end
   end
 end
