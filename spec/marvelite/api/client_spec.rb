@@ -17,8 +17,8 @@ describe Marvelite::API::Client do
 
       describe '#api_version' do
         it 'receives an :api_version optional param' do
-          client = Marvelite::API::Client.new(:public_key => '1234', :private_key => 'abcd', :api_version => 'v2')
-          expect(client.api_version).to eq('v2')
+          client = Marvelite::API::Client.new(:public_key => '1234', :private_key => 'abcd', :api_version => 'v1')
+          expect(client.api_version).to eq('v1')
         end
 
         it 'defaults to v1' do

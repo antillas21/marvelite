@@ -1,58 +1,47 @@
 module Marvelite
   module API
     class Router
+      require 'yaml'
       attr_accessor :api_version
 
       def initialize(attrs = {})
         @api_version = attrs.fetch(:api_version) { 'v1' }
+        @routes = []
+        load_routes_from_file("#{api_version}_routes.yml")
+        map_routes
       end
 
-      def characters_path
-        "/#{api_version}/public/characters"
+      def inspect
+        "#<#{self.class}:#{self.object_id}>"
       end
 
-      def character_path(id)
-        "/#{api_version}/public/characters/#{id}"
+      def load_routes_from_file(filename)
+        file_path =  File.join(File.dirname(__FILE__), "config", filename)
+        f = YAML.load(File.read(file_path))
+        f.each do |_, route|
+          add_route(route['name'], route['path'])
+        end
       end
 
-      def character_comics_path(id)
-        "/#{api_version}/public/characters/#{id}/comics"
+      def routes
+        @routes
       end
 
-      def character_events_path(id)
-        "/#{api_version}/public/characters/#{id}/events"
+      def add_route(name, endpoint)
+        route = [name, endpoint]
+        routes << route
       end
 
-      def character_series_path(id)
-        "/#{api_version}/public/characters/#{id}/series"
-      end
-
-      def character_stories_path(id)
-        "/#{api_version}/public/characters/#{id}/stories"
-      end
-
-      def comics_path
-        "/#{api_version}/public/comics"
-      end
-
-      def comic_path(id)
-        "/#{api_version}/public/comics/#{id}"
-      end
-
-      def comic_characters_path(id)
-        "/#{api_version}/public/comics/#{id}/characters"
-      end
-
-      def comic_creators_path(id)
-        "/#{api_version}/public/comics/#{id}/creators"
-      end
-
-      def comic_events_path(id)
-        "/#{api_version}/public/comics/#{id}/events"
-      end
-
-      def comic_stories_path(id)
-        "/#{api_version}/public/comics/#{id}/stories"
+      def map_routes
+        routes.each do |name, endpoint|
+          self.class.send(:define_method, "#{name}_path") do |params = {}|
+            params
+            params.each do |p_key, p_value|
+              endpoint.gsub!(":#{p_key.to_s}", p_value.to_s)
+            end
+            "/#{api_version}#{endpoint}"
+          end
+        end
       end
     end
   end

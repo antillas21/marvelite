@@ -1,0 +1,36 @@
+a:
+  name: 'characters'
+  path: '/public/characters'
+b:
+  name: 'character'
+  path: '/public/characters/:id'
+c:
+  name: 'character_comics'
+  path: '/public/characters/:id/comics'
+d:
+  name: 'character_events'
+  path: '/public/characters/:id/events'
+e:
+  name: 'character_series'
+  path: '/public/characters/:id/series'
+f:
+  name: 'character_stories'
+  path: '/public/characters/:id/stories'
+g:
+  name: 'comics'
+  path: '/public/comics'
+h:
+  name: 'comic'
+  path: '/public/comics/:id'
+i:
+  name: 'comic_characters'
+  path: '/public/comics/:id/characters'
+j:
+  name: 'comic_creators'
+  path: '/public/comics/:id/creators'
+k:
+  name: 'comic_events'
+  path: '/public/comics/:id/events'
+l:
+  name: 'comic_stories'
+  path: '/public/comics/:id/stories'
