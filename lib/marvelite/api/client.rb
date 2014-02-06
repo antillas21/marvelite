@@ -5,6 +5,7 @@ module Marvelite
       
       include Marvelite::API::CharacterMethods
       include Marvelite::API::ComicMethods
+      include Marvelite::API::EventMethods
 
       include HTTParty
       base_uri 'http://gateway.marvel.com'

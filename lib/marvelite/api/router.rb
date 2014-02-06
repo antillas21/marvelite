@@ -7,7 +7,7 @@ module Marvelite
       def initialize(attrs = {})
         @api_version = attrs.fetch(:api_version) { 'v1' }
         @routes = []
-        load_routes_from_file("#{api_version}_routes.yml")
+        load_routes_from_file("#{api_version}.yml")
         map_routes
       end
 

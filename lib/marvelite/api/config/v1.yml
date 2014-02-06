@@ -1,36 +1,57 @@
-a:
+1:
   name: 'characters'
   path: '/public/characters'
-b:
+2:
   name: 'character'
   path: '/public/characters/:id'
-c:
+3:
   name: 'character_comics'
   path: '/public/characters/:id/comics'
-d:
+4:
   name: 'character_events'
   path: '/public/characters/:id/events'
-e:
+5:
   name: 'character_series'
   path: '/public/characters/:id/series'
-f:
+6:
   name: 'character_stories'
   path: '/public/characters/:id/stories'
-g:
+7:
   name: 'comics'
   path: '/public/comics'
-h:
+8:
   name: 'comic'
   path: '/public/comics/:id'
-i:
+9:
   name: 'comic_characters'
   path: '/public/comics/:id/characters'
-j:
+10:
   name: 'comic_creators'
   path: '/public/comics/:id/creators'
-k:
+11:
   name: 'comic_events'
   path: '/public/comics/:id/events'
-l:
+12:
   name: 'comic_stories'
   path: '/public/comics/:id/stories'
+13:
+  name: 'events'
+  path: '/public/events'
+14:
+  name: 'event'
+  path: '/public/events/:id'
+15:
+  name: 'event_characters'
+  path: '/public/events/:id/characters'
+16:
+  name: 'event_creators'
+  path: '/public/events/:id/creators'
+17:
+  name: 'event_comics'
+  path: '/public/events/:id/comics'
+18:
+  name: 'event_stories'
+  path: '/public/events/:id/stories'
+19:
+  name: 'event_series'
+  path: '/public/events/:id/series'

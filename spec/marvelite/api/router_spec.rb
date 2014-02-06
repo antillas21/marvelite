@@ -11,7 +11,20 @@ describe Marvelite::API::Router do
       router = Marvelite::API::Router.new
       expect(router.api_version).to eq('v1')
     end
+
+    it 'loads a YAML config file matching the :api_version attribute'
+
+    it 'calls #add_route for each route defined in YAML routes file'
+
+    it 'calls #map_routes'
   end
 
-  it 'stores Marvel Comics API endpoints'
+  describe '#add_route' do
+    it 'adds a new route to the routes variable'
+  end
+
+  describe '#map_routes' do
+    it 'adds all routes as methods to the router'
+  end
+
 end

@@ -1,0 +1,3420 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "etag": "eb99b4fdf4b5c024bdb36c0e030ca84998d370dd",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 52,
+    "count": 20,
+    "results": [
+      {
+        "id": 17695,
+        "digitalId": 0,
+        "title": "Avengers West Coast: Darker than Scarlet (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The Witch is back! The shocking truth about her children revealed, the Scarlet Witch suffers a nervous breakdown and descends into madness. Manipulated by her father, the mutant terrorist Magneto, Wanda faces her teammates – and her brother, Quicksilver. Can they rescue her from the clutches of Immortus – and save her very sanity? Plus: the return of Iron Man, and the reunion of wartime allies Captain America and the Human Torch. Also featuring the villainy of the Mole Man, Loki, the U-Foes, Master Pandemonium and Hydro-Man! Collecting AVENGERS WEST COAST #51-57 and #60-62.\r<br>Rated T+….$24.99\r<br>ISBN: 978-0-7851-3027-7\r<br>",
+        "modified": "2013-07-10T12:10:09-0400",
+        "isbn": "978-0-7851-3027-7",
+        "upc": "5960613027-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Witch is back! The shocking truth about her children revealed, the Scarlet Witch suffers a nervous breakdown and descends into madness. Manipulated by her father, the mutant terrorist Magneto, Wanda faces her teammates – and her brother, Quicksilver. Can they rescue her from the clutches of Immortus – and save her very sanity? Plus: the return of Iron Man, and the reunion of wartime allies Captain America and the Human Torch. Also featuring the villainy of the Mole Man, Loki, the U-Foes, Master Pandemonium and Hydro-Man! Collecting AVENGERS WEST COAST #51-57 and #60-62.\r<br>Rated T+….$24.99\r<br>ISBN: 978-0-7851-3027-7\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17695",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/17695/avengers_west_coast_darker_than_scarlet_trade_paperback?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/3462",
+          "name": "Avengers West Coast: Darker than Scarlet (2008)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17804",
+            "name": "Avengers West Coast (1985) #62"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17803",
+            "name": "Avengers West Coast (1985) #61"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17802",
+            "name": "Avengers West Coast (1985) #60"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17799",
+            "name": "Avengers West Coast (1985) #57"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17798",
+            "name": "Avengers West Coast (1985) #56"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17797",
+            "name": "Avengers West Coast (1985) #55"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17796",
+            "name": "Avengers West Coast (1985) #54"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17795",
+            "name": "Avengers West Coast (1985) #53"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17794",
+            "name": "Avengers West Coast (1985) #52"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17793",
+            "name": "Avengers West Coast (1985) #51"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-01-04T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/51cb17ca65923",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/51cb17ca65923",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17695/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5823",
+              "name": "Danny Bulanadi",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2076",
+              "name": "Mike Machlan",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2082",
+              "name": "Keith Williams",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+              "name": "John Byrne",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1286",
+              "name": "Howard Mackie",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1894",
+              "name": "Bill Oakley",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/261",
+              "name": "Paul Ryan",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1832",
+              "name": "Bob Sharen",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2706",
+              "name": "Dann Thomas",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+              "name": "Roy Thomas",
+              "role": "writer"
+            }
+          ],
+          "returned": 10
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17695/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009407",
+              "name": "Loki"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 14,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 17695
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37046",
+              "name": "Avengers West Coast 51-57, 60-62 --- CLASSIC TPB",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37047",
+              "name": "Avengers West Coast 51-57, 60-62 --- CLASSIC TPB",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37803",
+              "name": "I Sing of Arms and Heroes",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37805",
+              "name": "Fragments of a Greater Darkness",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37807",
+              "name": "The Plan Proceeds [Acts of Vengeance]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37809",
+              "name": "The Troubled Earth",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37811",
+              "name": "The Breaking Storm",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37813",
+              "name": "Darker Than Scarlet",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37814",
+              "name": "Reunion",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37815",
+              "name": "And Now... Here's that important announcement...",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37817",
+              "name": "Family Reunion",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37823",
+              "name": "Personal Magnetism",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37825",
+              "name": "The Immortus Imperative",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37827",
+              "name": "The Witching Hour",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 14
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17695/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 12064,
+        "digitalId": 0,
+        "title": "Web of Spider-Man (1985) #65",
+        "issueNumber": 65,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2013-10-18T15:16:38-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12064",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/12064/web_of_spider-man_1985_65?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2092",
+          "name": "Web of Spider-Man (1985 - 1995)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-06-10T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/526188d57cd19",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/526188d57cd19",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/12064/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+              "name": "Gerry Conway",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3395",
+              "name": "Dan Cuddy",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1833",
+              "name": "Jim Salicrup",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2075",
+              "name": "Andy Mushynsky",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2082",
+              "name": "Keith Williams",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1819",
+              "name": "Rick Parker",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3475",
+              "name": "And Typographical",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1164",
+              "name": "Alex Saviuk",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1832",
+              "name": "Bob Sharen",
+              "role": "colorist"
+            }
+          ],
+          "returned": 10
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/12064/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 3,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 12064
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21923",
+              "name": "Cover #21923",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21924",
+              "name": "The Last Act of Vengeance",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21925",
+              "name": "Web-Zingers",
+              "type": "letters"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/12064/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 12063,
+        "digitalId": 0,
+        "title": "Web of Spider-Man (1985) #64",
+        "issueNumber": 64,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2013-10-18T15:17:31-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12063",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/12063/web_of_spider-man_1985_64?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2092",
+          "name": "Web of Spider-Man (1985 - 1995)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-05-10T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/52618930cae7f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/52618930cae7f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/12063/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+              "name": "Gerry Conway",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3395",
+              "name": "Dan Cuddy",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1833",
+              "name": "Jim Salicrup",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1819",
+              "name": "Rick Parker",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1164",
+              "name": "Alex Saviuk",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1832",
+              "name": "Bob Sharen",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2082",
+              "name": "Keith Williams",
+              "role": "inker"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/12063/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 4,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 12063
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21919",
+              "name": "Cover #21919",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21920",
+              "name": "Once More, with Feeling",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21921",
+              "name": "Web-Zingers",
+              "type": "letters"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21922",
+              "name": "Statement of Ownership",
+              "type": "statement of ownership"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/12063/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 13157,
+        "digitalId": 5931,
+        "title": "Fantastic Four (1961) #336",
+        "issueNumber": 336,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13157",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/13157/fantastic_four_1961_336?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=5931&utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+          "name": "Fantastic Four (1961 - 1998)"
+        },
+        "variants": [],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13535",
+            "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (Trade Paperback)"
+          }
+        ],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-03-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2010-06-30T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4c366a203cd78",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4c366a203cd78",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13157/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1898",
+              "name": "Mike DeCarlo",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+              "name": "Ron Lim",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1894",
+              "name": "Bill Oakley",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2053",
+              "name": "George Roussos",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5125",
+              "name": "Walter Simonson",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13157/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+              "name": "Doctor Doom"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+              "name": "Invisible Woman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+              "name": "Mr. Fantastic"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+              "name": "Thing"
+            }
+          ],
+          "returned": 6
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 13157
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/12964",
+              "name": "The Ultimate Super-Villain Team-Up!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/12965",
+              "name": "Dark Congress!",
+              "type": ""
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13157/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 12060,
+        "digitalId": 0,
+        "title": "Web of Spider-Man (1985) #61",
+        "issueNumber": 61,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2012-11-21T13:53:27-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12060",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/12060/web_of_spider-man_1985_61?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2092",
+          "name": "Web of Spider-Man (1985 - 1995)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-02-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/50ad2303054f8",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/50ad2303054f8",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/12060/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+              "name": "Gerry Conway",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1833",
+              "name": "Jim Salicrup",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2075",
+              "name": "Andy Mushynsky",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2082",
+              "name": "Keith Williams",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1819",
+              "name": "Rick Parker",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1164",
+              "name": "Alex Saviuk",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1832",
+              "name": "Bob Sharen",
+              "role": "colorist"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/12060/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 12060
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21911",
+              "name": "Cover #21911",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21912",
+              "name": "Dragon in the Dark",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/12060/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 13799,
+        "digitalId": 7395,
+        "title": "Uncanny X-Men (1963) #258",
+        "issueNumber": 258,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13799",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/13799/uncanny_x-men_1963_258?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Uncanny-X-Men-258/digital-comic/7395?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7395&utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/7395?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+          "name": "Uncanny X-Men (1963 - 2011)"
+        },
+        "variants": [],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1079",
+            "name": "X-Men Visionaries: Jim Lee (Trade Paperback)"
+          }
+        ],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-02-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2008-09-17T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-08-20T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4c36388ab39ec",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4c36388ab39ec",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c2e00adf2037",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13799/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3886",
+              "name": "Daryl Edelman",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/96",
+              "name": "Jim Lee",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+              "name": "Glynis Oliver",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+              "name": "Tom Orzechowski",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/939",
+              "name": "Joe Rubinstein",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3030",
+              "name": "Scott Williams",
+              "role": "inker"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13799/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+              "name": "Banshee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009309",
+              "name": "Forge"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009399",
+              "name": "Legion"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009421",
+              "name": "Mandarin"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+              "name": "Nick Fury"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009512",
+              "name": "Psylocke"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 8
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 13799
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28025",
+              "name": "Cover #28025",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28026",
+              "name": "Broken Chains",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13799/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 6737,
+        "digitalId": 21868,
+        "title": "Amazing Spider-Man (1963) #329",
+        "issueNumber": 329,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2012-11-21T13:55:39-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6737",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/6737/amazing_spider-man_1963_329?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=21868&utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/1987",
+          "name": "Amazing Spider-Man (1963 - 1998)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-02-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-04-29T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/50ad238259ced",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/50ad238259ced",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/6737/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/601",
+              "name": "Al Gordon",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2075",
+              "name": "Andy Mushynsky",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/704",
+              "name": "Erik Larsen",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2784",
+              "name": "David Michelinie",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1819",
+              "name": "Rick Parker",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1833",
+              "name": "Jim Salicrup",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1832",
+              "name": "Bob Sharen",
+              "role": "colorist"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/6737/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 6737
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/14062",
+              "name": "Introducing--The Tri-Sentinel",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/14063",
+              "name": "Power Prey!",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/6737/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 7748,
+        "digitalId": 30092,
+        "title": "Captain America (1968) #367",
+        "issueNumber": 367,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2012-03-27T15:21:39-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7748",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/7748/captain_america_1968_367?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=30092&utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/1996",
+          "name": "Captain America (1968 - 1996)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-02-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-07-25T16:36:55-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/5193b4a22a118",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/5193b4a22a118",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/7748/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+              "name": "Mark Bagley",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+              "name": "Steve Buccellato",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2056",
+              "name": "Nel Yomtov",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5823",
+              "name": "Danny Bulanadi",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3555",
+              "name": "Donald Hudson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/180",
+              "name": "Kieron Dwyer",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/259",
+              "name": "Mark Gruenwald",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2028",
+              "name": "John Morelli",
+              "role": "letterer"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/7748/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010347",
+              "name": "Mr. Hyde"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009572",
+              "name": "Serpent Society"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 3,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 7748
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18012",
+              "name": "Cover #18012",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18013",
+              "name": "Magnetic Repulsion",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18014",
+              "name": "The Way of the Snake",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/7748/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 10428,
+        "digitalId": 0,
+        "title": "New Mutants (1983) #86",
+        "issueNumber": 86,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2013-05-06T15:19:11-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10428",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/10428/new_mutants_1983_86?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/New-Mutants-86/digital-comic/25134?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2055",
+          "name": "New Mutants (1983 - 1991)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-02-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/51880123953ca",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/51880123953ca",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10428/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/571",
+              "name": "Rob Liefeld",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/75",
+              "name": "Todd McFarlane",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2030",
+              "name": "Bob Wiacek",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+              "name": "Glynis Oliver",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1759",
+              "name": "Joe Rosen",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/184",
+              "name": "Louise Simonson",
+              "role": "writer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10428/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011336",
+              "name": "New Mutants"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 10428
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21557",
+              "name": "Cover #21557",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21558",
+              "name": "Bang! You're Dead!",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10428/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 13156,
+        "digitalId": 5930,
+        "title": "Fantastic Four (1961) #335",
+        "issueNumber": 335,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13156",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/13156/fantastic_four_1961_335?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=5930&utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+          "name": "Fantastic Four (1961 - 1998)"
+        },
+        "variants": [],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13535",
+            "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (Trade Paperback)"
+          }
+        ],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-02-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2010-06-29T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4c366a37c4d3a",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4c366a37c4d3a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13156/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1216",
+              "name": "Rich Buckler",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1894",
+              "name": "Bill Oakley",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2053",
+              "name": "George Roussos",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5125",
+              "name": "Walter Simonson",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1884",
+              "name": "Romeo Tanghal",
+              "role": "inker"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13156/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+              "name": "Invisible Woman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+              "name": "Mr. Fantastic"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 13156
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/12962",
+              "name": "Cover #12962",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/12963",
+              "name": "Death by Debate",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13156/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 17797,
+        "digitalId": 10937,
+        "title": "Avengers West Coast (1985) #55",
+        "issueNumber": 55,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17797",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/17797/avengers_west_coast_1985_55?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=10937&utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/3623",
+          "name": "Avengers West Coast (1985 - 1994)"
+        },
+        "variants": [],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17695",
+            "name": "Avengers West Coast: Darker than Scarlet (Trade Paperback)"
+          }
+        ],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-02-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-10-09T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bb587a60afe4",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4c893a40688f0",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4cb62688cf50d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bb587a60afe4",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17797/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+              "name": "John Byrne",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1286",
+              "name": "Howard Mackie",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1894",
+              "name": "Bill Oakley",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/261",
+              "name": "Paul Ryan",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1832",
+              "name": "Bob Sharen",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17797/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 17797
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37810",
+              "name": "Cover #37810",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37811",
+              "name": "The Breaking Storm",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17797/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 6933,
+        "digitalId": 0,
+        "title": "Avengers Annual (1967) #19",
+        "issueNumber": 19,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2012-03-27T15:22:09-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 68,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6933",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/6933/avengers_annual_1967_19?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/1988",
+          "name": "Avengers Annual (1967 - 1994)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-01-19T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/52166c8d45dc4",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/52166c8d45dc4",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 23,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/6933/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2707",
+              "name": "Jeff Albrecht",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2710",
+              "name": "Bob Downs",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2075",
+              "name": "Andy Mushynsky",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2268",
+              "name": "Mickey Ritter",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2713",
+              "name": "Gary Barnum",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+              "name": "Kurt Busiek",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/259",
+              "name": "Mark Gruenwald",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/392",
+              "name": "Dwayne McDuffie",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1935",
+              "name": "Paul Becton",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+              "name": "Steve Buccellato",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1932",
+              "name": "Ed Lazellari",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2711",
+              "name": "Dave Simpson",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+              "name": "Janice Chiang",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1933",
+              "name": "Jack Morelli",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1819",
+              "name": "Rick Parker",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2712",
+              "name": "Richard Howell",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2709",
+              "name": "Vince Mielcarek",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2267",
+              "name": "Jim Reddington",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1286",
+              "name": "Howard Mackie",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1901",
+              "name": "Tom Morgan",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/6933/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 6,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 6933
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/17398",
+              "name": "Avengers Annual (1967) #19",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/17399",
+              "name": "Beat Me In St. Louis",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/17400",
+              "name": "Media Watch: A Few Minutes With Andy Rooney",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/17401",
+              "name": "Acts of Vengeance:  Epilog",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/17402",
+              "name": "The Day the Strangers Came",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/17403",
+              "name": "Clowning Around",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 6
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/6933/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 7190,
+        "digitalId": 21874,
+        "title": "Avengers (1963) #313",
+        "issueNumber": 313,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2010-11-03T18:33:28-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7190",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/7190/avengers_1963_313?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=21874&utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+          "name": "Avengers (1963 - 1996)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-01-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2012-07-19T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/4e9496d04f378",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/4e9496d04f378",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/7190/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+              "name": "John Byrne",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1286",
+              "name": "Howard Mackie",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1894",
+              "name": "Bill Oakley",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/527",
+              "name": "Tom Palmer",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1961",
+              "name": "Mike Rockwitz",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/261",
+              "name": "Paul Ryan",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/7190/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 7190
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/14920",
+              "name": "Avengers (1963) #313 Cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/14921",
+              "name": "Thieves Honor",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/7190/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 13155,
+        "digitalId": 3265,
+        "title": "Fantastic Four (1961) #334",
+        "issueNumber": 334,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13155",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/13155/fantastic_four_1961_334?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3265&utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+          "name": "Fantastic Four (1961 - 1998)"
+        },
+        "variants": [],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13535",
+            "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (Trade Paperback)"
+          }
+        ],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-01-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc35f15f09bd",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc35f15f09bd",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13155/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1216",
+              "name": "Rich Buckler",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1894",
+              "name": "Bill Oakley",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2053",
+              "name": "George Roussos",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5125",
+              "name": "Walter Simonson",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1884",
+              "name": "Romeo Tanghal",
+              "role": "inker"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13155/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009179",
+              "name": "Beetle"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009245",
+              "name": "Constrictor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+              "name": "Invisible Woman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+              "name": "Mr. Fantastic"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+              "name": "Thing"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+              "name": "Thor"
+            }
+          ],
+          "returned": 9
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 13155
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/12960",
+              "name": "Cover #12960",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/12961",
+              "name": "Shadows of Alarm..!",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13155/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 17796,
+        "digitalId": 10936,
+        "title": "Avengers West Coast (1985) #54",
+        "issueNumber": 54,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17796",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/17796/avengers_west_coast_1985_54?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=10936&utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/3623",
+          "name": "Avengers West Coast (1985 - 1994)"
+        },
+        "variants": [],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17695",
+            "name": "Avengers West Coast: Darker than Scarlet (Trade Paperback)"
+          }
+        ],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-01-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-10-09T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bb5920be5722",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bb5920be5722",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17796/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+              "name": "John Byrne",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1286",
+              "name": "Howard Mackie",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1894",
+              "name": "Bill Oakley",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/261",
+              "name": "Paul Ryan",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1832",
+              "name": "Bob Sharen",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17796/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 17796
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37808",
+              "name": "Cover #37808",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37809",
+              "name": "The Troubled Earth",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17796/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 14610,
+        "digitalId": 0,
+        "title": "Peter Parker, the Spectacular Spider-Man (1976) #160",
+        "issueNumber": 160,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2010-11-03T18:23:33-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14610",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/14610/peter_parker_the_spectacular_spider-man_1976_160?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2271",
+          "name": "Peter Parker, the Spectacular Spider-Man (1976 - 1998)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-01-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/14610/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+              "name": "Sal Buscema",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+              "name": "Gerry Conway",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2296",
+              "name": "Glenn Herdling",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1833",
+              "name": "Jim Salicrup",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1819",
+              "name": "Rick Parker",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1832",
+              "name": "Bob Sharen",
+              "role": "colorist"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/14610/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 3,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 14610
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29664",
+              "name": "Cover #29664",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29665",
+              "name": "The Fear and the Fury or: The Metal in Men's Souls",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29666",
+              "name": "Spectacular Spider-Mail",
+              "type": "letters"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/14610/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 12059,
+        "digitalId": 0,
+        "title": "Web of Spider-Man (1985) #60",
+        "issueNumber": 60,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2012-11-21T13:56:43-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12059",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/12059/web_of_spider-man_1985_60?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2092",
+          "name": "Web of Spider-Man (1985 - 1995)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-01-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/50ad23c7be623",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/50ad23c7be623",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/12059/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+              "name": "Gerry Conway",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2296",
+              "name": "Glenn Herdling",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1833",
+              "name": "Jim Salicrup",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5365",
+              "name": "Phil Hugh Felix",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1819",
+              "name": "Rick Parker",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1164",
+              "name": "Alex Saviuk",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1832",
+              "name": "Bob Sharen",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2082",
+              "name": "Keith Williams",
+              "role": "inker"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/12059/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 3,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 12059
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21908",
+              "name": "Cover #21908",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21909",
+              "name": "The Harder They Fall",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21910",
+              "name": "Web-Zingers",
+              "type": "letters"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/12059/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 13798,
+        "digitalId": 7394,
+        "title": "Uncanny X-Men (1963) #257",
+        "issueNumber": 257,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13798",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/13798/uncanny_x-men_1963_257?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Uncanny-X-Men-257/digital-comic/7394?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7394&utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/7394?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+          "name": "Uncanny X-Men (1963 - 2011)"
+        },
+        "variants": [],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1079",
+            "name": "X-Men Visionaries: Jim Lee (Trade Paperback)"
+          }
+        ],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-01-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2008-09-17T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-08-20T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c362ab3d6342",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/4d38999fc48ef",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c362ab3d6342",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13798/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3886",
+              "name": "Daryl Edelman",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+              "name": "Tom Orzechowski",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/96",
+              "name": "Jim Lee",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+              "name": "Glynis Oliver",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/939",
+              "name": "Joe Rubinstein",
+              "role": "inker"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13798/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+              "name": "Banshee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009309",
+              "name": "Forge"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009399",
+              "name": "Legion"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009512",
+              "name": "Psylocke"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009573",
+              "name": "Shadow King"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+              "name": "Storm"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 8
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 13798
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28023",
+              "name": "Cover #28023",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28024",
+              "name": "I Am Lady Mandarin",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/13798/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 20172,
+        "digitalId": 0,
+        "title": "Doctor Strange, Sorcerer Supreme (1988) #13",
+        "issueNumber": 13,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20172",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/20172/doctor_strange_sorcerer_supreme_1988_13?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/3741",
+          "name": "Doctor Strange, Sorcerer Supreme (1988 - 1996)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-01-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1.5
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 14,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/20172/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+              "name": "Janice Chiang",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1892",
+              "name": "Michael Heisler",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1759",
+              "name": "Joe Rosen",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2820",
+              "name": "Dan Day",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3826",
+              "name": "David Day",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2697",
+              "name": "Butch Guice",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2724",
+              "name": "Jean-Marc Lofficier",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2725",
+              "name": "Randy Lofficier",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2706",
+              "name": "Dann Thomas",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+              "name": "Roy Thomas",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1961",
+              "name": "Mike Rockwitz",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6758",
+              "name": "Christie Scheele",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1899",
+              "name": "Max Scheele",
+              "role": "colorist"
+            }
+          ],
+          "returned": 14
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/20172/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009152",
+              "name": "Ancient One"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009239",
+              "name": "Clea"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 3,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 20172
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/43209",
+              "name": "The Barbaric Arkon - Victorious!!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/43210",
+              "name": "Arkon's New York Adventure",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/43211",
+              "name": "TBOTV:The Curse of the Darkhold Part V, The Torch is Passed",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/20172/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 9497,
+        "digitalId": 22235,
+        "title": "Iron Man (1968) #252",
+        "issueNumber": 252,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2012-11-21T13:57:48-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/9497",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/9497/iron_man_1968_252?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=22235&utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2029",
+          "name": "Iron Man (1968 - 1996)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1990-01-10T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-03-11T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/50ad240787146",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/50ad240787146",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/9497/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1286",
+              "name": "Howard Mackie",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/392",
+              "name": "Dwayne McDuffie",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/199",
+              "name": "Herb Trimpe",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/9497/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 3,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 9497
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/19474",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/19475",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/66593",
+              "name": "Iron Man 252 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/9497/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        }
+      }
+    ]
+  }
+}
