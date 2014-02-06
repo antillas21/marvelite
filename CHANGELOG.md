@@ -1,5 +1,18 @@
 ## Changelog
 
+### 0.0.5
+* Rewrites `Marvelite::API::Router` class to make flexible to future API versioning changes from Marvel.
+* Adds the following endpoints:
+  * retrieve events by connecting to the API's `/events` endpoint
+  * retieve a event by connecting to the API's `/events/:id` enpoint
+  * retrieve event characters by connecting to the API's `/events/:id/characters` endpoint.
+  * retrieve event comics by connecting to the API's `/events/:id/comics` endpoint.
+  * retrieve event creators by connecting to the API's `/events/:id/creators` endpoint.
+  * retrieve event series by connecting to the API's `/events/:id/series` endpoint.
+  * retrieve event stories by connecting to the API's `/events/:id/stories` endpoint.
+* Adds helper method to retrieve event sub-resources passing an event name instead of a numeric id.
+
+
 ### 0.0.4
 * Adds the following endpoints:
   * retrieve comics by connecting to the API's `/comics` endpoint

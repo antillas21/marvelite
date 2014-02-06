@@ -55,6 +55,13 @@ client = Marvelite::API::Client.new(
 | [#comic_creators](#comic_creators) | Fetches a list of comic creators whose work appears in a specific comic. |
 | [#comic_events](#comic_events) | Fetches a list of events in which a comic appears. |
 | [#comic_stories](#comic_stories) | Fetches a list of comic stories in a specific comic issue. |
+| [#events](#events) | Fetches a list of events. |
+| [#event](#event) | Fetches a single event resource. |
+| [#event_characters](#event_characters) | Fetches a list of characters which appear in a specific event. |
+| [#event_comics](#event_comics) | Fetches a list of comics which take place during a specific event. |
+| [#event_creators](#event_creators) | Fetches a list of event creators whose work appears in a specific event. |
+| [#event_series](#event_series) | Fetches a list of comic series in which a specific event takes place. |
+| [#event_stories](#event_stories) | Fetches a list of comic stories from a specific event. |
 
 
 #### characters
@@ -212,6 +219,82 @@ client.comic_stories(40128, :orderBy => 'name', :limit => 10)
 ```
 
 See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#!/public/getComicStoryCollection_get_11) for a complete list of params that you can pass to the `#comic_stories` method.
+
+#### events
+
+Fetches a list of events. Accepts optional params.
+
+```ruby
+client.events
+client.events(:name => 'Acts of Vengeance')
+client.events(:orderBy => 'name')
+```
+
+See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#!/public/getEventsCollection_get_18) for a complete list of params that you can pass to the `#events` method.
+
+#### event
+
+Fetches a single comic resource. Requires an event id value (integer).
+
+```ruby
+client.event(116)
+```
+
+#### event_characters
+
+Fetches a list of characters which appear in a specific event. Requires an event id value (integer). Accepts optional params.
+
+```ruby
+client.event_characters(116)
+client.event_characters(116, :orderBy => 'name', :limit => 30, :offset => 20)
+```
+
+See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#!/public/getEventCharacterCollection_get_20) for a complete list of params that you can pass to the `#event_characters` method.
+
+#### event_creators
+
+Fetches a list of comic creators whose work appears in a specific event. Requires an event id value (integer). Accepts optional params.
+
+```ruby
+client.event_creators(116)
+client.event_creators(116, :lastName => 'Romita')
+```
+
+See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#!/public/getCreatorCollection_get_22) for a complete list of params that you can pass to the `#event_creators` method.
+
+#### event_comics
+
+Fetches a list of comics which take place during a specific event. Requires an event id value (integer). Accepts optional params.
+
+```ruby
+client.event_comics(116)
+client.event_comics(116, :format => 'graphic novel', :orderBy => 'title', :limit => 10)
+```
+
+See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#!/public/getComicsCollection_get_21) for a complete list of params that you can pass to the `#event_comics` method.
+
+#### event_series
+
+Fetches a list of comic series in which a specific event takes place. Requires an event id value (integer). Accepts optional params.
+
+```ruby
+client.event_series(116)
+client.event_series(116, :orderBy => 'title', :limit => 10)
+```
+
+See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#!/public/getCreatorSeriesCollection_get_23) for a complete list of params that you can pass to the `#event_series` method.
+
+#### event_stories
+
+Fetches a list of comic stories from a specific event. Requires an event id value (integer). Accepts optional params.
+
+```ruby
+client.event_stories(116)
+client.event_stories(116, :limit => 10)
+```
+
+See the [Marvel Comics Interactive API Tester](http://developer.marvel.com/docs#!/public/getEventStoryCollection_get_24) for a complete list of params that you can pass to the `#event_stories` method.
+
 
 
 ## Responses
