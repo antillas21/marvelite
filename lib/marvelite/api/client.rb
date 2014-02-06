@@ -37,14 +37,6 @@ module Marvelite
         end
       end
 
-      def find_character_by_name(name)
-        response = self.characters(:name => name)
-        return false unless response[:data][:results].size > 0
-
-        response.id = response[:data][:results][0][:id]
-        response
-      end
-
       def build_response_object(response)
         case response["code"]
         when 200

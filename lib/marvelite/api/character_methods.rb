@@ -57,6 +57,14 @@ module Marvelite
         response = self.class.get(router.character_stories_path(:id => id), :query => params(query_params))
         build_response_object(response)
       end
+
+      def find_character_by_name(name)
+        response = self.characters(:name => name)
+        return false unless response[:data][:results].size > 0
+
+        response.id = response[:data][:results][0][:id]
+        response
+      end
     end
   end
 end

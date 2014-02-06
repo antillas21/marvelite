@@ -22,6 +22,7 @@ describe Marvelite::API::Client do
     describe '#event' do
       before do
         stub_get('events/40128?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'events/event.json')
+        stub_get('events?name=Acts%20of%20Vengeance!&apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'events/event.json')
       end
       it 'returns a Marvelite::API::Response object' do
         expect(client.event(40128)).to be_a(Marvelite::API::Response)
@@ -34,100 +35,124 @@ describe Marvelite::API::Client do
       it 'accepts an Integer as event id' do
         expect(client.event(40128)[:data][:results][0][:title]).to eq('Acts of Vengeance!')
       end
+
+      it 'accepts a String as event name' do
+        expect(client.event('Acts of Vengeance!')[:data][:results][0][:title]).to eq('Acts of Vengeance!')
+      end
     end
 
     describe '#event_characters' do
       before do
-        stub_get('events/40128/characters?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'events/event_characters.json')
+        stub_get('events/116/characters?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'events/event_characters.json')
       end
 
       it 'returns a Marvelite::API::Response object' do
-        expect(client.event_characters(40128)).to be_a(Marvelite::API::Response)
+        expect(client.event_characters(116)).to be_a(Marvelite::API::Response)
       end
 
       it 'Response object is populated with JSON from the events endpoint' do
-        expect(client.event_characters(40128)["status"]).to eq("Ok")
-        expect(client.event_characters(40128)[:data][:results].size).to eq(20)
+        expect(client.event_characters(116)["status"]).to eq("Ok")
+        expect(client.event_characters(116)[:data][:results].size).to eq(20)
       end
 
       it 'accepts an Integer as event id' do
-        expect(client.event_characters(40128)[:data][:results][0][:name]).to eq('Alpha Flight')
+        expect(client.event_characters(116)[:data][:results][0][:name]).to eq('Alpha Flight')
+      end
+
+      it 'accepts a String as event id' do
+        expect(client.event_characters('Acts of Vengeance!')[:data][:results][0][:name]).to eq('Alpha Flight')
       end
     end
 
     describe '#event_comics' do
       before do
-        stub_get('events/40128/comics?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'events/event_comics.json')
+        stub_get('events/116/comics?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'events/event_comics.json')
       end
 
       it 'returns a Marvelite::API::Response object' do
-        expect(client.event_comics(40128)).to be_a(Marvelite::API::Response)
+        expect(client.event_comics(116)).to be_a(Marvelite::API::Response)
       end
 
       it 'Response object is populated with JSON from the events endpoint' do
-        expect(client.event_comics(40128)["status"]).to eq("Ok")
-        expect(client.event_comics(40128)[:data][:results].size).to eq(20)
+        expect(client.event_comics(116)["status"]).to eq("Ok")
+        expect(client.event_comics(116)[:data][:results].size).to eq(20)
       end
 
       it 'accepts an Integer as event id' do
-        expect(client.event_comics(40128)[:data][:results][0][:title]).to eq('Avengers West Coast: Darker than Scarlet (Trade Paperback)')
+        expect(client.event_comics(116)[:data][:results][0][:title]).to eq('Avengers West Coast: Darker than Scarlet (Trade Paperback)')
+      end
+
+      it 'accepts a String as event id' do
+        expect(client.event_comics('Acts of Vengeance!')[:data][:results][0][:title]).to eq('Avengers West Coast: Darker than Scarlet (Trade Paperback)')
       end
     end
 
     describe '#event_creators' do
       before do
-        stub_get('events/40128/creators?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'events/event_creators.json')
+        stub_get('events/116/creators?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'events/event_creators.json')
       end
 
       it 'returns a Marvelite::API::Response object' do
-        expect(client.event_creators(40128)).to be_a(Marvelite::API::Response)
+        expect(client.event_creators(116)).to be_a(Marvelite::API::Response)
       end
 
       it 'Response object is populated with JSON from the events endpoint' do
-        expect(client.event_creators(40128)["status"]).to eq("Ok")
-        expect(client.event_creators(40128)[:data][:results].size).to eq(20)
+        expect(client.event_creators(116)["status"]).to eq("Ok")
+        expect(client.event_creators(116)[:data][:results].size).to eq(20)
       end
 
       it 'accepts an Integer as event id' do
-        expect(client.event_creators(40128)[:data][:results][0][:fullName]).to eq('Jeff Albrecht')
+        expect(client.event_creators(116)[:data][:results][0][:fullName]).to eq('Jeff Albrecht')
+      end
+
+      it 'accepts a String as event id' do
+        expect(client.event_creators('Acts of Vengeance!')[:data][:results][0][:fullName]).to eq('Jeff Albrecht')
       end
     end
 
     describe '#event_series' do
       before do
-        stub_get('events/40128/series?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'events/event_stories.json')
+        stub_get('events/116/series?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'events/event_stories.json')
       end
 
       it 'returns a Marvelite::API::Response object' do
-        expect(client.event_series(40128)).to be_a(Marvelite::API::Response)
+        expect(client.event_series(116)).to be_a(Marvelite::API::Response)
       end
 
       it 'Response object is populated with JSON from the events endpoint' do
-        expect(client.event_series(40128)["status"]).to eq("Ok")
-        expect(client.event_series(40128)[:data][:results].size).to eq(20)
+        expect(client.event_series(116)["status"]).to eq("Ok")
+        expect(client.event_series(116)[:data][:results].size).to eq(20)
       end
 
       it 'accepts an Integer as event id' do
-        expect(client.event_series(40128)[:data][:results][0][:title]).to eq('Cover #12960')
+        expect(client.event_series(116)[:data][:results][0][:title]).to eq('Cover #12960')
+      end
+
+      it 'accepts a String as event id' do
+        expect(client.event_series('Acts of Vengeance!')[:data][:results][0][:title]).to eq('Cover #12960')
       end
     end
 
     describe '#event_stories' do
       before do
-        stub_get('events/40128/stories?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'events/event_stories.json')
+        stub_get('events/116/stories?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'events/event_stories.json')
       end
 
       it 'returns a Marvelite::API::Response object' do
-        expect(client.event_stories(40128)).to be_a(Marvelite::API::Response)
+        expect(client.event_stories(116)).to be_a(Marvelite::API::Response)
       end
 
       it 'Response object is populated with JSON from the events endpoint' do
-        expect(client.event_stories(40128)["status"]).to eq("Ok")
-        expect(client.event_stories(40128)[:data][:results].size).to eq(20)
+        expect(client.event_stories(116)["status"]).to eq("Ok")
+        expect(client.event_stories(116)[:data][:results].size).to eq(20)
       end
 
       it 'accepts an Integer as event id' do
-        expect(client.event_stories(40128)[:data][:results][0][:title]).to eq('Cover #12960')
+        expect(client.event_stories(116)[:data][:results][0][:title]).to eq('Cover #12960')
+      end
+
+      it 'accepts a String as event id' do
+        expect(client.event_stories('Acts of Vengeance!')[:data][:results][0][:title]).to eq('Cover #12960')
       end
     end
   end
