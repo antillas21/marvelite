@@ -115,6 +115,7 @@ describe Marvelite::API::Client do
 
     describe '#character_stories' do
       before do
+        stub_get('characters?name=Spider-Man&apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'characters/character.json')
         stub_get('characters/1009610/stories?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'characters/character_stories.json')
       end
 

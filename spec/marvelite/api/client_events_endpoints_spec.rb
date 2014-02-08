@@ -21,19 +21,19 @@ describe Marvelite::API::Client do
 
     describe '#event' do
       before do
-        stub_get('events/40128?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'events/event.json')
+        stub_get('events/116?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'events/event.json')
         stub_get('events?name=Acts%20of%20Vengeance!&apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'events/event.json')
       end
       it 'returns a Marvelite::API::Response object' do
-        expect(client.event(40128)).to be_a(Marvelite::API::Response)
+        expect(client.event(116)).to be_a(Marvelite::API::Response)
       end
 
       it 'Response object is populated with JSON from the event endpoint' do
-        expect(client.event(40128)[:data][:results][0][:title]).to eq('Acts of Vengeance!')
+        expect(client.event(116)[:data][:results][0][:title]).to eq('Acts of Vengeance!')
       end
 
       it 'accepts an Integer as event id' do
-        expect(client.event(40128)[:data][:results][0][:title]).to eq('Acts of Vengeance!')
+        expect(client.event(116)[:data][:results][0][:title]).to eq('Acts of Vengeance!')
       end
 
       it 'accepts a String as event name' do

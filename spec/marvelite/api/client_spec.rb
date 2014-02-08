@@ -61,24 +61,4 @@ describe Marvelite::API::Client do
       end
     end
   end
-
-  context "helper methods" do
-    describe '#find_character_by_name' do
-      let(:client) { marvelite_test_client }
-
-      before do
-        stub_get('characters?name=Spider-Man&apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'characters/character.json')
-      end
-
-      it 'retrieves a character through its name' do
-        response = client.send(:find_character_by_name, 'Spider-Man')
-        expect(response[:data][:results][0][:id]).to eq(1009610)
-      end
-
-      it 'can call character.id to the response' do
-        character = client.send(:find_character_by_name, 'Spider-Man')
-        expect(character.id).to eq(1009610)
-      end
-    end
-  end
 end
