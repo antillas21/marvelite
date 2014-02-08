@@ -1,5 +1,17 @@
 ## Changelog
 
+### 0.0.6
+* Rewrites `Marvelite::API::Client` to allow for self discovery of available methods, depending on the `Marvelite::API::Router` injected at initialization.
+* Adds the following endpoints:
+  * retrieve series by connecting to the API's `/series` endpoint
+  * retieve a serie by connecting to the API's `/series/:id` enpoint
+  * retrieve serie characters by connecting to the API's `/series/:id/characters` endpoint.
+  * retrieve serie comics by connecting to the API's `/series/:id/comics` endpoint.
+  * retrieve serie creators by connecting to the API's `/series/:id/creators` endpoint.
+  * retrieve serie events by connecting to the API's `/series/:id/events` endpoint.
+  * retrieve serie stories by connecting to the API's `/series/:id/stories` endpoint.
+
+
 ### 0.0.5
 * Rewrites `Marvelite::API::Router` class to make flexible to future API versioning changes from Marvel.
 * Adds the following endpoints:

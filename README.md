@@ -71,6 +71,18 @@ client.event_comics(116)
 client.event_comics('Acts of Vengeance!')
 client.event_comics(116, :format => 'graphic novel', :orderBy => 'title', :limit => 10)
 client.event_comics('Acts of Vengeance!', :format => 'graphic novel', :orderBy => 'title', :limit => 10)
+
+# fetch a list of series
+client.series
+client.series(:title => 'Spider-Man')
+client.series(:orderBy => 'title')
+
+# fetch a single serie
+client.serie(2069)
+
+# fetch a list of comics in a serie
+client.serie_comics(2069)
+client.serie_comics(2069, :format => 'graphic novel', :orderBy => 'title', :limit => 10)
 ```
 
 See the list of [available methods](https://github.com/antillas21/marvelite/wiki/Documentation) in the wiki.
