@@ -83,6 +83,18 @@ client.serie(2069)
 # fetch a list of comics in a serie
 client.series_comics(2069)
 client.series_comics(2069, :format => 'graphic novel', :orderBy => 'title', :limit => 10)
+
+# fetch a list of stories
+client.stories
+client.stories(:limit => 50, :offset => 100)
+client.stories(:orderBy => 'id')
+
+# fetch a single story
+client.story(2210)
+
+# fetch a list of comics in a story
+client.story_comics(2210)
+client.story_comics(2210, :format => 'graphic novel', :orderBy => 'title', :limit => 10)
 ```
 
 See the list of [available methods](https://github.com/antillas21/marvelite/wiki/Documentation) in the wiki.
