@@ -1,0 +1,93 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "etag": "c24dc95f6fa891870eba57823dfaca6e7df279b6",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1,
+    "count": 1,
+    "results": [
+      {
+        "id": 2210,
+        "title": "2 of 3 - House of M",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2210",
+        "type": "cover",
+        "modified": "2013-07-22T13:09:58-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2210/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/191",
+              "name": "Kaare Andrews",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2210/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010954",
+              "name": "Mystique (House of M)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009570",
+              "name": "Sentinel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 2210
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/632",
+              "name": "Wolverine (2003 - 2009)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2210/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2521",
+              "name": "Wolverine (2003) #34"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/2210/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+              "name": "House of M"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/2521",
+          "name": "Wolverine (2003) #34"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "etag": "032b09b1dfce2fdc513580106b8a975b08906749",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1,
+    "count": 1,
+    "results": [
+      {
+        "id": 251,
+        "title": "House of M",
+        "description": "When the Scarlet Witch alters reality, the Avengers and X-Men face a world like none theyâ€™ve ever known! Writer Brian Michael Bendis and artist Olivier Coipel re-imagine the Marvel Universe with Magneto bringing mutantkind to prominence in an eight-issue event. As the only person who remembers how things used to be, can Wolverine set things right? Should he?",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/events/251/house_of_m?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/House_of_M?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ],
+        "modified": "2013-06-26T16:48:31-0400",
+        "start": "2005-06-01 00:00:00",
+        "end": "2005-11-28 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/51cb5330eabdf",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 86,
+          "collectionURI": "http://gateway.marvel.com/v1/public/events/251/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/498",
+              "name": "Greg Adams",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+              "name": "Udon Comics",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/359",
+              "name": "John Dell",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/889",
+              "name": "Jesse Delperdang",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/191",
+              "name": "Kaare Andrews",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/530",
+              "name": "Andy Brase",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11421",
+              "name": "Roberto Delatorre",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5106",
+              "name": "Scot Eaton",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/352",
+              "name": "Tony Bedard",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+              "name": "Ed Brubaker",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+              "name": "Peter David",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9201",
+              "name": "Nunzio DeFilippis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6170",
+              "name": "Olivier Coipel",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+              "name": "Alan Davis",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+              "name": "Frank D'Armata",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+              "name": "Edgar Delgado",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/618",
+              "name": "Transparency Digital",
+              "role": "colorist"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 35,
+          "collectionURI": "http://gateway.marvel.com/v1/public/events/251/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009170",
+              "name": "Baron Zemo (Heinrich Zemo)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+              "name": "Bishop"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010914",
+              "name": "Captain America (House of M)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009453",
+              "name": "Dani Moonstar"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+              "name": "Deadpool"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+              "name": "Doctor Doom"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010771",
+              "name": "Excalibur"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009294",
+              "name": "Exiles"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+              "name": "Hawkeye"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010678",
+              "name": "Hellion"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+              "name": "Invisible Woman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009372",
+              "name": "J. Jonah Jameson"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010942",
+              "name": "Magik (Amanda Sefton)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 142,
+          "collectionURI": "http://gateway.marvel.com/v1/public/events/251/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/563",
+              "name": "Interior #563",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/748",
+              "name": "1 of 4 - Season of the Witch",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/749",
+              "name": "1 of 4 - Season of the Witch",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/752",
+              "name": "2 of 4 - Season of the Witch",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/753",
+              "name": "2 of 4 - Season of the Witch",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/754",
+              "name": "4 of 4 - Season of the Witch (HoM)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/755",
+              "name": "4 of 4 - Season of the Witch (HoM)",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/756",
+              "name": "3 of 4 - Season of the Witch (HoM)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/757",
+              "name": "3 of 4 - Season of the Witch (HoM)",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1246",
+              "name": "1 of 4 - Last Refuge (House of M)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1247",
+              "name": "1 of 4 - Last Refuge (House of M)",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1248",
+              "name": "2 of 4 - Last Refuge (House of M)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1249",
+              "name": "2 of 4 - Last Refuge (House of M)",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1250",
+              "name": "3 of 4 - Last Refuge (House of M)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1251",
+              "name": "3 of 4 - Last Refuge (House of M)",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1253",
+              "name": "1 of 1 -",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1256",
+              "name": "4 of 4 - Terror Incognita",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1257",
+              "name": "4 of 4 - Terror Incognita",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1259",
+              "name": "2 of 4 - Terror Incognita",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1550",
+              "name": "Exiles (2001) #70",
+              "type": "cover"
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 68,
+          "collectionURI": "http://gateway.marvel.com/v1/public/events/251/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2323",
+              "name": "Black Panther (2005) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2213",
+              "name": "Cable & Deadpool (2004) #17"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2420",
+              "name": "Captain America (2004) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2017",
+              "name": "Excalibur (2004) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2018",
+              "name": "Excalibur (2004) #14"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2819",
+              "name": "Exiles (2001) #69"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2456",
+              "name": "Exiles (2001) #70"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2457",
+              "name": "Exiles (2001) #71"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4872",
+              "name": "Fantastic Four: House of M (2005) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2253",
+              "name": "Fantastic Four: House of M (2005) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2361",
+              "name": "Fantastic Four: House of M (2005) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2828",
+              "name": "Fantastic Four: House of M (2005) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3569",
+              "name": "Giant-Size Ms. Marvel (2006) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4005",
+              "name": "House of M (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17675",
+              "name": "House of M (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2092",
+              "name": "House of M (2005) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2093",
+              "name": "House of M (2005) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2198",
+              "name": "House of M (2005) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2199",
+              "name": "House of M (2005) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2316",
+              "name": "House of M (2005) #5"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 35,
+          "collectionURI": "http://gateway.marvel.com/v1/public/events/251/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/784",
+              "name": "Black Panther (2005 - 2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/693",
+              "name": "Cable & Deadpool (2004 - 2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/832",
+              "name": "Captain America (2004 - 2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/740",
+              "name": "Excalibur (2004 - 2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/479",
+              "name": "Exiles (2001 - 2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/933",
+              "name": "Fantastic Four: House of M (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1025",
+              "name": "Giant-Size Ms. Marvel (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3441",
+              "name": "House of M (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/362",
+              "name": "House of M (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/855",
+              "name": "House of M (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/5070",
+              "name": "House of M: Avengers (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/7262",
+              "name": "House of M: Civil War (1938 - 2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1530",
+              "name": "House of M: Excalibur - Prelude (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1615",
+              "name": "House of M: Fantastic Four/Iron Man (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1548",
+              "name": "House of M: Incredible Hulk (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/8766",
+              "name": "House of M: Masters of Evil (2010 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1529",
+              "name": "House of M: Mutopia X (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1625",
+              "name": "House of M: New X-Men (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/9462",
+              "name": "House of M: No More Mutants (2010)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1481",
+              "name": "House of M: Spider-Man (2006)"
+            }
+          ],
+          "returned": 20
+        },
+        "next": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/events/266",
+          "name": "Other - Evolve or Die"
+        },
+        "previous": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/events/245",
+          "name": "Enemy of the State"
+        }
+      }
+    ]
+  }
+}

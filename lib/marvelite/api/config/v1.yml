@@ -76,3 +76,21 @@
 26:
   name: 'series_stories'
   path: '/public/series/:id/stories'
+27:
+  name: 'stories'
+  path: '/public/stories'
+28:
+  name: 'story'
+  path: '/public/stories/:id'
+29:
+  name: 'story_characters'
+  path: '/public/stories/:id/characters'
+30:
+  name: 'story_comics'
+  path: '/public/stories/:id/comics'
+31:
+  name: 'story_creators'
+  path: '/public/stories/:id/creators'
+32:
+  name: 'story_events'
+  path: '/public/stories/:id/events'

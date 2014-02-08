@@ -1,0 +1,333 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "etag": "e3c32050409cc2ff17b7b5847a8d9d21ee9bdcad",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1,
+    "count": 1,
+    "results": [
+      {
+        "id": 191,
+        "firstName": "Kaare",
+        "middleName": "",
+        "lastName": "Andrews",
+        "suffix": "",
+        "fullName": "Kaare Andrews",
+        "modified": "2013-03-15T17:04:18-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/4bc5fb5688ed7",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/191",
+        "comics": {
+          "available": 174,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/191/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/43495",
+              "name": "A+X (2012) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/43501",
+              "name": "A+X (2012) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/24348",
+              "name": "Adam: Legend of the Blue Marvel (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/22461",
+              "name": "Adam: Legend of the Blue Marvel (2008) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2212",
+              "name": "Amazing Spider-Man (1999) #522"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3019",
+              "name": "Amazing Spider-Man Vol. 10: New Avengers (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/22572",
+              "name": "Astonishing X-Men: Ghost Boxes (2008) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/29320",
+              "name": "Astonishing X-Men: Xenogenesis (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/32864",
+              "name": "Astonishing X-Men: Xenogenesis (2010) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/32867",
+              "name": "Astonishing X-Men: Xenogenesis (2010) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/32869",
+              "name": "Astonishing X-Men: Xenogenesis (2010) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/32871",
+              "name": "Astonishing X-Men: Xenogenesis (2010) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/32874",
+              "name": "Astonishing X-Men: Xenogenesis (2010) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/42486",
+              "name": "Avengers Vs. X-Men: Versus (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/42489",
+              "name": "Avengers Vs. X-Men: Versus (2011) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/43014",
+              "name": "Avengers Vs. X-Men: Versus (2011) #4 (Fight Poster Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2165",
+              "name": "Black Panther (2005) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2323",
+              "name": "Black Panther (2005) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3964",
+              "name": "Black Panther: Who Is the Black Panther (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/23971",
+              "name": "Cable (2008) #13"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 80,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/191/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/16450",
+              "name": "A+X (2012 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/7524",
+              "name": "Adam: Legend of the Blue Marvel (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6079",
+              "name": "Adam: Legend of the Blue Marvel (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1489",
+              "name": "Amazing Spider-Man Vol. 10: New Avengers (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/5998",
+              "name": "Astonishing X-Men: Ghost Boxes (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/10029",
+              "name": "Astonishing X-Men: Xenogenesis (2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/9781",
+              "name": "Astonishing X-Men: Xenogenesis (2010)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/16229",
+              "name": "Avengers Vs. X-Men: Versus (2011 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/16230",
+              "name": "Avengers Vs. X-Men: Versus (2011 - 2012)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/784",
+              "name": "Black Panther (2005 - 2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1682",
+              "name": "Black Panther: Who Is the Black Panther (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/4002",
+              "name": "Cable (2008 - 2010)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/449",
+              "name": "Daredevil (1998 - 2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/5705",
+              "name": "Dead of Night Featuring Devil-Slayer (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3836",
+              "name": "Dead of Night Featuring Man-Thing (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/15487",
+              "name": "Deadpool Kills the Marvel Universe (2011 - 2012)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/15223",
+              "name": "Hulk: Boiling Point Premiere HC (2011 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1140",
+              "name": "Immortal Iron Fist (2006 - 2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/5738",
+              "name": "Immortal Iron Fist: Orson Randall and the Death Queen of California (2008)"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 203,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/191/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/218",
+              "name": "Student by day, masked ninja by night: Peter Parker is not your average teenager. When Peter puts on that Spider-Man costume, th",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1169",
+              "name": "4 of 5 - New Avengers",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1298",
+              "name": "Cover #1298",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2206",
+              "name": "1 of 1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2207",
+              "name": "1 of 1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2210",
+              "name": "2 of 3 - House of M",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2212",
+              "name": "3 of 3 - House of M",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2217",
+              "name": "2 of 5 - Origins & Endings, Vol. 1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2219",
+              "name": "3 of 5 - Origins & Endings, Vol. 1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2221",
+              "name": "4 of 5 - Origins & Endings, Vol. 1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2223",
+              "name": "5 of 5 - Origins & Endings, Vol. 1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3194",
+              "name": "Cover #3194",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3195",
+              "name": "Interior #3195",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3196",
+              "name": "Cover #3196",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3197",
+              "name": "Interior #3197",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3198",
+              "name": "Cover #3198",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3199",
+              "name": "Interior #3199",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3200",
+              "name": "As poisonous radiation courses through his bloodstream, a vicious Doctor Octopus cracks the secret of Spider-Man and prepares fo",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3201",
+              "name": "As poisonous radiation courses through his bloodstream, a vicious Doctor Octopus cracks the secret of Spider-Man and prepares fo",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3202",
+              "name": "The brutal conclusion to the fantastic series, featuring the first epic battle between The Amazing Spider-Man and Doctor Octopus",
+              "type": "cover"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/191/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+              "name": "House of M"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/37",
+              "name": "Maximum Security"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/298",
+              "name": "Messiah War"
+            }
+          ],
+          "returned": 3
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/191/kaare_andrews?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ]
+      }
+    ]
+  }
+}
