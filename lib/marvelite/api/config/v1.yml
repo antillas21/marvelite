@@ -62,17 +62,17 @@
   name: 'serie'
   path: '/public/series/:id'
 22:
-  name: 'serie_characters'
+  name: 'series_characters'
   path: '/public/series/:id/characters' 
 23:
-  name: 'serie_comics'
+  name: 'series_comics'
   path: '/public/series/:id/comics'
 24:
-  name: 'serie_creators'
+  name: 'series_creators'
   path: '/public/series/:id/creators'
 25:
-  name: 'serie_events'
+  name: 'series_events'
   path: '/public/series/:id/events'
 26:
-  name: 'serie_stories'
+  name: 'series_stories'
   path: '/public/series/:id/stories'

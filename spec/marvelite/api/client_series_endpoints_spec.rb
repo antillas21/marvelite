@@ -43,16 +43,16 @@ describe Marvelite::API::Client do
       end
 
       it 'returns a Marvelite::API::Response object' do
-        expect(client.serie_characters(2069)).to be_a(Marvelite::API::Response)
+        expect(client.series_characters(2069)).to be_a(Marvelite::API::Response)
       end
 
       it 'Response object is populated with JSON from the series endpoint' do
-        expect(client.serie_characters(2069)["status"]).to eq("Ok")
-        expect(client.serie_characters(2069)[:data][:results].size).to eq(16)
+        expect(client.series_characters(2069)["status"]).to eq("Ok")
+        expect(client.series_characters(2069)[:data][:results].size).to eq(16)
       end
 
       it 'accepts an Integer as serie id' do
-        expect(client.serie_characters(2069)[:data][:results][0][:name]).to eq('Adam Warlock')
+        expect(client.series_characters(2069)[:data][:results][0][:name]).to eq('Adam Warlock')
       end
     end
 
@@ -62,16 +62,16 @@ describe Marvelite::API::Client do
       end
 
       it 'returns a Marvelite::API::Response object' do
-        expect(client.serie_comics(2069)).to be_a(Marvelite::API::Response)
+        expect(client.series_comics(2069)).to be_a(Marvelite::API::Response)
       end
 
       it 'Response object is populated with JSON from the series endpoint' do
-        expect(client.serie_comics(2069)["status"]).to eq("Ok")
-        expect(client.serie_comics(2069)[:data][:results].size).to eq(20)
+        expect(client.series_comics(2069)["status"]).to eq("Ok")
+        expect(client.series_comics(2069)[:data][:results].size).to eq(20)
       end
 
       it 'accepts an Integer as serie id' do
-        expect(client.serie_comics(2069)[:data][:results][0][:title]).to eq('Spider-Man (1990) #98')
+        expect(client.series_comics(2069)[:data][:results][0][:title]).to eq('Spider-Man (1990) #98')
       end
     end
 
@@ -81,16 +81,16 @@ describe Marvelite::API::Client do
       end
 
       it 'returns a Marvelite::API::Response object' do
-        expect(client.serie_creators(2069)).to be_a(Marvelite::API::Response)
+        expect(client.series_creators(2069)).to be_a(Marvelite::API::Response)
       end
 
       it 'Response object is populated with JSON from the series endpoint' do
-        expect(client.serie_creators(2069)["status"]).to eq("Ok")
-        expect(client.serie_creators(2069)[:data][:results].size).to eq(20)
+        expect(client.series_creators(2069)["status"]).to eq("Ok")
+        expect(client.series_creators(2069)[:data][:results].size).to eq(20)
       end
 
       it 'accepts an Integer as serie id' do
-        expect(client.serie_creators(2069)[:data][:results][0][:fullName]).to eq('Comicraft')
+        expect(client.series_creators(2069)[:data][:results][0][:fullName]).to eq('Comicraft')
       end
     end
 
@@ -100,16 +100,16 @@ describe Marvelite::API::Client do
       end
 
       it 'returns a Marvelite::API::Response object' do
-        expect(client.serie_events(2069)).to be_a(Marvelite::API::Response)
+        expect(client.series_events(2069)).to be_a(Marvelite::API::Response)
       end
 
       it 'Response object is populated with JSON from the series endpoint' do
-        expect(client.serie_events(2069)["status"]).to eq("Ok")
-        expect(client.serie_events(2069)[:data][:results].size).to eq(3)
+        expect(client.series_events(2069)["status"]).to eq("Ok")
+        expect(client.series_events(2069)[:data][:results].size).to eq(3)
       end
 
       it 'accepts an Integer as serie id' do
-        expect(client.serie_events(2069)[:data][:results][0][:title]).to eq('Infinity War')
+        expect(client.series_events(2069)[:data][:results][0][:title]).to eq('Infinity War')
       end
     end
 
@@ -119,16 +119,16 @@ describe Marvelite::API::Client do
       end
 
       it 'returns a Marvelite::API::Response object' do
-        expect(client.serie_stories(2069)).to be_a(Marvelite::API::Response)
+        expect(client.series_stories(2069)).to be_a(Marvelite::API::Response)
       end
 
       it 'Response object is populated with JSON from the series endpoint' do
-        expect(client.serie_stories(2069)["status"]).to eq("Ok")
-        expect(client.serie_stories(2069)[:data][:results].size).to eq(20)
+        expect(client.series_stories(2069)["status"]).to eq("Ok")
+        expect(client.series_stories(2069)[:data][:results].size).to eq(20)
       end
 
       it 'accepts an Integer as serie id' do
-        expect(client.serie_stories(2069)[:data][:results][0][:title]).to eq('Cover #23741')
+        expect(client.series_stories(2069)[:data][:results][0][:title]).to eq('Cover #23741')
       end
     end
   end

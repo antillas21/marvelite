@@ -81,8 +81,8 @@ client.series(:orderBy => 'title')
 client.serie(2069)
 
 # fetch a list of comics in a serie
-client.serie_comics(2069)
-client.serie_comics(2069, :format => 'graphic novel', :orderBy => 'title', :limit => 10)
+client.series_comics(2069)
+client.series_comics(2069, :format => 'graphic novel', :orderBy => 'title', :limit => 10)
 ```
 
 See the list of [available methods](https://github.com/antillas21/marvelite/wiki/Documentation) in the wiki.
