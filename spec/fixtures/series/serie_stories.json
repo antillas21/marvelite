@@ -1,0 +1,1312 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "etag": "26de58110a505cd7d52252230ecfc97f796cebce",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 249,
+    "count": 20,
+    "results": [
+      {
+        "id": 23741,
+        "title": "Cover #23741",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23741",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23741/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3916",
+              "name": "Dan Fraga",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "inker"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23741/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009325",
+              "name": "Norman Osborn"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23741
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23741/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10766",
+              "name": "Spider-Man (1990)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23741/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10766",
+          "name": "Spider-Man (1990)"
+        }
+      },
+      {
+        "id": 23742,
+        "title": "A Prelude in Red",
+        "description": "In the days before Peter Parker became Spider-Man, George and Arthur Stacy investigate a series of killings which leads to Osborn Industries",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23742",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23742/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3600",
+              "name": "Kiff Scholl",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3916",
+              "name": "Dan Fraga",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+              "name": "Scott Hanna",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4131",
+              "name": "Matt Hicks",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1286",
+              "name": "Howard Mackie",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2364",
+              "name": "Greg Wright",
+              "role": "colorist"
+            }
+          ],
+          "returned": 10
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23742/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23742
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23742/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10766",
+              "name": "Spider-Man (1990)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23742/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10766",
+          "name": "Spider-Man (1990)"
+        }
+      },
+      {
+        "id": 23743,
+        "title": "Post It to Peter!",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23743",
+        "type": "letters",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23743/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23743/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23743
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23743/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10766",
+              "name": "Spider-Man (1990)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23743/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10766",
+          "name": "Spider-Man (1990)"
+        }
+      },
+      {
+        "id": 23744,
+        "title": "Cover #23744",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23744",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23744/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/75",
+              "name": "Todd McFarlane",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1833",
+              "name": "Jim Salicrup",
+              "role": "editor"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23744/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23744
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23744/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10767",
+              "name": "Spider-Man (1990) #1"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23744/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10767",
+          "name": "Spider-Man (1990) #1"
+        }
+      },
+      {
+        "id": 23745,
+        "title": "Torment Part 1",
+        "description": "Lizard goes on a rampage and Spidey investigates.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23745",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23745/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/75",
+              "name": "Todd McFarlane",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1819",
+              "name": "Rick Parker",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1832",
+              "name": "Bob Sharen",
+              "role": "colorist"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23745/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23745
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23745/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10767",
+              "name": "Spider-Man (1990) #1"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23745/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10767",
+          "name": "Spider-Man (1990) #1"
+        }
+      },
+      {
+        "id": 23746,
+        "title": "",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23746",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23746/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23746/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23746
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23746/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10768",
+              "name": "Spider-Man (1990) #10"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23746/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10768",
+          "name": "Spider-Man (1990) #10"
+        }
+      },
+      {
+        "id": 23747,
+        "title": "",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23747",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23747/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23747/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23747
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23747/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10769",
+              "name": "Spider-Man (1990) #11"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23747/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10769",
+          "name": "Spider-Man (1990) #11"
+        }
+      },
+      {
+        "id": 23748,
+        "title": "",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23748",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23748/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23748/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23748
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23748/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10770",
+              "name": "Spider-Man (1990) #12"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23748/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10770",
+          "name": "Spider-Man (1990) #12"
+        }
+      },
+      {
+        "id": 23749,
+        "title": "",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23749",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23749/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23749/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23749
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23749/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10771",
+              "name": "Spider-Man (1990) #13"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23749/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10771",
+          "name": "Spider-Man (1990) #13"
+        }
+      },
+      {
+        "id": 23750,
+        "title": "",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23750",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23750/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23750/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23750
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23750/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10772",
+              "name": "Spider-Man (1990) #14"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23750/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10772",
+          "name": "Spider-Man (1990) #14"
+        }
+      },
+      {
+        "id": 23751,
+        "title": "",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23751",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23751/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23751/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23751
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23751/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10773",
+              "name": "Spider-Man (1990) #15"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23751/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10773",
+          "name": "Spider-Man (1990) #15"
+        }
+      },
+      {
+        "id": 23752,
+        "title": "",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23752",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23752/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23752/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23752
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23752/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10774",
+              "name": "Spider-Man (1990) #16"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23752/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10774",
+          "name": "Spider-Man (1990) #16"
+        }
+      },
+      {
+        "id": 23753,
+        "title": "",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23753",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23753/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23753/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23753
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23753/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10775",
+              "name": "Spider-Man (1990) #17"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23753/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10775",
+          "name": "Spider-Man (1990) #17"
+        }
+      },
+      {
+        "id": 23754,
+        "title": "",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23754",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23754/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23754/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23754
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23754/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10776",
+              "name": "Spider-Man (1990) #18"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23754/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10776",
+          "name": "Spider-Man (1990) #18"
+        }
+      },
+      {
+        "id": 23755,
+        "title": "",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23755",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23755/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23755/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23755
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23755/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10777",
+              "name": "Spider-Man (1990) #19"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23755/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10777",
+          "name": "Spider-Man (1990) #19"
+        }
+      },
+      {
+        "id": 23756,
+        "title": "Torment, Part 2 of 5: Blood Lust of the Lizard!",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23756",
+        "type": "cover",
+        "modified": "2012-11-21T11:56:24-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23756/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3395",
+              "name": "Dan Cuddy",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1833",
+              "name": "Jim Salicrup",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/75",
+              "name": "Todd McFarlane",
+              "role": "colorist"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23756/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009404",
+              "name": "Lizard"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23756
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23756/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10778",
+              "name": "Spider-Man (1990) #2"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23756/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10778",
+          "name": "Spider-Man (1990) #2"
+        }
+      },
+      {
+        "id": 23757,
+        "title": "Torment, Part 2",
+        "description": "Spider-Man versus the Lizard.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23757",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23757/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/75",
+              "name": "Todd McFarlane",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1819",
+              "name": "Rick Parker",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1832",
+              "name": "Bob Sharen",
+              "role": "colorist"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23757/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009218",
+              "name": "Calypso"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23757
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23757/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10778",
+              "name": "Spider-Man (1990) #2"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23757/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10778",
+          "name": "Spider-Man (1990) #2"
+        }
+      },
+      {
+        "id": 23758,
+        "title": "Spider Mania",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23758",
+        "type": "text article",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23758/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1833",
+              "name": "Jim Salicrup",
+              "role": "writer"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23758/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23758
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23758/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10778",
+              "name": "Spider-Man (1990) #2"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23758/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10778",
+          "name": "Spider-Man (1990) #2"
+        }
+      },
+      {
+        "id": 23759,
+        "title": "",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23759",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23759/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23759/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23759
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23759/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10779",
+              "name": "Spider-Man (1990) #20"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23759/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10779",
+          "name": "Spider-Man (1990) #20"
+        }
+      },
+      {
+        "id": 23760,
+        "title": "",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23760",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23760/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23760/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 23760
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+              "name": "Spider-Man (1990 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23760/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10780",
+              "name": "Spider-Man (1990) #21"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/23760/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/10780",
+          "name": "Spider-Man (1990) #21"
+        }
+      }
+    ]
+  }
+}
