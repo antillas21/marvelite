@@ -23,6 +23,7 @@ describe Marvelite::API::Client do
       before do
         stub_get('characters?name=Spider-Man&apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'characters/character.json')
         stub_get('characters/1009610?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'characters/character.json')
+        stub_get('characters/1009227?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'characters/character_2.json')
       end
       it 'returns a Marvelite::API::Response object' do
         expect(client.character(1009610)).to be_a(Marvelite::API::Response)
@@ -34,6 +35,7 @@ describe Marvelite::API::Client do
 
       it 'accepts an Integer as character id' do
         expect(client.character(1009610)[:data][:results][0][:name]).to eq('Spider-Man')
+        expect(client.character(1009227)[:data][:results][0][:name]).to eq('Carnage')
       end
 
       it 'accepts a String as character name' do

@@ -6,9 +6,8 @@ module Marvelite
 
       def initialize(attrs = {})
         @api_version = attrs.fetch(:api_version) { 'v1' }
-        @routes = []
+        @routes = {}
         load_routes_from_file("#{api_version}.yml")
-        map_routes
       end
 
       def inspect
@@ -28,21 +27,24 @@ module Marvelite
       end
 
       def add_route(name, endpoint)
-        route = [name, endpoint]
-        routes << route
+        routes["#{name}_path".to_sym] = { :name => name, :endpoint => endpoint }
       end
 
-      def map_routes
-        routes.each do |name, endpoint|
-          self.class.send(:define_method, "#{name}_path") do |params = {}|
-            params
-            params.each do |p_key, p_value|
+      def method_missing(method, *args, &block)
+        if routes.keys.include?(method)
+          endpoint = "#{routes[method][:endpoint]}"
+          params = *args
+          if params.any?
+            params[0].each do |p_key, p_value|
               endpoint.gsub!(":#{p_key.to_s}", p_value.to_s)
             end
-            "/#{api_version}#{endpoint}"
           end
+          "/#{api_version}#{endpoint}"
+        else
+          super
         end
       end
+
     end
   end
 end

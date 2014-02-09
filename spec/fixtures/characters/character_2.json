@@ -1,0 +1,274 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "etag": "0008d7adbeae74e36a2196b902d36aba282c8ca2",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1,
+    "count": 1,
+    "results": [
+      {
+        "id": 1009227,
+        "name": "Carnage",
+        "description": "",
+        "modified": "2011-11-09T17:46:06-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4ebb024c894db",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009227",
+        "comics": {
+          "available": 21,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009227/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6809",
+              "name": "Amazing Spider-Man (1963) #394"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/34628",
+              "name": "Carnage (2010) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/36404",
+              "name": "Carnage (2010) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/39011",
+              "name": "Carnage (2010) #1 (2nd Printing Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/37072",
+              "name": "Carnage (2010) #1 (ADAMS VARIANT)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/36271",
+              "name": "Carnage (2010) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/39010",
+              "name": "Carnage (2010) #2 (2nd Printing Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/34623",
+              "name": "Carnage (2010) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/39650",
+              "name": "Carnage (2010) #3 (2nd Printing Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/36273",
+              "name": "Carnage (2010) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/36269",
+              "name": "Carnage (2010) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/40355",
+              "name": "Carnage, U.S.A. (2011) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/40353",
+              "name": "Carnage, U.S.A. (2011) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14656",
+              "name": "Peter Parker, the Spectacular Spider-Man (1976) #201"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14657",
+              "name": "Peter Parker, the Spectacular Spider-Man (1976) #202"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14658",
+              "name": "Peter Parker, the Spectacular Spider-Man (1976) #203"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14691",
+              "name": "Peter Parker, the Spectacular Spider-Man (1976) #233"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10518",
+              "name": "Peter Parker: Spider-Man (1999) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10521",
+              "name": "Peter Parker: Spider-Man (1999) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5396",
+              "name": "Spider-Man Family Featuring Spider-Clan (2006) #1"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009227/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1987",
+              "name": "Amazing Spider-Man (1963 - 1998)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/11942",
+              "name": "Carnage (2010 - 2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/14984",
+              "name": "Carnage, U.S.A. (2011 - 2012)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2271",
+              "name": "Peter Parker, the Spectacular Spider-Man (1976 - 1998)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2060",
+              "name": "Peter Parker: Spider-Man (1999 - 2003)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1091",
+              "name": "Spider-Man Family Featuring Spider-Clan (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/13532",
+              "name": "Spider-Man: With Great Power Comes Great Responsibility (2010 - 2011)"
+            }
+          ],
+          "returned": 7
+        },
+        "stories": {
+          "available": 23,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009227/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/5990",
+              "name": "Cover #5990",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/14248",
+              "name": "Carnage",
+              "type": "profile"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/25562",
+              "name": "Venom Triumphant!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/25569",
+              "name": "When Carnage comes calling!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29779",
+              "name": "Maximum Carnage, Part 5 of 14",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29782",
+              "name": "Maximum Carnage, Part 9 of 14",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29785",
+              "name": "Maximum Carnage, Part 13 of 14",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29914",
+              "name": "Web of Carnage, Part 4 of 4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/76812",
+              "name": "Carnage #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/76813",
+              "name": "Carnage #3",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/80312",
+              "name": "Carnage #5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/80318",
+              "name": "Interior #80318",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/80322",
+              "name": "Interior #80322",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/80326",
+              "name": "Carnage (2010) #4",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/80823",
+              "name": "Interior #80823",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/80825",
+              "name": "Interior #80825",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/80827",
+              "name": "Interior #80827",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/80829",
+              "name": "Interior #80829",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/82181",
+              "name": "Interior #82181",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/89988",
+              "name": "CARNAGE 3 2ND PRINTING VARIANT",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009227/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/151",
+              "name": "Maximum Carnage"
+            }
+          ],
+          "returned": 1
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1009227/carnage?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          },
+          {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Carnage_(Cletus_Kasady)?utm_campaign=apiRef&utm_source=85ec0830b5958f4f46ea2fa898a76ef2"
+          }
+        ]
+      }
+    ]
+  }
+}

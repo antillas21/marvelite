@@ -45,7 +45,7 @@ module Marvelite
       def find_by_name_or_title(endpoint, column, value)
         response = self.send(endpoint, { column.to_sym => value })
         return false unless response[:data][:count] > 0
-        response.id = response[:data][:results][0][:id]
+        response[:id] = response[:data][:results][0][:id]
         response
       end
 
@@ -79,11 +79,12 @@ module Marvelite
         endpoint = route.split("_")[0]+"s"
         resource = find_by_name_or_title(endpoint.to_sym, :name, id)
         return false unless resource
-        resource.id
+        resource[:id]
       end
 
       def build_methods
-        @router.routes.each do |name, _|
+        @router.routes.each do |_, hash|
+          name = hash[:name]
           self.class.send(:define_method, name) do |*args|
             params = process_arguments(*args)
             response = fetch_response(name, params)
