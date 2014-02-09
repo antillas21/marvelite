@@ -1,0 +1,329 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "etag": "7f63fd3b02630c642c7d64894247ada4f2e60669",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1,
+    "count": 1,
+    "results": [
+      {
+        "id": 593,
+        "firstName": "Lee",
+        "middleName": "",
+        "lastName": "Loughridge",
+        "suffix": "",
+        "fullName": "Lee Loughridge",
+        "modified": "2012-12-31T09:41:15-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc470880fb91",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+        "comics": {
+          "available": 131,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/593/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/41265",
+              "name": "Age of Apocalypse (2011) #9"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/41271",
+              "name": "Age of Apocalypse (2011) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21513",
+              "name": "Black Panther (2005) #39"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21716",
+              "name": "Black Panther (2005) #40"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21943",
+              "name": "Black Panther (2005) #41"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/45966",
+              "name": "Captain America (2012) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/46011",
+              "name": "Daredevil: Dark Nights (2013) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2399",
+              "name": "Daredevil: Redemption (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1645",
+              "name": "Daredevil: Redemption (2005) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1739",
+              "name": "Daredevil: Redemption (2005) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1847",
+              "name": "Daredevil: Redemption (2005) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1953",
+              "name": "Daredevil: Redemption (2005) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2059",
+              "name": "Daredevil: Redemption (2005) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/24947",
+              "name": "Deadpool (2008) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/24948",
+              "name": "Deadpool (2008) #14"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/29820",
+              "name": "Deadpool (2008) #14 (2ND PRINTING VARIANT)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/28621",
+              "name": "Deadpool (1997) #900"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/33959",
+              "name": "Deadpool Pulp (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/33695",
+              "name": "Deadpool Pulp (2010) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/33694",
+              "name": "Deadpool Pulp (2010) #2"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 53,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/593/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/15331",
+              "name": "Age of Apocalypse (2011 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/784",
+              "name": "Black Panther (2005 - 2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/16516",
+              "name": "Captain America (2012 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/17354",
+              "name": "Daredevil: Dark Nights (2013 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/791",
+              "name": "Daredevil: Redemption (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1332",
+              "name": "Daredevil: Redemption (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/5701",
+              "name": "Deadpool (2008 - 2012)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2005",
+              "name": "Deadpool (1997 - 2002)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/11063",
+              "name": "Deadpool Pulp (2010 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/11602",
+              "name": "Deadpool Pulp (2010)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/9045",
+              "name": "Deadpool Team-Up (2009 - 2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/877",
+              "name": "Friendly Neighborhood Spider-Man (2005 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1895",
+              "name": "Friendly Neighborhood Spider-Man Vol. 2: Mystery Date (2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/14248",
+              "name": "Fury Max (2011 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/7821",
+              "name": "Ghost Riders: Heavens on Fire (2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6412",
+              "name": "Hulk Family (2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/167",
+              "name": "Hulk/Wolverine: 6 Hours (2003)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2574",
+              "name": "Hulk/Wolverine: 6 Hours (2003)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/7427",
+              "name": "Hulk: Broken Worlds Book (2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3762",
+              "name": "Incredible Hercules (2008 - 2010)"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 134,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/593/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1726",
+              "name": "5 of 6 xLS",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1728",
+              "name": "4 of 6 xLS",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1730",
+              "name": "6 of 6 xLS",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3529",
+              "name": "Interior #3529",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3531",
+              "name": "Interior #3531",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3533",
+              "name": "The Man-Thing movie prequel concludes with a horrific showdown with Man-Thing as you’ve never seen it before! Check out an incar",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3783",
+              "name": "6 of 6 - 6XLS",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3785",
+              "name": "Interior #3785",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3787",
+              "name": "Interior #3787",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3789",
+              "name": "Interior #3789",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3791",
+              "name": "With great power must come great responsibility… but when the entire Marvel Universe is recast as a world that is powerless… are",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3793",
+              "name": "Powerless nears its climactic conclusion as events surrounding Logan, Peter Parker, and Matt Murdock cause each of them to reach",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3931",
+              "name": "2 of 6",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3933",
+              "name": "3 of 6",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3935",
+              "name": "4 of 6",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3937",
+              "name": "5 of 6",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3939",
+              "name": "6 of 6",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4679",
+              "name": "3 of 3 - I Hate a Mystery",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4981",
+              "name": "1 of 1 - Hulk",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4983",
+              "name": "1 of 1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/593/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+              "name": "Dark Reign"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/269",
+              "name": "Secret Invasion"
+            }
+          ],
+          "returned": 2
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/593/lee_loughridge?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      }
+    ]
+  }
+}

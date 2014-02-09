@@ -35,62 +35,68 @@
   name: 'comic_stories'
   path: '/public/comics/:id/stories'
 13:
+  name: 'creators'
+  path: '/public/creators'
+14:
+  name: 'creator'
+  path: '/public/creators/:id'
+15:
   name: 'events'
   path: '/public/events'
-14:
+16:
   name: 'event'
   path: '/public/events/:id'
-15:
+17:
   name: 'event_characters'
   path: '/public/events/:id/characters'
-16:
+18:
   name: 'event_creators'
   path: '/public/events/:id/creators'
-17:
+19:
   name: 'event_comics'
   path: '/public/events/:id/comics'
-18:
+20:
   name: 'event_stories'
   path: '/public/events/:id/stories'
-19:
+21:
   name: 'event_series'
   path: '/public/events/:id/series'
-20:
+22:
   name: 'series'
   path: '/public/series'
-21:
+23:
   name: 'serie'
   path: '/public/series/:id'
-22:
+24:
   name: 'series_characters'
   path: '/public/series/:id/characters' 
-23:
+25:
   name: 'series_comics'
   path: '/public/series/:id/comics'
-24:
+26:
   name: 'series_creators'
   path: '/public/series/:id/creators'
-25:
+27:
   name: 'series_events'
   path: '/public/series/:id/events'
-26:
+28:
   name: 'series_stories'
   path: '/public/series/:id/stories'
-27:
+29:
   name: 'stories'
   path: '/public/stories'
-28:
+30:
   name: 'story'
   path: '/public/stories/:id'
-29:
+31:
   name: 'story_characters'
   path: '/public/stories/:id/characters'
-30:
+32:
   name: 'story_comics'
   path: '/public/stories/:id/comics'
-31:
+33:
   name: 'story_creators'
   path: '/public/stories/:id/creators'
-32:
+34:
   name: 'story_events'
   path: '/public/stories/:id/events'
