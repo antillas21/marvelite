@@ -1,0 +1,1309 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "etag": "216cb3efee57e80082a35e21692d48e00a16dde2",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 5558,
+    "count": 20,
+    "results": [
+      {
+        "id": 7968,
+        "firstName": "",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7968",
+        "comics": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7968/comics",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7968/series",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7968/stories",
+          "items": [],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7968/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/7968?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 6606,
+        "firstName": "A.R.K.",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "A.R.K.",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6606",
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6606/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19815",
+              "name": "Marvel Fanfare (1982) #4"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6606/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3719",
+              "name": "Marvel Fanfare (1982 - 1992)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6606/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42310",
+              "name": "Mindgame",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6606/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/6606/ark.?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 3096,
+        "firstName": "Abel",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Abel",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3096",
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3096/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/9653",
+              "name": "Iron Man (1968) #94"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3096/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2029",
+              "name": "Iron Man (1968 - 1996)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3096/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/19787",
+              "name": "Frenzy At Fifty Fathoms",
+              "type": ""
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3096/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/3096/abel?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 7969,
+        "firstName": "ACTOR",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "ACTOR",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7969",
+        "comics": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7969/comics",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7969/series",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7969/stories",
+          "items": [],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7969/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/7969/actor?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 2289,
+        "firstName": "Alexandrov",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Alexandrov",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2289",
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/2289/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/7235",
+              "name": "Avengers (1963) #354"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/7244",
+              "name": "Avengers (1963) #362"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11780",
+              "name": "Thor (1966) #452"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/2289/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+              "name": "Avengers (1963 - 1996)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2083",
+              "name": "Thor (1966 - 1996)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/2289/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15020",
+              "name": "The Conqueror Worm",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15039",
+              "name": "A Vision Revealed",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/17250",
+              "name": "With This Axe, I Thee Kill!",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/2289/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/2289/alexandrov?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 4110,
+        "firstName": "Alrio",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Alrio",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4110",
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4110/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/7847",
+              "name": "Captain America (1996) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5453",
+              "name": "Heroes Reborn: Captain America (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4110/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6478",
+              "name": "Captain America (1996 - 1998)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1815",
+              "name": "Heroes Reborn: Captain America (2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4110/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/24513",
+              "name": "Serpents and Eagles:  Part 1:  A First Small Hisssss",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4110/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/4110/alrio?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 7470,
+        "firstName": "ALSJOERDSMA",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "ALSJOERDSMA",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7470",
+        "comics": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7470/comics",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7470/series",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7470/stories",
+          "items": [],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7470/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/7470/alsjoerdsma?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 6326,
+        "firstName": "Amash",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Amash",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6326",
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6326/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18941",
+              "name": "Quasar (1989) #51"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/23453",
+              "name": "Quasar (1999) #51"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6326/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6682",
+              "name": "Quasar (1999 - 1994)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3695",
+              "name": "Quasar (1989 - 1994)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6326/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/40502",
+              "name": "The Conservation Of Angular Momentum",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51999",
+              "name": "The Conservation Of Angular Momentum",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6326/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/6326/amash?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 3965,
+        "firstName": "Andreani",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Andreani",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3965",
+        "comics": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3965/comics",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3965/series",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3965/stories",
+          "items": [],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3965/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/3965/andreani?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 8040,
+        "firstName": "Angel",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Angel",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8040",
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/8040/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/24235",
+              "name": "Hulk: Broken Worlds Book (2009) #2"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/8040/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/7427",
+              "name": "Hulk: Broken Worlds Book (2009)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/8040/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53700",
+              "name": "2 of 2",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/57111",
+              "name": "Cover #57111",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/57112",
+              "name": "Interior #57112",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/57114",
+              "name": "Interior #57114",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/57116",
+              "name": "Interior #57116",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 5
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/8040/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/8040/angel?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 5810,
+        "firstName": "Ariane",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Ariane",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5810",
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/5810/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17787",
+              "name": "Avengers West Coast (1985) #100"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19865",
+              "name": "Iron Man Annual (1976) #14"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/5810/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3623",
+              "name": "Avengers West Coast (1985 - 1994)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3723",
+              "name": "Iron Man Annual (1976 - 1994)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/5810/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37790",
+              "name": "Boys Will Be Boys",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42583",
+              "name": "Unfamiliar Faces",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/5810/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/5810/ariane?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 6723,
+        "firstName": "Armada",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Armada",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6723",
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6723/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19918",
+              "name": "Iron Man (1998) #44"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19919",
+              "name": "Iron Man (1998) #45"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6723/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2572",
+              "name": "Iron Man (1998 - 2004)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6723/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42698",
+              "name": "Cover #42698",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42700",
+              "name": "Cover #42700",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6723/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/6723/armada?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 4592,
+        "firstName": "Arno",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Arno",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4592",
+        "comics": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4592/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14224",
+              "name": "Wolverine (1988) #99"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14335",
+              "name": "X-Men (1991) #46"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14336",
+              "name": "X-Men (1991) #47"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14337",
+              "name": "X-Men (1991) #48"
+            }
+          ],
+          "returned": 4
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4592/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2262",
+              "name": "Wolverine (1988 - 2003)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2265",
+              "name": "X-Men (1991 - 2001)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4592/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28967",
+              "name": "Cover #28967",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29224",
+              "name": "The Totally Unexpected Return of the X-Babies !",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29226",
+              "name": "Cover #29226",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29228",
+              "name": "Divided Minds",
+              "type": "cover"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4592/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/4592/arno?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 2935,
+        "firstName": "Austin",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Austin",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2935",
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/2935/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/9113",
+              "name": "Incredible Hulk (1962) #302"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/2935/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2021",
+              "name": "Incredible Hulk (1962 - 1999)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/2935/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/18752",
+              "name": "Cover #18752",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/2935/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/2935/austin?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 3052,
+        "firstName": "Avon",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Avon",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3052",
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3052/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17787",
+              "name": "Avengers West Coast (1985) #100"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/9547",
+              "name": "Iron Man (1968) #298"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3052/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3623",
+              "name": "Avengers West Coast (1985 - 1994)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2029",
+              "name": "Iron Man (1968 - 1996)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3052/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/19570",
+              "name": "Heart of Stone",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37790",
+              "name": "Boys Will Be Boys",
+              "type": ""
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3052/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/3052/avon?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 6535,
+        "firstName": "B.K.",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "B.K.",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6535",
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6535/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19764",
+              "name": "Marvel Preview (1977) #15"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6535/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3718",
+              "name": "Marvel Preview (1977 - 1981)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6535/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/41947",
+              "name": "pin-up",
+              "type": ""
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6535/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/6535/bk.?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 2299,
+        "firstName": "Babcock",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Babcock",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2299",
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/2299/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/7249",
+              "name": "Avengers (1963) #367"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8338",
+              "name": "Daredevil (1963) #338"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/2299/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+              "name": "Avengers (1963 - 1996)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2002",
+              "name": "Daredevil (1963 - 1998)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/2299/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/15051",
+              "name": "Voyeuristic Visions",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16260",
+              "name": "Treachery",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/2299/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/2299/babcock?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 7591,
+        "firstName": "Bair",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Bair",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7591",
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7591/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/22189",
+              "name": "Punisher War Journal (1988) #34"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7591/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/5860",
+              "name": "Punisher War Journal (1988 - 1995)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7591/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/49670",
+              "name": "Interior #49670",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/7591/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/7591/bair?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 3188,
+        "firstName": "Balcells",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Balcells",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3188",
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3188/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11950",
+              "name": "Vampire Tales (1973) #6"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3188/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2089",
+              "name": "Vampire Tales (1973 - 1975)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3188/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20411",
+              "name": "Angie's Soul",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3188/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/3188/balcells?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      },
+      {
+        "id": 4781,
+        "firstName": "Barta",
+        "middleName": "",
+        "lastName": "",
+        "suffix": "",
+        "fullName": "Barta",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4781",
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4781/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15137",
+              "name": "Silver Surfer (1987) #137"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15138",
+              "name": "Silver Surfer (1987) #138"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15139",
+              "name": "Silver Surfer (1987) #139"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4781/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2288",
+              "name": "Silver Surfer (1987 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4781/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30743",
+              "name": "the Resurrection",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30745",
+              "name": "Cover #30745",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30747",
+              "name": "Cover #30747",
+              "type": "cover"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4781/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/4781/barta?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ]
+      }
+    ]
+  }
+}
