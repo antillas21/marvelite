@@ -1,0 +1,1803 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "etag": "37a2a3659ede28c0cf56ba4c1ea2c26ec7f213e4",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 131,
+    "count": 20,
+    "results": [
+      {
+        "id": 1726,
+        "title": "5 of 6 xLS",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1726",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1726/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/592",
+              "name": "Rachel Dodson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/21",
+              "name": "Kevin Smith",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1726/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 1726
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/529",
+              "name": "Spider-Man/Black Cat: Evil That Men Do (2002 - 2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1953",
+              "name": "Spider-Man/Black Cat: The Evil That Men Do (2007)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1726/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3110",
+              "name": "Spider-Man/Black Cat: Evil That Men Do (2002) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6345",
+              "name": "Spider-Man/Black Cat: The Evil That Men Do (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1726/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/3110",
+          "name": "Spider-Man/Black Cat: Evil That Men Do (2002) #5"
+        }
+      },
+      {
+        "id": 1728,
+        "title": "4 of 6 xLS",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1728",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1728/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/592",
+              "name": "Rachel Dodson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/21",
+              "name": "Kevin Smith",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1728/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 1728
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/529",
+              "name": "Spider-Man/Black Cat: Evil That Men Do (2002 - 2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1953",
+              "name": "Spider-Man/Black Cat: The Evil That Men Do (2007)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1728/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3109",
+              "name": "Spider-Man/Black Cat: Evil That Men Do (2002) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6345",
+              "name": "Spider-Man/Black Cat: The Evil That Men Do (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1728/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/3109",
+          "name": "Spider-Man/Black Cat: Evil That Men Do (2002) #4"
+        }
+      },
+      {
+        "id": 1730,
+        "title": "6 of 6 xLS",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1730",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1730/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/592",
+              "name": "Rachel Dodson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/21",
+              "name": "Kevin Smith",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1730/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 1730
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/529",
+              "name": "Spider-Man/Black Cat: Evil That Men Do (2002 - 2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1953",
+              "name": "Spider-Man/Black Cat: The Evil That Men Do (2007)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1730/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3419",
+              "name": "Spider-Man/Black Cat: Evil That Men Do (2002) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6345",
+              "name": "Spider-Man/Black Cat: The Evil That Men Do (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/1730/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/3419",
+          "name": "Spider-Man/Black Cat: Evil That Men Do (2002) #6"
+        }
+      },
+      {
+        "id": 3529,
+        "title": "Interior #3529",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3529",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3529/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/189",
+              "name": "Kyle Hotz",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/810",
+              "name": "Hans Rodionoff",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3529/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009420",
+              "name": "Man-Thing"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 3529
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/757",
+              "name": "Man-Thing (2004)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3529/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/545",
+              "name": "Man-Thing (2004) #1"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3529/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/545",
+          "name": "Man-Thing (2004) #1"
+        }
+      },
+      {
+        "id": 3531,
+        "title": "Interior #3531",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3531",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3531/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/189",
+              "name": "Kyle Hotz",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/810",
+              "name": "Hans Rodionoff",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3531/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009420",
+              "name": "Man-Thing"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 3531
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/757",
+              "name": "Man-Thing (2004)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3531/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/752",
+              "name": "Man-Thing (2004) #2"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3531/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/752",
+          "name": "Man-Thing (2004) #2"
+        }
+      },
+      {
+        "id": 3533,
+        "title": "The Man-Thing movie prequel concludes with a horrific showdown with Man-Thing as you’ve never seen it before! Check out an incar",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3533",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3533/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/189",
+              "name": "Kyle Hotz",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/810",
+              "name": "Hans Rodionoff",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+              "name": "Rus Wooton",
+              "role": "letterer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3533/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009420",
+              "name": "Man-Thing"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 3533
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/757",
+              "name": "Man-Thing (2004)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3533/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/830",
+              "name": "Man-Thing (2004) #3"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3533/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/830",
+          "name": "Man-Thing (2004) #3"
+        }
+      },
+      {
+        "id": 3783,
+        "title": "6 of 6 - 6XLS",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3783",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3783/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/849",
+              "name": "Matt Cherniss",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/848",
+              "name": "Peter Johnson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/177",
+              "name": "Michael Gaydos",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3783/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 3783
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/781",
+              "name": "Powerless (2004)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3783/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/54",
+              "name": "Powerless (2004) #6"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3783/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/54",
+          "name": "Powerless (2004) #6"
+        }
+      },
+      {
+        "id": 3785,
+        "title": "Interior #3785",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3785",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3785/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/849",
+              "name": "Matt Cherniss",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/177",
+              "name": "Michael Gaydos",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3785/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 3785
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1284",
+              "name": "Powerless (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/781",
+              "name": "Powerless (2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1523",
+              "name": "Powers Vol. 1 (2005)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3785/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1549",
+              "name": "Powerless (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/589",
+              "name": "Powerless (2004) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2015",
+              "name": "Powers Vol. 1 (Hardcover)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3785/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/589",
+          "name": "Powerless (2004) #2"
+        }
+      },
+      {
+        "id": 3787,
+        "title": "Interior #3787",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3787",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3787/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/849",
+              "name": "Matt Cherniss",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/177",
+              "name": "Michael Gaydos",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3787/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 3787
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/781",
+              "name": "Powerless (2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1284",
+              "name": "Powerless (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1523",
+              "name": "Powers Vol. 1 (2005)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3787/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1549",
+              "name": "Powerless (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/739",
+              "name": "Powerless (2004) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2015",
+              "name": "Powers Vol. 1 (Hardcover)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3787/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/739",
+          "name": "Powerless (2004) #1"
+        }
+      },
+      {
+        "id": 3789,
+        "title": "Interior #3789",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3789",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3789/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/849",
+              "name": "Matt Cherniss",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/177",
+              "name": "Michael Gaydos",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3789/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 3789
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/781",
+              "name": "Powerless (2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1284",
+              "name": "Powerless (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1523",
+              "name": "Powers Vol. 1 (2005)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3789/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1549",
+              "name": "Powerless (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/772",
+              "name": "Powerless (2004) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2015",
+              "name": "Powers Vol. 1 (Hardcover)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3789/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/772",
+          "name": "Powerless (2004) #3"
+        }
+      },
+      {
+        "id": 3791,
+        "title": "With great power must come great responsibility… but when the entire Marvel Universe is recast as a world that is powerless… are",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3791",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3791/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/849",
+              "name": "Matt Cherniss",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/177",
+              "name": "Michael Gaydos",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3791/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 3791
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/781",
+              "name": "Powerless (2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1284",
+              "name": "Powerless (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1523",
+              "name": "Powers Vol. 1 (2005)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3791/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1549",
+              "name": "Powerless (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/852",
+              "name": "Powerless (2004) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2015",
+              "name": "Powers Vol. 1 (Hardcover)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3791/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/852",
+          "name": "Powerless (2004) #4"
+        }
+      },
+      {
+        "id": 3793,
+        "title": "Powerless nears its climactic conclusion as events surrounding Logan, Peter Parker, and Matt Murdock cause each of them to reach",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3793",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3793/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/849",
+              "name": "Matt Cherniss",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/177",
+              "name": "Michael Gaydos",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3793/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 3793
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1284",
+              "name": "Powerless (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/781",
+              "name": "Powerless (2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1523",
+              "name": "Powers Vol. 1 (2005)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3793/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1549",
+              "name": "Powerless (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/931",
+              "name": "Powerless (2004) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2015",
+              "name": "Powers Vol. 1 (Hardcover)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3793/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/931",
+          "name": "Powerless (2004) #5"
+        }
+      },
+      {
+        "id": 3931,
+        "title": "2 of 6",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3931",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3931/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/177",
+              "name": "Michael Gaydos",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/371",
+              "name": "David Hine",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3931/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 3931
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1332",
+              "name": "Daredevil: Redemption (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/791",
+              "name": "Daredevil: Redemption (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3931/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2399",
+              "name": "Daredevil: Redemption (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1645",
+              "name": "Daredevil: Redemption (2005) #2"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3931/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1645",
+          "name": "Daredevil: Redemption (2005) #2"
+        }
+      },
+      {
+        "id": 3933,
+        "title": "3 of 6",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3933",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3933/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/177",
+              "name": "Michael Gaydos",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/371",
+              "name": "David Hine",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3933/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 3933
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1332",
+              "name": "Daredevil: Redemption (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/791",
+              "name": "Daredevil: Redemption (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3933/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2399",
+              "name": "Daredevil: Redemption (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1739",
+              "name": "Daredevil: Redemption (2005) #3"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3933/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1739",
+          "name": "Daredevil: Redemption (2005) #3"
+        }
+      },
+      {
+        "id": 3935,
+        "title": "4 of 6",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3935",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3935/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/177",
+              "name": "Michael Gaydos",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/371",
+              "name": "David Hine",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3935/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 3935
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1332",
+              "name": "Daredevil: Redemption (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/791",
+              "name": "Daredevil: Redemption (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3935/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2399",
+              "name": "Daredevil: Redemption (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1847",
+              "name": "Daredevil: Redemption (2005) #4"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3935/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1847",
+          "name": "Daredevil: Redemption (2005) #4"
+        }
+      },
+      {
+        "id": 3937,
+        "title": "5 of 6",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3937",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3937/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/177",
+              "name": "Michael Gaydos",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/371",
+              "name": "David Hine",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3937/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 3937
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1332",
+              "name": "Daredevil: Redemption (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/791",
+              "name": "Daredevil: Redemption (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3937/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2399",
+              "name": "Daredevil: Redemption (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1953",
+              "name": "Daredevil: Redemption (2005) #5"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3937/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1953",
+          "name": "Daredevil: Redemption (2005) #5"
+        }
+      },
+      {
+        "id": 3939,
+        "title": "6 of 6",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3939",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3939/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/177",
+              "name": "Michael Gaydos",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/371",
+              "name": "David Hine",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3939/characters",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 3939
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1332",
+              "name": "Daredevil: Redemption (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/791",
+              "name": "Daredevil: Redemption (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3939/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2399",
+              "name": "Daredevil: Redemption (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2059",
+              "name": "Daredevil: Redemption (2005) #6"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/3939/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/2059",
+          "name": "Daredevil: Redemption (2005) #6"
+        }
+      },
+      {
+        "id": 4679,
+        "title": "3 of 3 - I Hate a Mystery",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4679",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4679/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/605",
+              "name": "Rob Campanella",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+              "name": "Peter David",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/935",
+              "name": "Todd Nauck",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4679/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 4679
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/877",
+              "name": "Friendly Neighborhood Spider-Man (2005 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1895",
+              "name": "Friendly Neighborhood Spider-Man Vol. 2: Mystery Date (2007)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4679/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5237",
+              "name": "Friendly Neighborhood Spider-Man (2005) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6163",
+              "name": "Friendly Neighborhood Spider-Man Vol. 2: Mystery Date (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4679/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5237",
+          "name": "Friendly Neighborhood Spider-Man (2005) #13"
+        }
+      },
+      {
+        "id": 4981,
+        "title": "1 of 1 - Hulk",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4981",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4981/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1126",
+              "name": "Juan Santa Cruz",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/833",
+              "name": "Justin Gray",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4981/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+              "name": "Invisible Woman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+              "name": "Mr. Fantastic"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+              "name": "Thing"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 4981
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/926",
+              "name": "Marvel Adventures Fantastic Four (2005 - 2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1773",
+              "name": "Marvel Adventures Fantastic Four Vol. 4: Cosmic Threats (2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4981/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4321",
+              "name": "Marvel Adventures Fantastic Four (2005) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5346",
+              "name": "Marvel Adventures Fantastic Four Vol. 4: Cosmic Threats (Digest)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4981/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4321",
+          "name": "Marvel Adventures Fantastic Four (2005) #13"
+        }
+      },
+      {
+        "id": 4983,
+        "title": "1 of 1",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4983",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4983/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5638",
+              "name": "Raul Fernandez",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/833",
+              "name": "Justin Gray",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/338",
+              "name": "Staz Johnson",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4983/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+              "name": "Invisible Woman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+              "name": "Mr. Fantastic"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+              "name": "Thing"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_storySeries",
+            "id": 4983
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/926",
+              "name": "Marvel Adventures Fantastic Four (2005 - 2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1773",
+              "name": "Marvel Adventures Fantastic Four Vol. 4: Cosmic Threats (2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4983/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4477",
+              "name": "Marvel Adventures Fantastic Four (2005) #14"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5346",
+              "name": "Marvel Adventures Fantastic Four Vol. 4: Cosmic Threats (Digest)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/4983/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4477",
+          "name": "Marvel Adventures Fantastic Four (2005) #14"
+        }
+      }
+    ]
+  }
+}

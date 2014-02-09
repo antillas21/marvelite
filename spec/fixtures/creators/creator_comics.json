@@ -1,0 +1,3654 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "etag": "1ce5130d14d2efeb7aa18bd976811a1571c226fd",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 131,
+    "count": 20,
+    "results": [
+      {
+        "id": 46689,
+        "digitalId": 30409,
+        "title": "Venom (2011) #37",
+        "issueNumber": 37,
+        "variantDescription": "",
+        "description": "\n\n\n\n\n\n<ul><li>If Venom&#39;s going to be the super hero Philly deserves, he&#39;s got to do it right!</li><li>Venom wants it all--resources, allies, contacts, and an HQ--but he knows zip about setting that up!</li><li>To make matters worse, he&#39;s already made an enemy of Philly&#39;s toughest crime boss--Lord Ogre!</li><li>And Lord Ogre declares WAR!</li></ul>",
+        "modified": "2013-07-16T16:31:00-0400",
+        "isbn": "",
+        "upc": 75960607565203710,
+        "diamondCode": "MAY130647",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\n\n\n\n\n\n<ul><li>If Venom&#39;s going to be the super hero Philly deserves, he&#39;s got to do it right!</li><li>Venom wants it all--resources, allies, contacts, and an HQ--but he knows zip about setting that up!</li><li>To make matters worse, he&#39;s already made an enemy of Philly&#39;s toughest crime boss--Lord Ogre!</li><li>And Lord Ogre declares WAR!</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46689",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46689/venom_2011_37?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Venom-37/digital-comic/30409?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=30409&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/30409?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/13911",
+          "name": "Venom (2011 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2013-07-03T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2013-06-19T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2014-01-06T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-07-03T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/51c1d0efec1a9",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/51c1d0efec1a9",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46689/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11841",
+              "name": "Sana Amanat",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11866",
+              "name": "Jordan Diane Bellaire",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+              "name": "Cullen Bunn",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12319",
+              "name": "Aaron Kim Jacinto",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11354",
+              "name": "Declan Shalvey",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46689/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 46689
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/104972",
+              "name": "cover from Venom (2011) #37",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/104973",
+              "name": "story from Venom (2011) #37",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46689/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 46011,
+        "digitalId": 30398,
+        "title": "Daredevil: Dark Nights (2013) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "\n\n\n\n\n<ul><li>A gorgeous new series featuring the greatest talents in comics brings you the rest of the Man Without Fear&#39;s story!</li><li>The mother-of-all blizzards has completely shut down NYC, Daredevil&#39;s recovering from a severe concussion ? and is the only hope for a little girl in desperate need of a heart transplant!</li><li>Daredevil Legend Lee Weeks returns for Angels Unaware!</li></ul>",
+        "modified": "2013-07-16T16:05:23-0400",
+        "isbn": "",
+        "upc": 75960607856100210,
+        "diamondCode": "MAY130662",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\n\n\n\n\n<ul><li>A gorgeous new series featuring the greatest talents in comics brings you the rest of the Man Without Fear&#39;s story!</li><li>The mother-of-all blizzards has completely shut down NYC, Daredevil&#39;s recovering from a severe concussion ? and is the only hope for a little girl in desperate need of a heart transplant!</li><li>Daredevil Legend Lee Weeks returns for Angels Unaware!</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46011",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46011/daredevil_dark_nights_2013_2?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Daredevil-Dark-Nights-2/digital-comic/30398?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=30398&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/30398?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/17354",
+          "name": "Daredevil: Dark Nights (2013 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2013-07-03T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2013-06-19T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2014-01-06T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-07-03T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/51ca0e321276e",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/51ca0e321276e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46011/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11647",
+              "name": "Tom Brennan",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8991",
+              "name": "Lee Weeks",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46011/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 46011
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/103544",
+              "name": "cover from Daredevil: Dark Knights (2013) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/103545",
+              "name": "story from Daredevil: Dark Knights (2013) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46011/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 42910,
+        "digitalId": 0,
+        "title": "Fury Max (2011) #13",
+        "issueNumber": 13,
+        "variantDescription": "",
+        "description": "FINAL ISSUE!\r\n\r\n\r\n\r\n<ul><li>Garth Ennis and Goran Parlov&rsquo;s masterpiece comes to a climactic finish.</li><li>Fury faces the consequences of his actions for the past 50 years and what he sees will chill you more than any comic you&rsquo;ve ever read.</li></ul>",
+        "modified": "2013-06-25T12:55:28-0400",
+        "isbn": "",
+        "upc": 75960607641301310,
+        "diamondCode": "APR130702",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "FINAL ISSUE!\r\n\r\n\r\n\r\n<ul><li>Garth Ennis and Goran Parlov&rsquo;s masterpiece comes to a climactic finish.</li><li>Fury faces the consequences of his actions for the past 50 years and what he sees will chill you more than any comic you&rsquo;ve ever read.</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42910",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42910/fury_max_2011_13?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/14248",
+          "name": "Fury Max (2011 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2013-06-26T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2013-06-11T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/515efda1a1bef",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/51c8af889d49d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/515efda1a1bef",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/42910/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2",
+              "name": "Garth Ennis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10432",
+              "name": "Dave Johnson",
+              "role": "artist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/674",
+              "name": "Goran Parlov",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10003",
+              "name": "Robert Steen",
+              "role": "letterer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/42910/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 42910
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/96391",
+              "name": "Cover #96391",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/96392",
+              "name": "Interior #96392",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/42910/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 45966,
+        "digitalId": 28127,
+        "title": "Captain America (2012) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "1930: Witness the birth of a legend! How did a weakling like Steve Rogers earn his courage? Now: With the fate of a world hinging on his victory, Captain America must defeat the barbarian lord of the Phrox! \n",
+        "modified": "2013-12-13T10:38:23-0500",
+        "isbn": "",
+        "upc": 75960607904900300,
+        "diamondCode": "NOV120677",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n\r\n<ul><li>1930: Witness the birth of a legend! How did Steve Rogers, a 98 lb weakling, earn his courage?</li><li>NOW: With the fate of a world hinging on his victory Captain America must defeat the barbarian lord of the Phrox!</li><li>MEANWHILE: Arnim Zola&rsquo;s plans move forward, cursing Steve Rogers for years to come.</li></ul>"
+          },
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "1930: Witness the birth of a legend! How did a weakling like Steve Rogers earn his courage? Now: With the fate of a world hinging on his victory, Captain America must defeat the barbarian lord of the Phrox! \n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/45966",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/45966/captain_america_2012_3?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-3/digital-comic/28130?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=28127&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/16516",
+          "name": "Captain America (2012 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47690",
+            "name": "Captain America (2012) #3 (2nd Printing Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/45967",
+            "name": "Captain America (2012) #3 (Maleev Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2013-01-16T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2013-01-02T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-12-12T18:09:19-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/50c25d2487983",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/50e5b8dd17f67",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/50e5b868009e6",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/50d342e590758",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/50d09344d78d9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/50d0931db8141",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/50c25d2487983",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/50c25822330cb",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/70/50801d0e51d2c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/45966/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/570",
+              "name": "Klaus Janson",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11835",
+              "name": "Rick Remender",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11467",
+              "name": "Dean V. White",
+              "role": "colorist (cover)"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/45966/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 45966
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/103450",
+              "name": "cover from Captain America (2012) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/103451",
+              "name": "story from Captain America (2012) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/45966/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 46296,
+        "digitalId": 28353,
+        "title": "Marvel Universe vs. The Avengers (2012) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "Hawkeye is the last Avenger standing. He&rsquo;s all that stands between Emperor Doom and a world of unimaginable horrors.If he falls, who will avenge our world? MARVEL UNIVERSE vs THE AVENGERS reaches its bloody, heartbreaking conclusion.",
+        "modified": "2013-01-04T15:57:00-0500",
+        "isbn": "",
+        "upc": 75960607832500420,
+        "diamondCode": "NOV120719",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Hawkeye is the last Avenger standing. He&rsquo;s all that stands between Emperor Doom and a world of unimaginable horrors.If he falls, who will avenge our world? MARVEL UNIVERSE vs THE AVENGERS reaches its bloody, heartbreaking conclusion."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46296",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46296/marvel_universe_vs_the_avengers_2012_4?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Marvel-Universe-Vs-the-Avengers-4/digital-comic/28353?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=28353&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/28353?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/16664",
+          "name": "Marvel Universe vs. The Avengers (2012 - 2013)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2013-01-09T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2012-12-25T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-07-08T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-01-09T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/50c24d2768e6c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/50c24d2768e6c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46296/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/273",
+              "name": "Leandro Fernandez",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11809",
+              "name": "Aaron N. Kuder",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10200",
+              "name": "Jonathan Maberry",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11742",
+              "name": "Elizabeth Pyle",
+              "role": "editor"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46296/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 46296
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/104152",
+              "name": "cover from Marvel Universe Vs. the Avengers (2012) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/104153",
+              "name": "story from Marvel Universe Vs. the Avengers (2012) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46296/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 41271,
+        "digitalId": 28240,
+        "title": "Age of Apocalypse (2011) #10",
+        "issueNumber": 10,
+        "variantDescription": "",
+        "description": "\n Weapon Omega knows he can kill Jean Grey&hellip;<ul><li>Jean Grey believes she can defeat Weapon Omega&hellip;</li></ul>",
+        "modified": "2013-02-22T10:11:52-0500",
+        "isbn": "",
+        "upc": 75960607747201010,
+        "diamondCode": "OCT120661",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\n Weapon Omega knows he can kill Jean Grey&hellip;<ul><li>Jean Grey believes she can defeat Weapon Omega&hellip;</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41271",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41271/age_of_apocalypse_2011_10?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Age-of-Apocalypse-10/digital-comic/28240?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=28240&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/28240?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/15331",
+          "name": "Age of Apocalypse (2011 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2012-12-12T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2012-11-28T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-06-10T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-12-12T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/50884570b3ded",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/50884570b3ded",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41271/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11575",
+              "name": "Kristafer Anka",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1227",
+              "name": "David Lapham",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11555",
+              "name": "Roberto Pascual De La Torre",
+              "role": "penciler"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41271/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 41271
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93403",
+              "name": "Cover #93403",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93404",
+              "name": "Interior #93404",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41271/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 45159,
+        "digitalId": 28237,
+        "title": "Marvel Universe vs. The Avengers (2012) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "Earth’s Mightiest Heroes have become the army of Earth’s deadliest villain. The infection is spreading and it’s time to make the hardest choice in a war of only hard choices. All hail Emperor Doom!\n",
+        "modified": "2012-11-29T11:57:06-0500",
+        "isbn": "",
+        "upc": 75960607832500300,
+        "diamondCode": "OCT120650",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Earth’s Mightiest Heroes have become the army of Earth’s deadliest villain. The infection is spreading and it’s time to make the hardest choice in a war of only hard choices. All hail Emperor Doom!\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/45159",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/45159/marvel_universe_vs_the_avengers_2012_3?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Marvel-Universe-Vs-the-Avengers-3/digital-comic/28237?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=28237&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/28237?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/16664",
+          "name": "Marvel Universe vs. The Avengers (2012 - 2013)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2012-12-12T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2012-11-28T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-07-31T08:45:21-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-12-12T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/50b3a4013c646",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/50b3a4013c646",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/45159/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/273",
+              "name": "Leandro Fernandez",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11809",
+              "name": "Aaron N. Kuder",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10200",
+              "name": "Jonathan Maberry",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11742",
+              "name": "Elizabeth Pyle",
+              "role": "editor"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/45159/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 45159
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/101719",
+              "name": "cover from Marvel Universe Vs. the Avengers (2012) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/101720",
+              "name": "story from Marvel Universe Vs. the Avengers (2012) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/45159/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 44047,
+        "digitalId": 27996,
+        "title": "Marvel Universe vs. The Avengers (2012) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "How far would you go to save the world? That’s the question the Avengers must answer. Doctor Doom says that he can cure the cannibal plague that is consuming the Marvel Universe. But his price?  Becoming Emperor of Earth!\n",
+        "modified": "2012-11-12T15:06:00-0500",
+        "isbn": "",
+        "upc": 75960607832500210,
+        "diamondCode": "SEP120618",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "How far would you go to save the world? That&rsquo;s the question the Avengers must answer.\n\n\n<ul><li>Doctor Doom says that he can cure the cannibal plague that is consuming the Marvel Universe.</li><li>His price? To become Emperor of Earth.</li></ul>"
+          },
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "How far would you go to save the world? That’s the question the Avengers must answer. Doctor Doom says that he can cure the cannibal plague that is consuming the Marvel Universe. But his price?  Becoming Emperor of Earth!\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/44047",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/44047/marvel_universe_vs_the_avengers_2012_2?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Marvel-Universe-Vs-the-Avengers-2/digital-comic/27996?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=27996&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/27996?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/16664",
+          "name": "Marvel Universe vs. The Avengers (2012 - 2013)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2012-11-14T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2012-10-31T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-07-31T08:45:01-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-11-14T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5023f89c79d20",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5023f89c79d20",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/44047/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/273",
+              "name": "Leandro Fernandez",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11809",
+              "name": "Aaron N. Kuder",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10200",
+              "name": "Jonathan Maberry",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11742",
+              "name": "Elizabeth Pyle",
+              "role": "editor"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/44047/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 44047
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/99305",
+              "name": "cover from Marvel Universe Vs. the Avengers (2012) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/99306",
+              "name": "story from Marvel Universe Vs. the Avengers (2012) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/44047/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 40627,
+        "digitalId": 27991,
+        "title": "Venom (2011) #27",
+        "issueNumber": 27,
+        "variantDescription": "",
+        "description": "MINIMUM CARNAGE PART FIVE Venom, Scarlet Spider and the Micronauts fight to save a universe – but in the process, they have doomed our own!\n",
+        "modified": "2013-02-22T13:59:33-0500",
+        "isbn": "",
+        "upc": 75960607565202700,
+        "diamondCode": "SEP120624",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "MINIMUM CARNAGE &ndash; PART FIVE!\n\n\n<ul><li>Venom, Scarlet Spider and the Micronauts fight to save a universe &ndash; but in the process, have doomed our own!</li><li>Cullen Bunn and Declan Shalvey bring you the pentultimate chapter of the mega-levolent masterpiece!</li></ul>"
+          },
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "MINIMUM CARNAGE PART FIVE Venom, Scarlet Spider and the Micronauts fight to save a universe – but in the process, they have doomed our own!\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40627",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/40627/venom_2011_27?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Venom-27/digital-comic/27991?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=27991&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/27991?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/13911",
+          "name": "Venom (2011 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2012-11-14T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2012-10-31T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-05-27T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-11-14T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/502406e7c7cb3",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/502406e7c7cb3",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/40627/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11647",
+              "name": "Tom Brennan",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+              "name": "Cullen Bunn",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/872",
+              "name": "Marte Gracia",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11354",
+              "name": "Declan Shalvey",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/661",
+              "name": "Patrick Zircher",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/40627/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 40627
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/92076",
+              "name": "Cover #92076",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/92077",
+              "name": "Interior #92077",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/40627/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 41265,
+        "digitalId": 27967,
+        "title": "Age of Apocalypse (2011) #9",
+        "issueNumber": 9,
+        "variantDescription": "",
+        "description": "\n\n\n<ul><li>Jean Grey finds herself on the run&hellip; from Cyclops!</li><li>Prophet&rsquo;s final plan for human survival takes shape.</li><li>A weapon that could kill Weapon X, a.k.a. the Overlord, is discovered!</li></ul>",
+        "modified": "2013-02-22T10:10:53-0500",
+        "isbn": "",
+        "upc": 75960607747200910,
+        "diamondCode": "SEP120669",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\n\n\n<ul><li>Jean Grey finds herself on the run&hellip; from Cyclops!</li><li>Prophet&rsquo;s final plan for human survival takes shape.</li><li>A weapon that could kill Weapon X, a.k.a. the Overlord, is discovered!</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41265",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41265/age_of_apocalypse_2011_9?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Age-of-Apocalypse-9/digital-comic/27967?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=27967&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/27967?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/15331",
+          "name": "Age of Apocalypse (2011 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2012-11-07T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2012-10-24T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-05-06T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-11-07T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/5086ba0fea8ee",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/5086ba0fea8ee",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41265/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11575",
+              "name": "Kristafer Anka",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11421",
+              "name": "Roberto Delatorre",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1227",
+              "name": "David Lapham",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41265/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 41265
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93391",
+              "name": "Cover #93391",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93392",
+              "name": "Interior #93392",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41265/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 36740,
+        "digitalId": 25295,
+        "title": "Marvel Adventures Super Heroes (2010) #22",
+        "issueNumber": 22,
+        "variantDescription": "",
+        "description": "<br>The AMAZING SPIDER-MAN is trapped in an underground\r\nfighting tournament, courtesy of THE MANDARIN!\r\n<br>THEN! Spidey's caught up in a calamitous caper with the\r\nBLACK CAT to capture the elusive FROG MAN!",
+        "modified": "2013-02-15T11:57:51-0500",
+        "isbn": "",
+        "upc": "5960607126-02211",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "1938-0380",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "<br>The AMAZING SPIDER-MAN is trapped in an underground\r\nfighting tournament, courtesy of THE MANDARIN!\r\n<br>THEN! Spidey's caught up in a calamitous caper with the\r\nBLACK CAT to capture the elusive FROG MAN!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36740",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/36740/marvel_adventures_super_heroes_2010_22?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=25295&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/9718",
+          "name": "Marvel Adventures Super Heroes (2010 - 2012)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2012-01-11T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-12-19T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-02-18T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4e974d8bad244",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4e974d8bad244",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36740/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/647",
+              "name": "Kris Justice",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/820",
+              "name": "Leonard Kirk",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9081",
+              "name": "Matteo Lolli",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/831",
+              "name": "Steve Niles",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4983",
+              "name": "Paul Tobin",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1065",
+              "name": "Nate Piekos",
+              "role": "letterer"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36740/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 36740
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/81480",
+              "name": "Cover #81480",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/81481",
+              "name": "Interior #81481",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36740/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 42118,
+        "digitalId": 0,
+        "title": "Point One (2011) #1 (Bradshaw Inked Variant)",
+        "issueNumber": 1,
+        "variantDescription": "Bradshaw Inked Variant",
+        "description": "Here are SEVEN all -new stories that set the stage for everything coming your way in 2012 from the biggest names in the comics industry.You CANNOT miss this. Catch a tease of the biggest change to the Marvel Universe in over 35 years !",
+        "modified": "2011-11-04T16:45:03-0400",
+        "isbn": "",
+        "upc": "5960607737-00131",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 64,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Here are SEVEN all -new stories that set the stage for everything coming your way in 2012 from the biggest names in the comics industry.You CANNOT miss this. Catch a tease of the biggest change to the Marvel Universe in over 35 years !"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42118",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42118/point_one_2011_1_bradshaw_inked_variant/bradshaw_inked_variant?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/15297",
+          "name": "Point One (2011)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41163",
+            "name": "Point One (2011) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42117",
+            "name": "Point One (2011) #1 (Bradshaw Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-11-09T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-10-26T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 5.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4eaed58e8b552",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4eaed58e8b552",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 37,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/42118/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8571",
+              "name": "Guru-eFX",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/872",
+              "name": "Marte Gracia",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+              "name": "Morry Hollowell",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8000",
+              "name": "Alejandro Arbona",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11647",
+              "name": "Tom Brennan",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11491",
+              "name": "Michael Babinski",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/592",
+              "name": "Rachel Dodson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+              "name": "Ed Brubaker",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+              "name": "Matt Fraction",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1227",
+              "name": "David Lapham",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11875",
+              "name": "Nick Bradshaw",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+              "name": "VC - Clayton Cowles",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3603",
+              "name": "Albert Deschesne",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11421",
+              "name": "Roberto Delatorre",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+              "name": "Bryan Hitch",
+              "role": "penciller"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 28,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/42118/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+              "name": "Daredevil"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009276",
+              "name": "Doctor Octopus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+              "name": "Doctor Strange"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490",
+              "name": "Hank Pym"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+              "name": "Hawkeye"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367",
+              "name": "Iron Fist (Danny Rand)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009404",
+              "name": "Lizard"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009407",
+              "name": "Loki"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+              "name": "Nick Fury"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009325",
+              "name": "Norman Osborn"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009535",
+              "name": "Red Skull"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011426",
+              "name": "Scarlet Spider (Kaine)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009571",
+              "name": "Sentry (Robert Reynolds)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+              "name": "Silver Surfer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 42118
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/95139",
+              "name": "Point One (2011) #1, Bradshaw Inked Variant",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/95140",
+              "name": "Point One (2011) #1, Bradshaw Inked Variant - Int",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/42118/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 41163,
+        "digitalId": 24563,
+        "title": "Point One (2011) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Here are seven all-new stories that set the stage for everything coming your way in 2012 from the biggest names in the comics industry. ",
+        "modified": "2012-10-24T14:08:24-0400",
+        "isbn": "",
+        "upc": "5960607737-00111",
+        "diamondCode": "SEP110496",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 64,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Here are seven all-new stories that set the stage for everything coming your way in 2012 from the biggest names in the comics industry. "
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Here are SEVEN all -new stories that set the stage for everything coming your way in 2012 from the biggest names in the comics industry.You CANNOT miss this. Catch a tease of the biggest change to the Marvel Universe in over 35 years !"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41163",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41163/point_one_2011_1?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Point-One-1/digital-comic/24563?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=24563&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/24563?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/15297",
+          "name": "Point One (2011)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42117",
+            "name": "Point One (2011) #1 (Bradshaw Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42118",
+            "name": "Point One (2011) #1 (Bradshaw Inked Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-11-09T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-10-26T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2012-11-30T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2011-11-09T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 5.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4eab12da7d770",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4f2186bf22042",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4ec18bbd561cc",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4eab12da7d770",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4e948f0c92e7a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 36,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41163/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8571",
+              "name": "Guru-eFX",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/872",
+              "name": "Marte Gracia",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+              "name": "Morry Hollowell",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8000",
+              "name": "Alejandro Arbona",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11647",
+              "name": "Tom Brennan",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11491",
+              "name": "Michael Babinski",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/592",
+              "name": "Rachel Dodson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+              "name": "Ed Brubaker",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+              "name": "Matt Fraction",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1227",
+              "name": "David Lapham",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+              "name": "VC - Clayton Cowles",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3603",
+              "name": "Albert Deschesne",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11421",
+              "name": "Roberto Delatorre",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+              "name": "Bryan Hitch",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 15,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41163/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+              "name": "Doctor Strange"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490",
+              "name": "Hank Pym"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+              "name": "Hawkeye"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367",
+              "name": "Iron Fist (Danny Rand)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011426",
+              "name": "Scarlet Spider (Kaine)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009571",
+              "name": "Sentry (Robert Reynolds)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+              "name": "Silver Surfer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+              "name": "Sub-Mariner"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009651",
+              "name": "Terrax"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009683",
+              "name": "Uatu The Watcher"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009633",
+              "name": "William Stryker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 15
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 41163
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93181",
+              "name": "Point One (2011) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93182",
+              "name": "Point One (2011) #1 - Int",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41163/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 42117,
+        "digitalId": 0,
+        "title": "Point One (2011) #1 (Bradshaw Variant)",
+        "issueNumber": 1,
+        "variantDescription": "Bradshaw Variant",
+        "description": "Here are SEVEN all -new stories that set the stage for everything coming your way in 2012 from the biggest names in the comics industry.You CANNOT miss this. Catch a tease of the biggest change to the Marvel Universe in over 35 years !",
+        "modified": "2011-11-04T16:45:03-0400",
+        "isbn": "",
+        "upc": "5960607737-00121",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 64,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Here are SEVEN all -new stories that set the stage for everything coming your way in 2012 from the biggest names in the comics industry.You CANNOT miss this. Catch a tease of the biggest change to the Marvel Universe in over 35 years !"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42117",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42117/point_one_2011_1_bradshaw_variant/bradshaw_variant?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/15297",
+          "name": "Point One (2011)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41163",
+            "name": "Point One (2011) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42118",
+            "name": "Point One (2011) #1 (Bradshaw Inked Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-11-09T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-10-26T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 5.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4eaed170d14e6",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4eaed170d14e6",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4e948fc4250b9",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 37,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/42117/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8571",
+              "name": "Guru-eFX",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/872",
+              "name": "Marte Gracia",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+              "name": "Morry Hollowell",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8000",
+              "name": "Alejandro Arbona",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11647",
+              "name": "Tom Brennan",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11491",
+              "name": "Michael Babinski",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11421",
+              "name": "Roberto Delatorre",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/592",
+              "name": "Rachel Dodson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+              "name": "Ed Brubaker",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+              "name": "Matt Fraction",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1227",
+              "name": "David Lapham",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11875",
+              "name": "Nick Bradshaw",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+              "name": "VC - Clayton Cowles",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3603",
+              "name": "Albert Deschesne",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+              "name": "Bryan Hitch",
+              "role": "penciller"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 29,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/42117/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+              "name": "Black Widow"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+              "name": "Daredevil"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009276",
+              "name": "Doctor Octopus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+              "name": "Doctor Strange"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490",
+              "name": "Hank Pym"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+              "name": "Hawkeye"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367",
+              "name": "Iron Fist (Danny Rand)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009404",
+              "name": "Lizard"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009407",
+              "name": "Loki"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+              "name": "Nick Fury"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009325",
+              "name": "Norman Osborn"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009535",
+              "name": "Red Skull"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011426",
+              "name": "Scarlet Spider (Kaine)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009571",
+              "name": "Sentry (Robert Reynolds)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+              "name": "Silver Surfer"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 42117
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/95137",
+              "name": "Point One (2011) #1, Bradshaw Variant",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/95138",
+              "name": "Point One (2011) #1, Bradshaw Variant - Int",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/42117/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 38118,
+        "digitalId": 23995,
+        "title": "Marvel Universe Vs. Wolverine (2011) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "The stunning events of the last issue had left Wolverine weaker more vulnerable than ever before.  Even physically and emotionally devastated, he is determined to hold the line between the hope and total annihilation. As allies fall and the cannibal armies increase, who will stand with Logan for the final battle?  NY Times bestselling thriller author Jonathan Maberry and celebrated artist Laurence Campbell end of this landmark story with a big, bloody bang.",
+        "modified": "2012-07-27T12:39:20-0400",
+        "isbn": "",
+        "upc": "5960607548-00411",
+        "diamondCode": "JUL110675",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The stunning events of the last issue had left Wolverine weaker more vulnerable than ever before.  Even physically and emotionally devastated, he is determined to hold the line between the hope and total annihilation. As allies fall and the cannibal armies increase, who will stand with Logan for the final battle?  NY Times bestselling thriller author Jonathan Maberry and celebrated artist Laurence Campbell end of this landmark story with a big, bloody bang."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38118",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38118/marvel_universe_vs_wolverine_2011_4?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Marvel-Universe-Vs-Wolverine-4/digital-comic/23995?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=23995&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/23995?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/13714",
+          "name": "Marvel Universe Vs. Wolverine (2011)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-09-21T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-09-07T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2012-08-01T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2011-10-18T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/4e7355b367628",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/4e7355b367628",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38118/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/645",
+              "name": "Laurence Campbell",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/509",
+              "name": "Michael Lark",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10200",
+              "name": "Jonathan Maberry",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38118/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+              "name": "Deadpool"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+              "name": "Mr. Fantastic"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515",
+              "name": "Punisher"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+              "name": "Thing"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 7
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 38118
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/94699",
+              "name": "Marvel Universe Vs. Wolverine (2011) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/94700",
+              "name": "Marvel Universe Vs. Wolverine (2011) #4 - Int",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/38118/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 33959,
+        "digitalId": 0,
+        "title": "Deadpool Pulp (Hardcover)",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "It’s the Merc with a Mouth in a pulp caper filled with lies, spies and shapely thighs — courtesy of Mike Benson and Adam Glass (DEADPOOL: SUICIDE KINGS, LUKE CAGE NOIR) and Laurence Campbell (PUNISHER)! Wade Wilson. Codename: Deadpool. He’s the CIA’s deadliest agent. He’s also certifiably insane, suffering from Multiple Personality Disorder and haunted by the ghosts of his past. In other words, he’s the perfect soldier in a Cold War where it’s impossible to tell friend from foe and reality from a lie. Wilson is also the only one capable of hunting down a rogue CIA agent and recovering the stolen nuclear suitcase she’s carrying before she hands it over to America’s enemies. But who is this femme fatale, and why has she turned traitor? And is Deadpool crazy enough to survive, or will he become trapped in a web of international intrigue? Collecting DEADPOOL PULP #1-4.",
+        "modified": "2011-03-15T01:35:22-0400",
+        "isbn": "978-0-7851-4893-7",
+        "upc": "5960614893-00111",
+        "diamondCode": "JAN110830",
+        "ean": "9780785 148937 51999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 112,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It’s the Merc with a Mouth in a pulp caper filled with lies, spies and shapely thighs — courtesy of Mike Benson and Adam Glass (DEADPOOL: SUICIDE KINGS, LUKE CAGE NOIR) and Laurence Campbell (PUNISHER)! Wade Wilson. Codename: Deadpool. He’s the CIA’s deadliest agent. He’s also certifiably insane, suffering from Multiple Personality Disorder and haunted by the ghosts of his past. In other words, he’s the perfect soldier in a Cold War where it’s impossible to tell friend from foe and reality from a lie. Wilson is also the only one capable of hunting down a rogue CIA agent and recovering the stolen nuclear suitcase she’s carrying before she hands it over to America’s enemies. But who is this femme fatale, and why has she turned traitor? And is Deadpool crazy enough to survive, or will he become trapped in a web of international intrigue? Collecting DEADPOOL PULP #1-4."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33959",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/33959/deadpool_pulp_hardcover?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/11063",
+          "name": "Deadpool Pulp (2010 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-03-16T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-03-01T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4d7a4904032ed",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4d7a4904032ed",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4cd061f3856ea",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4cd061af863ec",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4cd0613b2723b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4cd0609f4f322",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/4cd060670a234",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4c98cbe37ab8b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/4c98cbdd375d9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4c98cbd74d36a",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4c98cbd15095d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4c98cbcace8ea",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33959/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9127",
+              "name": "Mike Benson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7978",
+              "name": "Adam Glass",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/645",
+              "name": "Laurence Campbell",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/56",
+              "name": "Jae Lee",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33959/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+              "name": "Deadpool"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 5,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 33959
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/75537",
+              "name": "Interior #75537",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/75539",
+              "name": "Interior #75539",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/75541",
+              "name": "Interior #75541",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/75543",
+              "name": "Interior #75543",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/76090",
+              "name": "Deadpool: Pulp Premiere HC",
+              "type": "cover"
+            }
+          ],
+          "returned": 5
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33959/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 33693,
+        "digitalId": 18463,
+        "title": "Deadpool Pulp (2010) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "Deadpool went to Cuba looking for answers, and he found them.  Just not the ones he was looking for. Now he’s trapped and powerless to stop World War Three. That is unless he can turn his greatest weakness to his advantage. Is Wade Wilson sane enough to turn the tables on the traitorous General Stryfe? Can he save his lover, the rogue agent Outlaw from herself? And is this the end for Deadpool? Find out in the thrilling conclusion to Deadpool: Pulp! 32 PGS./Parental Advisory …$3.99",
+        "modified": "2010-12-17T14:19:09-0500",
+        "isbn": "",
+        "upc": "5960607248-00411",
+        "diamondCode": "OCT100558",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Deadpool went to Cuba looking for answers, and he found them.  Just not the ones he was looking for. Now he’s trapped and powerless to stop World War Three. That is unless he can turn his greatest weakness to his advantage. Is Wade Wilson sane enough to turn the tables on the traitorous General Stryfe? Can he save his lover, the rogue agent Outlaw from herself? And is this the end for Deadpool? Find out in the thrilling conclusion to Deadpool: Pulp! 32 PGS./Parental Advisory …$3.99"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33693",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/33693/deadpool_pulp_2010_4?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Deadpool-Pulp-4/digital-comic/18463?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=18463&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/18463?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/11602",
+          "name": "Deadpool Pulp (2010)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2010-12-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2010-12-04T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-04-08T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-08-07T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4c93bc675ca4b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4c93bc675ca4b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33693/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9127",
+              "name": "Mike Benson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7978",
+              "name": "Adam Glass",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/645",
+              "name": "Laurence Campbell",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/56",
+              "name": "Jae Lee",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33693/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+              "name": "Deadpool"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 33693
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/75538",
+              "name": "Cover #75538",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/75539",
+              "name": "Interior #75539",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33693/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 33692,
+        "digitalId": 17911,
+        "title": "Deadpool Pulp (2010) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "Deadpool is trying to stay one step ahead of Outlaw as he searches for a mysterious scientist in the jungle. In Washington, DC. a power struggle is under way at the highest levels of government that will turn Deadpool’s world upside down. \n",
+        "modified": "2013-02-07T09:06:22-0500",
+        "isbn": "",
+        "upc": "5960607248-00311",
+        "diamondCode": "SEP100560",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Deadpool is trying to stay one step ahead of Outlaw as he searches for a mysterious scientist in the jungle. In Washington, DC. a power struggle is under way at the highest levels of government that will turn Deadpool’s world upside down. \n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33692",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/33692/deadpool_pulp_2010_3?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Deadpool-Pulp-3/digital-comic/17911?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=17911&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/17911?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/11602",
+          "name": "Deadpool Pulp (2010)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2010-11-24T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2010-11-13T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2011-11-16T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-08-07T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4cd05f48b2c8a",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4cd061f3856ea",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4cd061af863ec",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4cd0613b2723b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4cd0609f4f322",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/4cd060670a234",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4cd05f48b2c8a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33692/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9127",
+              "name": "Mike Benson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7978",
+              "name": "Adam Glass",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/645",
+              "name": "Laurence Campbell",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33692/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 33692
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/75536",
+              "name": "Cover #75536",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/75537",
+              "name": "Interior #75537",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33692/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 33694,
+        "digitalId": 16538,
+        "title": "Deadpool Pulp (2010) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2011-10-03T14:00:04-0400",
+        "isbn": "",
+        "upc": "5960607248-00211",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33694",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/33694/deadpool_pulp_2010_2?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Deadpool-Pulp-2/digital-comic/16538?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=16538&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/16538?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/11602",
+          "name": "Deadpool Pulp (2010)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2010-10-06T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2010-09-25T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2011-10-26T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-08-07T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4c98cbe995301",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4c98cbe995301",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4c98cbe37ab8b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/4c98cbdd375d9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4c98cbd74d36a",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4c98cbd15095d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4c98cbcace8ea",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33694/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9127",
+              "name": "Mike Benson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7978",
+              "name": "Adam Glass",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/645",
+              "name": "Laurence Campbell",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/56",
+              "name": "Jae Lee",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33694/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 33694
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/75540",
+              "name": "Cover #75540",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/75541",
+              "name": "Interior #75541",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33694/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 33695,
+        "digitalId": 15908,
+        "title": "Deadpool Pulp (2010) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Wade Wilson aka Deadpool. He’s the CIA’s deadliest agent, and he’s also suffering from multiple personality disorder. Wilson is also the only one capable of hunting down a rogue CIA agent and recovering a stolen nuclear suitcase.\n",
+        "modified": "2013-08-15T16:41:20-0400",
+        "isbn": "",
+        "upc": "5960607248-00111",
+        "diamondCode": "JUL100524",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Wade Wilson aka Deadpool. He’s the CIA’s deadliest agent, and he’s also suffering from multiple personality disorder. Wilson is also the only one capable of hunting down a rogue CIA agent and recovering a stolen nuclear suitcase.\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33695",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/33695/deadpool_pulp_2010_1?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Deadpool-Pulp-1/digital-comic/15908?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=15908&utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          },
+          {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/15908?utm_campaign=apiRef&utm_source=c60a23f273a09387e7d1ad4e6f828211"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/11602",
+          "name": "Deadpool Pulp (2010)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2010-09-01T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2010-08-21T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2011-09-26T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-08-07T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/520d3ccb6dc53",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/520d3ccb6dc53",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33695/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/56",
+              "name": "Jae Lee",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "name": "Lee Loughridge",
+              "role": "colorist"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33695/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": {
+            "service": "comic_issueStories",
+            "id": 33695
+          },
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/75542",
+              "name": "Cover #75542",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/75543",
+              "name": "Interior #75543",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/33695/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}
