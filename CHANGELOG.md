@@ -1,5 +1,17 @@
 ## Changelog
 
+### 0.0.8
+* Fixes a problem where the `Marvelite::API::Router` was replacing the value of its return path string when asked for a route. Thanks to [Patrick Hereford (@phereford)](https://github.com/phereford) for reporting the issue.
+
+### 0.0.7
+* Adds the following endpoints:
+  * retrieve stories by connecting to the API's `/stories` endpoint
+  * retieve a story by connecting to the API's `/stories/:id` enpoint
+  * retrieve story characters by connecting to the API's `/stories/:id/characters` endpoint.
+  * retrieve story comics by connecting to the API's `/stories/:id/comics` endpoint.
+  * retrieve story creators by connecting to the API's `/stories/:id/creators` endpoint.
+  * retrieve story events by connecting to the API's `/stories/:id/events` endpoint.
+
 ### 0.0.6
 * Rewrites `Marvelite::API::Client` to allow for self discovery of available methods, depending on the `Marvelite::API::Router` injected at initialization.
 * Adds the following endpoints:
