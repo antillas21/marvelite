@@ -1,9 +1,6 @@
 # Marvelite
 
-Simple wrapper to communicate with the Marvel Comics API.
-
-
-> **Important:** This is a work in progress. There's only two endpoints to connect to. I am working into incorporating all of Marvel Comics API endpoints.
+Simple Ruby wrapper to communicate with the Marvel Comics API.
 
 ## Installation
 
@@ -56,6 +53,16 @@ client.comic(40128)
 # fetch a list of comic characters
 client.comic_characters(40128)
 client.comic_characters(40128, :orderBy => 'name', :limit => 30, :offset => 20)
+
+# fetch a list of creators
+client.creators
+client.creators(:lastName => 'Romita')
+
+# fetch a creator
+client.creators(214)
+
+# fetch a creator comics
+client.creator_comics(214)
 
 # fetch a list of events
 client.events

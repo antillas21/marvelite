@@ -1,5 +1,16 @@
 ## Changelog
 
+### 0.0.9
+* Adds the following endpoints (contributed by: [Patrick Hereford (@phereford)](https://github.com/phereford)):
+  * retrieve creators by connecting to the API's `/creators` endpoint
+  * retieve a creator by connecting to the API's `/creators/:id` enpoint
+  * retrieve creator connecting to the API's `/creators/:id/comics` endpoint.
+  * retrieve creator events by connecting to the API's `/creators/:id/events` endpoint.
+  * retrieve creator series by connecting to the API's `/creators/:id/series` endpoint.
+  * retrieve creator stories by connecting to the API's `/creators/:id/stories` endpoint.
+* Pinpoints dependencies versions.
+
+
 ### 0.0.8
 * Fixes a problem where the `Marvelite::API::Router` was replacing the value of its return path string when asked for a route. Thanks to [Patrick Hereford (@phereford)](https://github.com/phereford) for reporting the issue.
 
