@@ -72,12 +72,17 @@ module Marvelite
       def fetch_response(route, params_hash = {})
         id = params_hash[:id]
         options = params_hash[:options]
+        path = find_path(route, id)
 
+        self.class.get(path, :query => params(options))
+      end
+
+      def find_path(route, id)
         if id.nil?
-          self.class.get(router.send("#{route}_path".to_sym), :query => params(options))
+          router.send("#{route}_path".to_sym)
         else
           id = fetch_resource_id(route, id) if id.is_a?(String)
-          self.class.get(router.send("#{route}_path".to_sym, {:id => id}), :query => params(options))
+          router.send("#{route}_path".to_sym, {:id => id})
         end
       end
 
