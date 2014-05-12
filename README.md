@@ -1,4 +1,7 @@
-# Marvelite
+# Marvelite [![Build Status][travis-badge]][travis]
+
+[travis-badge]: https://travis-ci.org/marvelite/marvelite.png
+[travis]: http://travis-ci.org/marvelite/marvelite
 
 Simple Ruby wrapper to communicate with the Marvel Comics API.
 
