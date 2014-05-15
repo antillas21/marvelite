@@ -12,13 +12,19 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Simple wrapper around the Marvel Comics API}
   spec.homepage      = ""
   spec.license       = "MIT"
+  spec.required_ruby_version = Gem::Requirement.new(">= 1.9.2")
 
   spec.files = Dir["{lib,spec}/**/*", "[A-Z]*"] - ["Gemfile.lock"]
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_path = "lib"
 
-  spec.add_dependency "httparty", "~> 0.12.0"
+  if RUBY_VERSION == '1.9.2'
+    spec.add_dependency "httparty", "0.8.3"
+  else
+    spec.add_dependency "httparty", "~> 0.12.0"
+  end
+
   spec.add_dependency "hashie", "~> 2.0.5"
 
   spec.add_development_dependency "bundler", "~> 1.3"
