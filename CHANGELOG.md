@@ -1,5 +1,8 @@
 ## Changelog
 
+### 1.0.0 (Not released yet)
+* Adds Travis CI support.
+
 ### 0.0.9
 * Adds the following endpoints (contributed by: [Patrick Hereford (@phereford)](https://github.com/phereford)):
   * retrieve creators by connecting to the API's `/creators` endpoint
