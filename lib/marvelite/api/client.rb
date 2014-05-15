@@ -1,23 +1,29 @@
 module Marvelite
   module API
     class Client
-      include ActiveModel::Model
       include HTTParty
       base_uri 'http://gateway.marvel.com'
 
       attr_accessor :public_key, :private_key, :router, :api_version
 
-      validates_presence_of :public_key
-      validates_presence_of :private_key
+      class InvalidClientError < StandardError; end
 
       def initialize(attrs)
-        super
+        check_for_errors(attrs)
+        @public_key = attrs.fetch(:public_key)
+        @private_key = attrs.fetch(:private_key)
         @api_version = attrs.fetch(:api_version) { 'v1' }
         @router = attrs.fetch(:router) { Marvelite.router(:api_version => @api_version) }
         build_methods
       end
 
       private
+      def check_for_errors(attrs)
+        [:public_key, :private_key].each do |key|
+          raise InvalidClientError, "You need to provide a :#{key} param." unless attrs[key]
+        end
+      end
+
       def params(additional_params = {})
         base_hash = { :apikey => public_key, :ts => ts, :hash => request_hash }
         additional_params.merge(base_hash)

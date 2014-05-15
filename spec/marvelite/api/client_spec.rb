@@ -3,13 +3,15 @@ require 'spec_helper'
 describe Marvelite::API::Client do
   describe 'initialization' do
     it 'requires a :public_key to be set' do
-      client = Marvelite::API::Client.new(:private_key => '12345')
-      expect(client).to_not be_valid
+      expect{ Marvelite::API::Client.new(:private_key => '12345') }.to raise_error(
+        Marvelite::API::Client::InvalidClientError, "You need to provide a :public_key param."
+      )
     end
 
     it 'requires a :private_key to be set' do
-      client = Marvelite::API::Client.new(:public_key => '1234')
-      expect(client).to_not be_valid
+      expect{ Marvelite::API::Client.new(:public_key => '1234') }.to raise_error(
+        Marvelite::API::Client::InvalidClientError, "You need to provide a :private_key param."
+      )
     end
 
     context 'valid' do
@@ -17,7 +19,9 @@ describe Marvelite::API::Client do
 
       describe '#api_version' do
         it 'receives an :api_version optional param' do
-          client = Marvelite::API::Client.new(:public_key => '1234', :private_key => 'abcd', :api_version => 'v1')
+          client = Marvelite::API::Client.new(
+            :public_key => '1234', :private_key => 'abcd', :api_version => 'v1'
+          )
           expect(client.api_version).to eq('v1')
         end
 
@@ -27,7 +31,7 @@ describe Marvelite::API::Client do
       end
 
       it 'is an instance of Marvelite::Client' do
-        expect(client).to be_valid
+        expect{ client }.to_not raise_error(Marvelite::API::Client::InvalidClientError)
         expect(client).to be_a(Marvelite::API::Client)
       end
 
@@ -57,7 +61,9 @@ describe Marvelite::API::Client do
 
       it 'passes required API params to all requests' do
         client.stub(:ts).and_return('1')
-        expect(client.send(:params)).to eq({:apikey => client.public_key, :ts => '1', :hash => 'ffd275c5130566a2916217b101f26150'})
+        expect(client.send(:params)).to eq(
+          {:apikey => client.public_key, :ts => '1', :hash => 'ffd275c5130566a2916217b101f26150'}
+        )
       end
     end
   end

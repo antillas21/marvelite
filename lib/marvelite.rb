@@ -1,4 +1,3 @@
-require 'active_model'
 require 'digest/md5'
 require 'httparty'
 require 'hashie'
