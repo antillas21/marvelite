@@ -8,5 +8,16 @@ module Marvelite
     end
 
     class ErrorResponse < Response; end
+
+    class NotModifiedResponse < Response
+      def initialize(response)
+        super({
+          status: 'Not Modified',
+          code: 304,
+          data: {},
+          etag: response.headers['etag']
+        })
+      end
+    end
   end
 end

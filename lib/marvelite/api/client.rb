@@ -40,9 +40,11 @@ module Marvelite
       end
 
       def build_response_object(response)
-        case response["code"]
+        case response.code
         when 200
           Response.new(response)
+        when 304
+          NotModifiedResponse.new(response)
         else
           ErrorResponse.new(response)
         end
@@ -53,6 +55,11 @@ module Marvelite
         return false unless response[:data][:count] > 0
         response[:id] = response[:data][:results][0][:id]
         response
+      end
+
+      def pull_headers(options)
+        headers = options.delete(:headers) || {}
+        [options, headers]
       end
 
       def process_arguments(*args)
@@ -66,15 +73,16 @@ module Marvelite
         else
           options = {}
         end
-        { id: id, options: options}
+        params, headers = pull_headers(options)
+        [{ id: id, options: params}, headers]
       end
 
-      def fetch_response(route, params_hash = {})
+      def fetch_response(route, params_hash = {}, headers = {})
         id = params_hash[:id]
         options = params_hash[:options]
         path = find_path(route, id)
 
-        self.class.get(path, :query => params(options))
+        self.class.get(path, query: params(options), headers: headers)
       end
 
       def find_path(route, id)
@@ -97,8 +105,8 @@ module Marvelite
         @router.routes.each do |_, hash|
           name = hash[:name]
           self.class.send(:define_method, name) do |*args|
-            params = process_arguments(*args)
-            response = fetch_response(name, params)
+            params, headers = process_arguments(*args)
+            response = fetch_response(name, params, headers)
             build_response_object(response)
           end
         end

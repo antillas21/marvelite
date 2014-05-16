@@ -34,4 +34,8 @@ RSpec.configure do |config|
     }.merge(options)
     FakeWeb.register_uri(:get, marvel_url(url), opts)
   end
+
+  def stub_304(url, etag)
+    FakeWeb.register_uri(:get, marvel_url(url), status: 304, body: '', etag: etag)
+  end
 end
