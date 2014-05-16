@@ -24,18 +24,16 @@ Or install it yourself as:
 * [Usage](#usage)
 * [Responses](#responses)
 
-
 ## Usage
 
-Please register first in the [Marvel Comics Developer Portal](http://developer.marvel.com/) to get your API credentials (a public key and a private key, you'll need them both to configure and instantiate a client).
+Please register first in the [Marvel Comics Developer
+Portal](http://developer.marvel.com/) to get your API credentials (a public key
+and a private key, you'll need them both to configure and instantiate a client).
 
 ### Instantiate a client
 
 ```ruby
-client = Marvelite::API::Client.new(
-  :public_key => 'abcd1234',
-  :private_key => '5678efgh'
-)
+client = Marvelite::API::Client.new( :public_key => 'abcd1234', :private_key => '5678efgh')
 
 # fetch a list of characters
 client.characters
@@ -107,12 +105,16 @@ client.story_comics(2210)
 client.story_comics(2210, :format => 'graphic novel', :orderBy => 'title', :limit => 10)
 ```
 
-See the list of [available methods](https://github.com/antillas21/marvelite/wiki/Documentation) in the wiki.
-
+See the list of [available
+methods](https://github.com/antillas21/marvelite/wiki/Documentation) in the
+wiki.
 
 ## Responses
 
-All requests to the API, return a `Marvelite::API::Response` object if successful or a `Marvelite::API::ErrorResponse` if API response returns an error. These objects are nothing more than the raw API response enhanced with Hashie methods.
+Most requests to the API, return a `Marvelite::API::Response` object if
+successful or a `Marvelite::API::ErrorResponse` if API response returns an
+error. These objects are nothing more than the raw API response enhanced with
+Hashie methods.
 
 This way you gain several adavantages to manipulate the response, like:
 
@@ -125,13 +127,6 @@ response["data"]["results"][0]["name"]
 response.data
 response.data[:results]
 ```
-
-
-
-## Todo
-
-* Add more endpoints
-
 
 ## Contributing
 
