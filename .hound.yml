@@ -1,0 +1,5 @@
+LineLength:
+  Description: 'Limit lines to 85 characters.'
+  max: 85
+HashSyntax:
+  EnforcedStyle: hash_rockets
