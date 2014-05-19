@@ -62,6 +62,24 @@ describe Marvelite::API::Client do
     end
   end
 
+  describe 'gzip compression support' do
+    let(:client) { marvelite_test_client }
+    let(:options) { {:id => 123} }
+
+    it 'is enabled by default' do
+      expect(client.send(:pull_headers, options)).to eq(
+        [{ :id => 123 }, { 'Accept-Encoding' => 'gzip' }]
+      )
+    end
+
+    it 'can be passed in explicitely' do
+      gzip_options = { :id => 234, :headers => { 'Accept-Encoding' => 'gzip' } }
+      expect(client.send(:pull_headers, gzip_options)).to eq(
+        [{ :id => 234 }, { 'Accept-Encoding' => 'gzip' }]
+      )
+    end
+  end
+
   context "private methods" do
     describe '#ts' do
       let(:client) { Marvelite::API::Client.new(:public_key => '1234', :private_key => 'abcd') }

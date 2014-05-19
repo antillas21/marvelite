@@ -59,6 +59,7 @@ module Marvelite
 
       def pull_headers(options)
         headers = options.delete(:headers) || {}
+        headers.merge!({ 'Accept-Encoding' => 'gzip' }) unless headers['Accept-Encoding']
         [options, headers]
       end
 

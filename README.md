@@ -140,6 +140,9 @@ second_response = client.series headers: { 'If-None-Match' => first_response.eta
 second_response.status # => 304
 ```
 
+Gzip compressed responses are enabled by default. But if you feel more
+comfortable passing it explicitely, you can do it like this:
+
 ```ruby
 gzipped_response = client.series(:headers => {'Accept-Encoding' => 'gzip'})
 #=> Faster response hash from Marvel's API series endpoint. :)

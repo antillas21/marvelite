@@ -1,5 +1,10 @@
 ## Changelog
 
+### 0.1.1
+* Gzipped responses are enabled by default.
+  * All API requests include `{ 'Accept-Encoding' = 'gzip' }` which translates
+    in faster and band-width conscious responses.
+
 ### 0.1.0
 * Adds Travis CI support.
 * Support for Etags and Gzip compression. Infinite thanks to [Jon Allured](https://github.com/jonallured) for this contribution.
