@@ -1,7 +1,9 @@
 ## Changelog
 
-### 1.0.0 (Not released yet)
+### 0.1.0
 * Adds Travis CI support.
+* Support for Etags and Gzip compression. Infinite thanks to [Jon Allured](https://github.com/jonallured) for this contribution.
+* Refactorings and cleanups, courtesy of [Jon Allured](https://github.com/jonallured)
 
 ### 0.0.9
 * Adds the following endpoints (contributed by: [Patrick Hereford (@phereford)](https://github.com/phereford)):

@@ -128,7 +128,7 @@ response.data
 response.data[:results]
 ```
 
-## Etags
+## Etags and Gzip support
 
 Support for Etags is built into every endpoint:
 
@@ -136,11 +136,15 @@ Support for Etags is built into every endpoint:
 first_response = client.series
 first_response.status # => 200
 
-second_response = client.series headers: { 'If-None-Modified' => first_response.etag }
+second_response = client.series headers: { 'If-None-Match' => first_response.etag }
 second_response.status # => 304
 ```
 
-In fact, any header can be set this way - including Gzip.
+```ruby
+gzipped_response = client.series(:headers => {'Accept-Encoding' => 'gzip'})
+#=> Faster response hash from Marvel's API series endpoint. :)
+```
+
 
 ## Contributing
 
