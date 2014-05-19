@@ -7,11 +7,17 @@ module Marvelite
       include Hashie::Extensions::IndifferentAccess
     end
 
-    class ErrorResponse < Hash
-      include Hashie::Extensions::MergeInitializer
-      include Hashie::Extensions::KeyConversion
-      include Hashie::Extensions::MethodAccess
-      include Hashie::Extensions::IndifferentAccess
+    class ErrorResponse < Response; end
+
+    class NotModifiedResponse < Response
+      def initialize(response)
+        super({
+          status: 'Not Modified',
+          code: 304,
+          data: {},
+          etag: response.headers['etag']
+        })
+      end
     end
   end
 end

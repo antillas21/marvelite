@@ -42,6 +42,26 @@ describe Marvelite::API::Client do
     end
   end
 
+  describe 'etags' do
+    let(:client) { marvelite_test_client }
+    let(:etag) { '64aceb407b735957130fce343bf4933ed21a7cfc' }
+
+    before do
+      stub_304('series?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', etag)
+    end
+
+    it 'returns a NotModifiedResponse' do
+      headers = { 'If-None-Match' => "\"#{etag}\"" }
+      response = client.series(headers: headers)
+
+      expect(response).to be_a Marvelite::API::NotModifiedResponse
+      expect(response.code).to eq(304)
+      expect(response.status).to eq("Not Modified")
+      expect(response.etag).to eq(etag)
+      expect(response.data).to eq({})
+    end
+  end
+
   context "private methods" do
     describe '#ts' do
       let(:client) { Marvelite::API::Client.new(:public_key => '1234', :private_key => 'abcd') }
