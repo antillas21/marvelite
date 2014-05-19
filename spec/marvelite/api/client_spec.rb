@@ -31,7 +31,7 @@ describe Marvelite::API::Client do
       end
 
       it 'is an instance of Marvelite::Client' do
-        expect{ client }.to_not raise_error(Marvelite::API::Client::InvalidClientError)
+        expect{ client }.to_not raise_error
         expect(client).to be_a(Marvelite::API::Client)
       end
 
