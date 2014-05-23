@@ -8,6 +8,17 @@ module Marvelite
 
       attr_reader :raw_response
 
+      def self.make(response)
+        case response.code
+        when 200
+          Response.new(response)
+        when 304
+          NotModifiedResponse.new(response)
+        else
+          ErrorResponse.new(response)
+        end
+      end
+
       def initialize(raw)
         @raw_response = raw
         super(raw)

@@ -40,14 +40,7 @@ module Marvelite
       end
 
       def build_response_object(response)
-        case response.code
-        when 200
-          Response.new(response)
-        when 304
-          NotModifiedResponse.new(response)
-        else
-          ErrorResponse.new(response)
-        end
+        Response.make(response)
       end
 
       def find_by_name_or_title(endpoint, column, value)
