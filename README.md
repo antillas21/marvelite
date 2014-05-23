@@ -128,6 +128,22 @@ response.data
 response.data[:results]
 ```
 
+You can always access the raw response returned by the API by calling the
+`#raw_response` attribute of the response. Example:
+
+```ruby
+hero = client.character(1009610)
+hero.raw_response
+#=> { "code"=>200, "status"=>"Ok", "copyright"=>"© 2014 MARVEL", ... }
+```
+Difference between `response` and `raw_reponse`, is that `raw_response` does
+not include `Hashie` helpers, and thus you need to navigate it as a plain old
+Hash.
+```ruby
+hero.raw_response['data'][0]['name']
+#=> "Spider-Man"
+```
+
 ## Etags and Gzip support
 
 Support for Etags is built into every endpoint:
