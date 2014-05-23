@@ -5,6 +5,13 @@ module Marvelite
       include Hashie::Extensions::KeyConversion
       include Hashie::Extensions::MethodAccess
       include Hashie::Extensions::IndifferentAccess
+
+      attr_reader :raw_response
+
+      def initialize(raw)
+        @raw_response = raw
+        super(raw)
+      end
     end
 
     class ErrorResponse < Response; end
