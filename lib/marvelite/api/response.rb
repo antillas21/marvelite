@@ -6,13 +6,11 @@ module Marvelite
       include Hashie::Extensions::MethodAccess
       include Hashie::Extensions::IndifferentAccess
 
-      def initialize(raw)
-        @raw = raw
-        super(raw)
-      end
+      attr_reader :raw_response
 
-      def raw_response
-        @raw.response
+      def initialize(raw)
+        @raw_response = raw
+        super(raw)
       end
     end
 
