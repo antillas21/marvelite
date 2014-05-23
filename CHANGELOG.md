@@ -1,5 +1,9 @@
 ## Changelog
 
+### 0.1.2
+* Adds `#raw_response` to store the original response from the API inside 
+  a `Marvelite::API::Response` instance. Author: [Jon Allured](https://github.com/jonallured)
+
 ### 0.1.1
 * Gzipped responses are enabled by default.
   * All API requests include `{ 'Accept-Encoding' = 'gzip' }` which translates
