@@ -1,5 +1,12 @@
 ## Changelog
 
+### 0.1.3
+* retrieve story series by connecting to the API's `/stories/:id/series` endpoint
+  (contributed by [O-I](https://github.com/O-I)).
+* Spec cleaning courtesy of [O-I](https://github.com/O-I).
+* Removed Rubinius from `.travis.yml`.
+
+
 ### 0.1.2
 * Adds `#raw_response` to store the original response from the API inside 
   a `Marvelite::API::Response` instance. Author: [Jon Allured](https://github.com/jonallured)
