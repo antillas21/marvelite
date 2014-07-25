@@ -112,3 +112,6 @@
 38:
   name: 'story_events'
   path: '/public/stories/:id/events'
+39:
+  name: 'story_series'
+  path: '/public/stories/:id/series'
