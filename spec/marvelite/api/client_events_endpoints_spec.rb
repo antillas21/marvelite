@@ -13,7 +13,7 @@ describe Marvelite::API::Client do
         expect(client.events).to be_a(Marvelite::API::Response)
       end
 
-      it 'Response object is populated with JSON from the events endpoint' do
+      it 'Response object is populated with JSON from the /events endpoint' do
         expect(client.events["status"]).to eq("Ok")
         expect(client.events[:data][:results].size).to eq(20)
       end
@@ -28,7 +28,7 @@ describe Marvelite::API::Client do
         expect(client.event(116)).to be_a(Marvelite::API::Response)
       end
 
-      it 'Response object is populated with JSON from the event endpoint' do
+      it 'Response object is populated with JSON from the /events/:id endpoint' do
         expect(client.event(116)[:data][:results][0][:title]).to eq('Acts of Vengeance!')
       end
 
@@ -50,7 +50,7 @@ describe Marvelite::API::Client do
         expect(client.event_characters(116)).to be_a(Marvelite::API::Response)
       end
 
-      it 'Response object is populated with JSON from the events endpoint' do
+      it 'Response object is populated with JSON from the /events/:id/characters endpoint' do
         expect(client.event_characters(116)["status"]).to eq("Ok")
         expect(client.event_characters(116)[:data][:results].size).to eq(20)
       end
@@ -73,7 +73,7 @@ describe Marvelite::API::Client do
         expect(client.event_comics(116)).to be_a(Marvelite::API::Response)
       end
 
-      it 'Response object is populated with JSON from the events endpoint' do
+      it 'Response object is populated with JSON from the /events/:id/comics endpoint' do
         expect(client.event_comics(116)["status"]).to eq("Ok")
         expect(client.event_comics(116)[:data][:results].size).to eq(20)
       end
@@ -96,7 +96,7 @@ describe Marvelite::API::Client do
         expect(client.event_creators(116)).to be_a(Marvelite::API::Response)
       end
 
-      it 'Response object is populated with JSON from the events endpoint' do
+      it 'Response object is populated with JSON from the /events/:id/creators endpoint' do
         expect(client.event_creators(116)["status"]).to eq("Ok")
         expect(client.event_creators(116)[:data][:results].size).to eq(20)
       end
@@ -119,7 +119,7 @@ describe Marvelite::API::Client do
         expect(client.event_series(116)).to be_a(Marvelite::API::Response)
       end
 
-      it 'Response object is populated with JSON from the events endpoint' do
+      it 'Response object is populated with JSON from the /events/:id/series endpoint' do
         expect(client.event_series(116)["status"]).to eq("Ok")
         expect(client.event_series(116)[:data][:results].size).to eq(20)
       end
@@ -142,7 +142,7 @@ describe Marvelite::API::Client do
         expect(client.event_stories(116)).to be_a(Marvelite::API::Response)
       end
 
-      it 'Response object is populated with JSON from the events endpoint' do
+      it 'Response object is populated with JSON from the /events/:id/stories endpoint' do
         expect(client.event_stories(116)["status"]).to eq("Ok")
         expect(client.event_stories(116)[:data][:results].size).to eq(20)
       end
