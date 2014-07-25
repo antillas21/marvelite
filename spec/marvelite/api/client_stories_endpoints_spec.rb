@@ -111,5 +111,24 @@ describe Marvelite::API::Client do
         expect(client.story_events(2210)[:data][:results][0][:title]).to eq('House of M')
       end
     end
+
+    describe '#story_series' do
+      before do
+        stub_get('stories/2210/series?apikey=123456&ts=1&hash=d4f1bab013916a533ef31e3ad5fb0887', 'stories/story_series.json')
+      end
+
+      it 'returns a Marvelite::API::Response object' do
+        expect(client.story_series(2210)).to be_a(Marvelite::API::Response)
+      end
+
+      it 'Response object is populated with JSON from the /stories/:id/series endpoint' do
+        expect(client.story_series(2210)["status"]).to eq("Ok")
+        expect(client.story_series(2210)[:data][:results].size).to eq(1)
+      end
+
+      it 'accepts an Integer as story id' do
+        expect(client.story_series(2210)[:data][:results][0][:title]).to eq('Wolverine (2003 - 2009)')
+      end
+    end
   end
 end

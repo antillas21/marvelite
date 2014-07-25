@@ -1,0 +1,440 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2014 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2014 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2014 MARVEL</a>",
+  "etag": "3b5201c90a6e0a421588e242f9b4f9fdcce9f870",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1,
+    "count": 1,
+    "results": [
+      {
+        "id": 632,
+        "title": "Wolverine (2003 - 2009)",
+        "description": "A new decade means new mayhem for the X-Men's wildest member! Revisit memorable stories like Mark Millar and John Romita Jr.'s \"Enemy of the State,\" featuring Logan as the Marvel Universe's worst nightmare, and \"Evolution\" by Jeph Loeb and Simone Bianchi, exploring the true history of Wolverine!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/632",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/632/wolverine_2003_-_2009?utm_campaign=apiRef&utm_source=94f945fe8833c9a96e6f761b60562a45"
+          }
+        ],
+        "startYear": 2003,
+        "endYear": 2009,
+        "rating": "Parental Advisory",
+        "type": "",
+        "modified": "2013-03-01T15:53:32-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/513114d9f116d",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 64,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/632/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "name": "Jason Aaron",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4014",
+              "name": "Axel Alonso",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/191",
+              "name": "Kaare Andrews",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+              "name": "Simone Bianchi",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/645",
+              "name": "Laurence Campbell",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+              "name": "Marko Djurdjevic",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/273",
+              "name": "Leandro Fernandez",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/808",
+              "name": "Howard Chaykin",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/429",
+              "name": "Carlos Alberto cruz Cuevas",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/589",
+              "name": "Nelson DeCastro",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/440",
+              "name": "Mark Farmer",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/638",
+              "name": "Edgar Clement",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+              "name": "Edgar Delgado",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/236",
+              "name": "Tommy Lee Edwards",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4258",
+              "name": "Studio F",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10454",
+              "name": "Nathan Fairbairn",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+              "name": "Randy Gentile",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+              "name": "Ron Garney",
+              "role": "artist"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 17,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/632/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009288",
+              "name": "Elektra"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009310",
+              "name": "Emma Frost"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009324",
+              "name": "Gorgon"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009508",
+              "name": "Kitty Pryde"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010954",
+              "name": "Mystique (House of M)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+              "name": "Nick Fury"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010797",
+              "name": "Nitro"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009430",
+              "name": "Rachel Grey"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009554",
+              "name": "Sabretooth"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009570",
+              "name": "Sentinel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+              "name": "Storm"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 17
+        },
+        "stories": {
+          "available": 210,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/632/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1050",
+              "name": "Cover #1050",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1051",
+              "name": "Interior #1051",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1498",
+              "name": "Cover #1498",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1499",
+              "name": "Interior #1499",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1766",
+              "name": "Cover #1766",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1767",
+              "name": "Interior #1767",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1802",
+              "name": "Cover #1802",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1803",
+              "name": "Interior #1803",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1911",
+              "name": "Cover #1911",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1912",
+              "name": "Interior #1912",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2153",
+              "name": "3 of 6 - Enemy of the State",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2154",
+              "name": "3 of 6 - Enemy of the State",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2166",
+              "name": "Cover #2166",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2167",
+              "name": "Interior #2167",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2168",
+              "name": "Cover #2168",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2169",
+              "name": "Interior #2169",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2170",
+              "name": "Cover #2170",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2171",
+              "name": "Interior #2171",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2172",
+              "name": "Cover #2172",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2173",
+              "name": "Interior #2173",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 95,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/632/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14225",
+              "name": "Wolverine (2003) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14236",
+              "name": "Wolverine (2003) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14247",
+              "name": "Wolverine (2003) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14259",
+              "name": "Wolverine (2003) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14264",
+              "name": "Wolverine (2003) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/234",
+              "name": "Wolverine (2003) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/233",
+              "name": "Wolverine (2003) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/268",
+              "name": "Wolverine (2003) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/231",
+              "name": "Wolverine (2003) #9"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/237",
+              "name": "Wolverine (2003) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/236",
+              "name": "Wolverine (2003) #11"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/427",
+              "name": "Wolverine (2003) #12"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/464",
+              "name": "Wolverine (2003) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/490",
+              "name": "Wolverine (2003) #14"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/658",
+              "name": "Wolverine (2003) #15"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/718",
+              "name": "Wolverine (2003) #16"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/527",
+              "name": "Wolverine (2003) #17"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/760",
+              "name": "Wolverine (2003) #18"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/828",
+              "name": "Wolverine (2003) #19"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/860",
+              "name": "Wolverine (2003) #20"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/632/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+              "name": "Civil War"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/245",
+              "name": "Enemy of the State"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+              "name": "House of M"
+            }
+          ],
+          "returned": 3
+        },
+        "next": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/7057",
+          "name": "Wolverine: Weapon X (2009 - Present)"
+        },
+        "previous": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2262",
+          "name": "Wolverine (1988 - 2003)"
+        }
+      }
+    ]
+  }
+}
