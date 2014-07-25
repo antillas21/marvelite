@@ -11,6 +11,10 @@ $LOAD_PATH.unshift(File.dirname(__FILE__))
 RSpec.configure do |config|
   FakeWeb.allow_net_connect = false
 
+  config.mock_with :rspec do |c|
+    c.syntax = [:should, :expect]
+  end
+
   def marvel_url(url)
     "http://gateway.marvel.com/v1/public/#{url}"
   end
