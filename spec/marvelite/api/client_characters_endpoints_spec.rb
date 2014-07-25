@@ -61,7 +61,7 @@ describe Marvelite::API::Client do
         expect(client.character_comics(1009610)[:data][:results][0][:title]).to eq('Superior Spider-Man (2013) #22')
       end
 
-      it 'accetps a String as character id' do
+      it 'accepts a String as character id' do
         expect(client.character_comics('Spider-Man')["status"]).to eq("Ok")
         expect(client.character_comics('Spider-Man')[:data][:results].size).to eq(20)
       end
@@ -85,7 +85,7 @@ describe Marvelite::API::Client do
         expect(client.character_events(1009610)[:data][:results][0][:title]).to eq('Acts of Vengeance!')
       end
 
-      it 'accetps a String as character id' do
+      it 'accepts a String as character id' do
         expect(client.character_comics('Spider-Man')["status"]).to eq("Ok")
         expect(client.character_comics('Spider-Man')[:data][:results].size).to eq(20)
       end
@@ -109,7 +109,7 @@ describe Marvelite::API::Client do
         expect(client.character_series(1009610)[:data][:results][0][:title]).to eq('A+X (2012 - Present)')
       end
 
-      it 'accetps a String as character id' do
+      it 'accepts a String as character id' do
         expect(client.character_comics('Spider-Man')["status"]).to eq("Ok")
         expect(client.character_comics('Spider-Man')[:data][:results].size).to eq(20)
       end
@@ -134,7 +134,7 @@ describe Marvelite::API::Client do
         expect(client.character_stories(1009610)[:data][:results][0][:title]).to eq('Interior #483')
       end
       
-      it 'accetps a String as character id' do
+      it 'accepts a String as character id' do
         expect(client.character_comics('Spider-Man')["status"]).to eq("Ok")
         expect(client.character_comics('Spider-Man')[:data][:results].size).to eq(20)
       end
